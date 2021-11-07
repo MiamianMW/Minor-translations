@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Aradraen: Fletcher</key>
+	<val>Vivek, Aradraen: Fleczer</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^furn_bannerd_wa_shop_aradraen</key>
+	<val>Aradraen: Fleczer</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^chest_small_02_arad1</key>
+	<val>Mała skrzynia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^chest_small_02_arad2</key>
+	<val>Mała skrzynia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^com_chest_02_v_adradra1</key>
+	<val>Skrzynia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^com_chest_02_v_adradra2</key>
+	<val>Skrzynia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^com_chest_02_v_adradra3</key>
+	<val>Skrzynia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^aradraen</key>
+	<val>Aradraen</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_firestorm_arrow</key>
+	<val>Okrutna Strzała Ognistej Burzy</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_firestorm_bolt</key>
+	<val>Okrutny Bełt Ognistej Burzy</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_firestorm_dart</key>
+	<val>Okrutna Rzutka Ognistej Burzy</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_firestorm_star</key>
+	<val>Okrutna Gwiazda Ognistej Burzy</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_frostbloom_arrow</key>
+	<val>Okrut. Strzała Lodowego Kwiecia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_frostbloom_bolt</key>
+	<val>Okrutny Bełt Lodowego Kwiecia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_frostbloom_dart</key>
+	<val>Okrutna Rzutka Lodowego Kwiecia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_frostbloom_star</key>
+	<val>Okrut. Gwiazda Lodowego Kwiecia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_poisonbloom_arrow</key>
+	<val>Okr. Strzała Trującego Kwiecia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_poisonbloom_bolt</key>
+	<val>Okrut. Bełt Trującego Kwiecia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_poisonbloom_dart</key>
+	<val>Okrut. Rzutka Trującego Kwiecia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_poisonbloom_star</key>
+	<val>Okr. Gwiazda Trującego Kwiecia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_shockbloom_arrow</key>
+	<val>Okr. Strzała Kwiecia Błyskawic</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_shockbloom_bolt</key>
+	<val>Okrut. Bełt Kwiecia Błyskawic</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_shockbloom_dart</key>
+	<val>Okrut. Rzutka Kwiecia Błyskawic</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_shockbloom_star</key>
+	<val>Okr. Gwiazda Kwiecia Błyskawic</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_firestorm_arrow</key>
+	<val>Zabój. Strzała Ognistej Burzy</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_firestorm_bolt</key>
+	<val>Zabójczy Bełt Ognistej Burzy</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_firestorm_dart</key>
+	<val>Zabójcza Rzutka Ognistej Burzy</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_firestorm_star</key>
+	<val>Zabój. Gwiazda Ognistej Burzy</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_frostbloom_arrow</key>
+	<val>Zabój. Strzała Lodowego Kwiecia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_frostbloom_bolt</key>
+	<val>Zabój. Bełt Lodowego Kwiecia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_frostbloom_dart</key>
+	<val>Zabój. Rzutka Lodowego Kwiecia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_frostbloom_star</key>
+	<val>Zabój. Gwiazda Lodowego Kwiecia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_poisonbloom_arrow</key>
+	<val>Zab. Strzała Trującego Kwiecia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_poisonbloom_bolt</key>
+	<val>Zabój. Bełt Trującego Kwiecia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_poisonbloom_dart</key>
+	<val>Zabój. Rzutka Trującego Kwiecia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_poisonbloom_star</key>
+	<val>Zab. Gwiazda Trującego Kwiecia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_shockbloom_arrow</key>
+	<val>Zab. Strzała Kwiecia Błyskawic</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_shockbloom_bolt</key>
+	<val>Zabój. Bełt Kwiecia Błyskawic</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_shockbloom_dart</key>
+	<val>Zabój. Rzutka Kwiecia Błyskawic</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_shockbloom_star</key>
+	<val>Zab. Gwiazda Kwiecia Błyskawic</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dread_firestorm_arrow</key>
+	<val>Strasz. Strzała Ognistej Burzy</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dread_frostbloom_arrow</key>
+	<val>Str. Strzała Lodowego Kwiecia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dread_poisonbloom_arrow</key>
+	<val>Str. Strzała Trującego Kwiecia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dread_shockbloom_arrow</key>
+	<val>Str. Strzała Kwiecia Błyskawic</val>
+</record>

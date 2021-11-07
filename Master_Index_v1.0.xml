@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<record>
+	<_id>DIAL</_id>
+	<key>Berandas</key>
+	<val>Berandas</val>
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>Falasmaryon</key>
+	<val>Falasmaryon</val>
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>Hlormaren</key>
+	<val>Hlormaren</val>
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>Indoranyon</key>
+	<val>Indoranyon</val>
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>Marandus</key>
+	<val>Marandus</val>
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>Telasero</key>
+	<val>Telasero</val>
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>Valenvaryon</key>
+	<val>Valenvaryon</val>
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>propylon index</key>
+	<val>indeks portalu</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^index_master</key>
+	<val>Główny indeks portalu</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^10578302781805425225</key>
+	<val>Przychodzisz po kolejne obowiązki, %PCName? A może interesuje cię praca dla mnie?</val>
+	<!-- Hyperlinks: [duties -> obowiązki] [work -> praca]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^111402261359917831</key>
+	<val>Mnie szukasz? Czy chcesz dołączyć do gildii magów? A może interesuje cię praca dla mnie?</val>
+	<!-- Hyperlinks: [Mages Guild -> gildia magów] [join the Mages Guild -> dołączyć do gildii magów] [work -> praca]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^12297226801330610596</key>
+	<val>Czym mogę ci służyć, %PCName? Może zainteresuje cię praca dla mnie?</val>
+	<!-- Hyperlinks: [work -> praca]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^12690224821694316719</key>
+	<val>Mnie szukasz? Czy chcesz dołączyć do gildii magów? A może sprowadza cię tu zlecona przeze mnie praca?</val>
+	<!-- Hyperlinks: [Mages Guild -> gildia magów] [join the Mages Guild -> dołączyć do gildii magów] [work -> praca]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^13376119851154926801</key>
+	<val>Czym mogę ci służyć, %PCName? Czy sprowadza cię tu zlecona przeze mnie praca?</val>
+	<!-- Hyperlinks: [work -> praca]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^17495165722579623008</key>
+	<val>Przychodzisz po kolejne obowiązki, %PCName? A może sprowadza cię tu zlecona przeze mnie praca?</val>
+	<!-- Hyperlinks: [duties -> obowiązki] [work -> praca]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^2146127315156412736</key>
+	<val>Przychodzisz po kolejne obowiązki, %PCName? A może sprowadza cię tu zlecona przeze mnie praca?</val>
+	<!-- Hyperlinks: [duties -> obowiązki] [work -> praca]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^2443368472828827142</key>
+	<val>Mnie szukasz? Czy chcesz dołączyć do gildii magów? A może sprowadza cię tu zlecona przeze mnie praca?</val>
+	<!-- Hyperlinks: [Mages Guild -> gildia magów] [join the Mages Guild -> dołączyć do gildii magów] [work -> praca]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^24576266302597724067</key>
+	<val>Czym mogę ci służyć, %PCName? A może sprowadza cię tu zlecona przeze mnie praca?</val>
+	<!-- Hyperlinks: [work -> praca]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^1262032611271120297</key>
+	<val>Folms Mirel zapłacił mi 500 sztuk złota za indeks portalu Valenvaryon. Teraz potrzebny mu będzie indeks portalu Indoranyon. Divayth Fyr, stary i potężny czarodziej Telvanni zamieszkujący wieżę Tel Fyr, raczej nie zechce się z nim rozstać.</val>
+	<!-- Hyperlinks: [Divayth Fyr -> Divayth Fyr] [Tel Fyr -> Tel Fyr] [need -> potrzeba]
+	   Glossary: [Wizard -> Czarodziej]
+	   Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^132591344352143527</key>
+	<val>Folms Mirel zapłacił mi 500 sztuk złota za indeks portalu Hlormaren. Teraz potrzebny mu będzie indeks portalu Marandus. Został spakowany i dostarczony do Świątyni św. Olmsa w Vivek. Folms Mirel kazał mi rozglądać się za pustymi skrzyniami w magazynie. Muszę zrobić to z należytą starannością - indeks jest mały, szary i łatwo przegapić go w półmroku.</val>
+	<!-- Hyperlinks: [Hlormar -> Hlormar] [Mara -> Mara] [Temple -> Świątynia] [Vivec -> Vivek] [need -> potrzeba] [rat -> szczur]
+	   Glossary: [Rat -> szczur]
+	   Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^1419216633316847514</key>
+	<val>Folms Mirel zapłacił mi 500 sztuk złota za indeks portalu Indoranyon. Teraz potrzebny mu będzie indeks portalu Berandas. Znajduje się w posiadaniu czarodzieja Baladasa Demnevanniego z Gnisis. Jego wieża zwana jest Arvs Drelen. Mieszkańcy Gnisis obawiają się go, ale skoro mieszka między nimi od tylu lat, to chyba nie może być aż taki zły.</val>
+	<!-- Hyperlinks: [Baladas -> Baladas] [Gnisis -> Gnisis] [need -> potrzeba]
+	   Glossary: [Wizard -> Czarodziej]
+	   Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^1621294992722025146</key>
+	<val>Folms Mirel zapłacił mi 500 sztuk złota za indeks portalu Falasmaryon. Teraz potrzebny mu będzie indeks portalu Valenvaryon. Nibani Maesa, Wieszczka plemienia Popielnych z obozu Urshilaku, ma przy sobie ten indeks. Może nie być świadoma jego wartości i zgodzi się sprzedać go za bezcen.</val>
+	<!-- Hyperlinks: [Urshilaku -> Urshilaku] [Urshilaku camp -> obóz Urshilaku] [need -> potrzeba]
+	   Glossary:
+	   Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^1784519246761225725</key>
+	<val>Folms Mirel zapłacił mi 500 sztuk złota za indeks portalu Marandus. Teraz potrzebny mu będzie indeks portalu Falasmaryon. Pielgrzym złożył go w ofierze przy kaplicy w Maar Gan.</val>
+	<!-- Hyperlinks: [Maar Gan -> Maar Gan] [Mara -> Mara] [need -> potrzeba] [ring -> pierścień]
+	   Glossary:
+	   Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^225026164661014075</key>
+	<val>Folms Mirel zapłacił mi 500 sztuk złota za indeks portalu Telasero. Podarował mi też główny indeks portalu. Od teraz, kiedy tylko zechcę udać się do dunmerskiej twierdzy, wystarczy, że porozmawiam z Mirelem. Przy pomocy głównego indeksu przeniesie mnie bezpośrednio do wybranej twierdzy. Aby wrócić wprost do Caldery muszę jedynie aktywować dowolny portal mając główny indeks w kieszeni.</val>
+	<!-- Hyperlinks: [Caldera -> Caldera] [Dunmer -> Dunmerowie] [stronghold -> twierdza]
+	   Glossary: [Master -> Mistrz]
+	   Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^256192751730832936</key>
+	<val>Folms Mirel zapłacił mi 500 sztuk złota za indeks portalu Berandas. Teraz potrzebny mu będzie indeks portalu Andasreth. Należy do sprawiającej wieczne problemy mrocznej elfki imieniem Brilnosu Llarys, niestety nie nosi go przy sobie. Za kryjówkę obrała sobie kopułę na szczycie dunmerskiej twierdzy Hlormaren, położonej na wybrzeżu, na zachód od Balmory. W czasie poszukiwań indeksu muszę zachować wyjątkową ostrożność.</val>
+	<!-- Hyperlinks: [Andasreth -> Andasreth] [Balmora -> Balmora] [Brilnosu Llarys -> Brilnosu Llarys] [Dunmer -> Dunmerowie] [Hlormar -> Hlormar] [need -> potrzeba] [stronghold -> twierdza]
+	   Glossary:
+	   Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^26505221271893117980</key>
+	<val>Folms Mirel zapłacił mi 500 sztuk złota za indeks portalu Andasreth. Teraz potrzebny mu będzie indeks portalu Rotheran. Ma go Rols Ienith, obłąkany banita, który zapewne odda go jedynie "po swoim trupie". Mieszka we wspólnym domu na szczycie Rotheran, dunmerskiej twierdzy położonej na południowym cyplu wyspy Dagon Fel.</val>
+	<!-- Hyperlinks: [Andasreth -> Andasreth] [Dagon Fel -> Dagon Fel] [Dunmer -> Dunmerowie] [Ienith -> Ienith] [Rotheran -> Rotheran] [law -> prawo] [need -> potrzeba] [stronghold -> twierdza] [tip -> napiwek]
+	   Glossary:
+	   Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^27364444976122592</key>
+	<val>Folms Mirel zapłacił mi 500 sztuk złota za indeks portalu Rotheran. Teraz potrzebny mu będzie indeks portalu Falensarano. Należał do cudzoziemca imieniem Hunnen, którego po raz ostatni widziano na szlaku prowadzącym do Maelkashishi, daedrycznej kaplicy położonej na zachód od Maar Gan. Hunnen prawdopodobnie nie żyje, a odnalezienie jego ciała i indeksu raczej nie będzie łatwym zadaniem.</val>
+	<!-- Hyperlinks: [Daedric -> daedryczne] [Falensarano -> Falensarano] [Maar Gan -> Maar Gan] [Maelkashishi -> Maelkashishi] [Rotheran -> Rotheran] [Shishi -> Shishi] [need -> potrzeba] [outlander -> obcy]
+	   Glossary: [Tough -> Twardziel]
+	   Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^435432336549732471</key>
+	<val>Folms Mirel zapłacił mi 500 sztuk złota za indeks portalu Falensarano. Został jeszcze jeden - indeks portalu Telasero. Znaleźć go można w Telasero, dunmerskiej twierdzy położonej między miastami Suran i Molag Mar, na południowym wybrzeżu regionu Molag Amur. Indeks ukryto w mrocznym miejscu między wieloma innymi przedmiotami.</val>
+	<!-- Hyperlinks: [Dunmer -> Dunmerowie] [Falensarano -> Falensarano] [Molag Amur -> Molag Amur] [Molag Mar -> Molag Mar] [Suran -> Suran] [stronghold -> twierdza]
+	   Glossary:
+	   Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^977086423504898</key>
+	<val>Folms Mirel z gildii magów w Calderze zapłaci mi 500 sztuk złota za każdy dostarczony mu indeks portalu. Zdradzi mi, gdzie można znaleźć jeden z nich, a kiedy mu go przyniosę, opowie mi o kolejnym. Kiedy będzie miał już wszystkie dziesięć, wykona dla mnie główny indeks portalu, dzięki któremu będę w stanie podróżować do wszystkich dunmerskich twierdz na Vvardenfell. Pierwszy indeks, pozwalający na podróż do twierdzy Hlormaren, znajduje się w posiadaniu Irgoli, właściciela lombardu w Calderze.</val>
+	<!-- Hyperlinks: [Caldera -> Caldera] [Dunmer -> Dunmerowie] [Hlormar -> Hlormar] [Irgola -> Irgola] [Mages Guild -> gildia magów] [Vvardenfell -> Vvardenfell] [ring -> pierścień] [stronghold -> twierdza]
+	   Glossary: [Master -> Mistrz]
+	   Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Andasreth^1021312775260291252</key>
+	<val>Nie mogę wysłać cię do Andasreth, jeśli nie masz przy sobie głównego indeksu.</val>
+	<!-- Hyperlinks: [Andasreth -> Andasreth]
+	   Glossary: [Master -> Mistrz]
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Andasreth^21766177361576431281</key>
+	<val>Kiedy tylko zechcesz...</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Andasreth^2203285845729666</key>
+	<val>Zatem w drogę...</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Andasreth^221232345276131490</key>
+	<val>Czy chcesz udać się do Andasreth?</val>
+	<!-- Hyperlinks: [Andasreth -> Andasreth]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Berandas^15484214041789229376</key>
+	<val>Czy chcesz udać się do Berandas?</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Berandas^1681331238129595496</key>
+	<val>Nie mogę wysłać cię do Berandas, jeśli nie masz przy sobie głównego indeksu.</val>
+	<!-- Hyperlinks:
+	   Glossary: [Master -> Mistrz]
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Berandas^19201280982713925042</key>
+	<val>Zatem w drogę...</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Berandas^31452220057262378</key>
+	<val>Kiedy tylko zechcesz...</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Falasmaryon^21687238681682613614</key>
+	<val>Czy chcesz udać się do Falasmaryon?</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Falasmaryon^28003807723223313</key>
+	<val>Zatem w drogę...</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Falasmaryon^2850516005129913305</key>
+	<val>Kiedy tylko zechcesz...</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Falasmaryon^29116298723129010224</key>
+	<val>Nie mogę wysłać cię do Falasmaryon, jeśli nie masz przy sobie głównego indeksu.</val>
+	<!-- Hyperlinks:
+	   Glossary: [Master -> Mistrz]
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Falensarano^1693428742262414990</key>
+	<val>Kiedy tylko zechcesz...</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Falensarano^2445025905398211113</key>
+	<val>Zatem w drogę...</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Falensarano^28422561038584505</key>
+	<val>Czy chcesz udać się do Falensarano?</val>
+	<!-- Hyperlinks: [Falensarano -> Falensarano]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Falensarano^577412582176066263</key>
+	<val>Nie mogę wysłać cię do Falensarano, jeśli nie masz przy sobie głównego indeksu.</val>
+	<!-- Hyperlinks: [Falensarano -> Falensarano]
+	   Glossary: [Master -> Mistrz]
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Hlormaren^1249815187281437959</key>
+	<val>Czy chcesz udać się do Hlormaren?</val>
+	<!-- Hyperlinks: [Hlormar -> Hlormar]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Hlormaren^25020321821407113475</key>
+	<val>Kiedy tylko zechcesz...</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Hlormaren^26517319421673121762</key>
+	<val>Nie mogę wysłać cię do Hlormaren, jeśli nie masz przy sobie głównego indeksu.</val>
+	<!-- Hyperlinks: [Hlormar -> Hlormar]
+	   Glossary: [Master -> Mistrz]
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Hlormaren^458819095130128730</key>
+	<val>Zatem w drogę...</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Indoranyon^1074418304195614644</key>
+	<val>Zatem w drogę...</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Indoranyon^10955226441727721250</key>
+	<val>Kiedy tylko zechcesz...</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Indoranyon^10973283811730524164</key>
+	<val>Nie mogę wysłać cię do Indoranyon, jeśli nie masz przy sobie głównego indeksu.</val>
+	<!-- Hyperlinks:
+	   Glossary: [Master -> Mistrz]
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Indoranyon^318811439966031130</key>
+	<val>Czy chcesz udać się do Indoranyon?</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Marandus^2091315552828311608</key>
+	<val>Kiedy tylko zechcesz...</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Marandus^2360485621455730623</key>
+	<val>Zatem w drogę...</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Marandus^2728940942982715492</key>
+	<val>Nie mogę wysłać cię do Marandus, jeśli nie masz przy sobie głównego indeksu.</val>
+	<!-- Hyperlinks: [Mara -> Mara]
+	   Glossary: [Master -> Mistrz]
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Marandus^3297259922670426768</key>
+	<val>Czy chcesz udać się do Marandus?</val>
+	<!-- Hyperlinks: [Mara -> Mara]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Rotheran^23205147582745226600</key>
+	<val>Zatem w drogę...</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Rotheran^2895312243682321155</key>
+	<val>Kiedy tylko zechcesz...</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Rotheran^350930662239814868</key>
+	<val>Nie mogę wysłać cię do Rotheran, jeśli nie masz przy sobie głównego indeksu.</val>
+	<!-- Hyperlinks: [Rotheran -> Rotheran]
+	   Glossary: [Master -> Mistrz]
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Rotheran^517729084258077147</key>
+	<val>Czy chcesz udać się do Rotheran?</val>
+	<!-- Hyperlinks: [Rotheran -> Rotheran]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Telasero^10025165302849626667</key>
+	<val>Kiedy tylko zechcesz...</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Telasero^212328022152231098</key>
+	<val>Zatem w drogę...</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Telasero^22263481626691333</key>
+	<val>Czy chcesz udać się do Telasero?</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Telasero^24842170691077516960</key>
+	<val>Nie mogę wysłać cię do Telasero, jeśli nie masz przy sobie głównego indeksu.</val>
+	<!-- Hyperlinks:
+	   Glossary: [Master -> Mistrz]
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Valenvaryon^1912424620847430306</key>
+	<val>Zatem w drogę...</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Valenvaryon^2259224481247439100</key>
+	<val>Kiedy tylko zechcesz...</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Valenvaryon^27636160319522753</key>
+	<val>Czy chcesz udać się do Valenvaryon?</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Valenvaryon^576425447125297052</key>
+	<val>Nie mogę wysłać cię do Valenvaryon, jeśli nie masz przy sobie głównego indeksu.</val>
+	<!-- Hyperlinks:
+	   Glossary: [Master -> Mistrz]
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^14060209922677313404</key>
+	<val>Oto 500 sztuk złota za indeks Andasreth. Teraz potrzebny mi będzie indeks portalu Rotheran. Ma go Rols Ienith, obłąkany banita, i zapewne odda go jedynie "po swoim trupie". Mieszka w miejscu zwanym "wspólnym domem" na szczycie Rotheran, dunmerskiej twierdzy położonej na południowym cyplu wyspy Dagon Fel.</val>
+	<!-- Hyperlinks: [Andasreth -> Andasreth] [Dagon Fel -> Dagon Fel] [Dunmer -> Dunmerowie] [Ienith -> Ienith] [Rotheran -> Rotheran] [law -> prawo] [ring -> pierścień] [stronghold -> twierdza] [tip -> napiwek]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^14218155321035625567</key>
+	<val>Dobrze. Oto 500 sztuk złota. Teraz przynieś mi indeks portalu Andasreth. Należy do sprawiającej wieczne problemy mrocznej elfki imieniem Brilnosu Llarys, ale udało mi się dowiedzieć, że nie nosi go przy sobie. Za kryjówkę obrała sobie kopułę na szczycie dunmerskiej twierdzy zwanej Hlormaren, położonej na wybrzeżu, na zachód od Balmory. W czasie poszukiwań indeksu musisz zachować wyjątkową ostrożność.</val>
+	<!-- Hyperlinks: [Andasreth -> Andasreth] [Balmora -> Balmora] [Brilnosu Llarys -> Brilnosu Llarys] [Dunmer -> Dunmerowie] [Hlormar -> Hlormar] [ring -> pierścień] [stronghold -> twierdza]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^14378124993178824558</key>
+	<val>Najpierw przynieś mi indeks portalu Hlormaren. Później porozmawiamy o kolejnych.</val>
+	<!-- Hyperlinks: [Hlormar -> Hlormar] [Talk -> porozmawiać] [ring -> pierścień]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^14667284622761317333</key>
+	<val>Oto 500 sztuk złota za indeks Indoranyon. Teraz przynieś mi indeks portalu Berandas. Wiem jedynie, że znajduje się w posiadaniu czarodzieja Baladasa Demnevanniego z Gnisis. Jego wieża zwana jest Arvs Drelen. Mieszkańcy Gnisis obawiają się go, ale skoro mieszka między nimi od tylu lat, to chyba nie może być aż taki zły.</val>
+	<!-- Hyperlinks: [Baladas -> Baladas] [Gnisis -> Gnisis] [ring -> pierścień]
+	   Glossary: [Wizard -> Czarodziej]
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^1821232444801730616</key>
+	<val>Czynimy zdumiewające postępy. Oto twoje 500 sztuk złota. Teraz potrzebny mi będzie indeks portalu Falasmaryon. Pielgrzym nie mający pojęcia o jego wartości złożył go w ofierze przy kaplicy w Maar Gan. Odzyskanie indeksu nie powinno sprawić żadnych trudności komuś takiemu jak ty.</val>
+	<!-- Hyperlinks: [Maar Gan -> Maar Gan] [present -> prezent] [ring -> pierścień]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^182916691174130199</key>
+	<val>Najpierw przynieś mi indeks portalu Falasmaryon. Później porozmawiamy o kolejnych.</val>
+	<!-- Hyperlinks: [Talk -> porozmawiać] [ring -> pierścień]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^1875325647288445966</key>
+	<val>Dobrze. Przynieś mi indeks portalu Hlormaren, a ja zapłacę za niego 500 sztuk złota. To niewielki, szary i podłużny przedmiot wielkości klucza. Dowiedziałem się, że ma go Irgola, właściciel lombardu tutaj, w Calderze, trzy budynki na prawo od nas. Indeks nie jest zaklęty ani nic w tym stylu, więc nie próbuj nawet używać czaru Wykrycia Zaklętych Przedmiotów do jego zlokalizowania.</val>
+	<!-- Hyperlinks: [Caldera -> Caldera] [Hlormar -> Hlormar] [Irgola -> Irgola] [enchant -> zaklinanie] [enchantment -> urok] [ring -> pierścień]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^194974407318995109</key>
+	<val>Najpierw przynieś mi indeks portalu Indoranyon. Później porozmawiamy o kolejnych.</val>
+	<!-- Hyperlinks: [Talk -> porozmawiać] [ring -> pierścień]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^1963420149310967942</key>
+	<val>Rozumiem. Może innym razem.</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^21027141122167519323</key>
+	<val>Najpierw przynieś mi indeks portalu Falensarano. Później porozmawiamy o kolejnych.</val>
+	<!-- Hyperlinks: [Falensarano -> Falensarano] [Talk -> porozmawiać] [ring -> pierścień]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^2252913641207624560</key>
+	<val>Wreszcie mam wszystkie indeksy. Oto twoje 500 sztuk złota i główny indeks. Zdradzę ci teraz jak on działa. Jeśli chcesz udać się do twierdzy Dunmerów, po prostu porozmawiaj ze mną i przynieś ze sobą główny indeks. Wyślę cię do którejkolwiek twierdzy zechcesz. A jeśli chodzi o podróż powrotną, to wystarczy, że aktywujesz dowolny portal mając przy sobie swój główny indeks, a trafisz bezpośrednio do mnie.</val>
+	<!-- Hyperlinks: [Dunmer -> Dunmerowie] [ring -> pierścień] [stronghold -> twierdza] [work -> praca]
+	   Glossary: [Master -> Mistrz]
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^2554525040468637</key>
+	<val>Nasza praca została ukończona. Udało ci się dostarczyć mi wszystkie indeksy portali, za co nagrodziłem cię głównym indeksem. Teraz mogę wysłać cię do której tylko twierdzy zechcesz i kiedy tylko zechcesz. Wystarczy, że wymienisz nazwę twierdzy - Hlormaren, Marandus, Falasmaryon, Valenvaryon, Indoranyon, Berandas, Andasreth, Rotheran, Falensarano lub Telasero - and ja cię tam przeniosę.</val>
+	<!-- Hyperlinks: [Andasreth -> Andasreth] [Falensarano -> Falensarano] [Hlormar -> Hlormar] [Mara -> Mara] [Rotheran -> Rotheran] [stronghold -> twierdza] [work -> praca]
+	   Glossary: [Master -> Mistrz]
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^27552107252387018016</key>
+	<val>Oto 500 sztuk złota. Teraz przynieś mi indeks portalu Valenvaryon. Ma go Nibani Maesa, Wieszczka plemienia Popielnych z obozu Urshilaku. Może nie być świadoma jego wartości i zgodzi się sprzedać go za bezcen.</val>
+	<!-- Hyperlinks: [Urshilaku -> Urshilaku] [Urshilaku camp -> obóz Urshilaku] [ring -> pierścień]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^27820212262370130451</key>
+	<val>Został jeszcze tylko jeden. Przynieś mi indeks portalu Telasero, a wtedy ja będę w stanie wykonać dla ciebie główny indeks, pozwalający na natychmiastowe podróże do dowolnej z twierdz Dunmerów.</val>
+	<!-- Hyperlinks: [Dunmer -> Dunmerowie] [ring -> pierścień] [stronghold -> twierdza]
+	   Glossary: [Master -> Mistrz]
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^29795105121702117571</key>
+	<val>Oto 500 sztuk złota za indeks portalu Falensarano. Został jeszcze jeden - indeks portalu Telasero. Znaleźć go można w Telasero, dunmerskiej twierdzy położonej między miastami Suran i Molag Mar, na południowym wybrzeżu regionu Molag Amur. Wiem tylko tyle, że indeks ukryto w mrocznym miejscu między wieloma innymi przedmiotami. To raczej niezbyt przydatna wskazówka. Uważaj na siebie, słyszałem, że to bardzo, bardzo niebezpieczne miejsce.</val>
+	<!-- Hyperlinks: [Dunmer -> Dunmerowie] [Falensarano -> Falensarano] [Molag Amur -> Molag Amur] [Molag Mar -> Molag Mar] [Suran -> Suran] [stronghold -> twierdza]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^3046249381472296</key>
+	<val>Mam dla ciebie propozycję. Starożytni Dunmerowie stworzyli dziesięć artefaktów teleportacyjnych zwanych "indeksami portali". Zdradzę ci, gdzie można znaleźć jeden z nich, a kiedy mi go przyniesiesz, zapłacę ci 500 sztuk złota i opowiem o kolejnym. Kiedy będę miał już wszystkie dziesięć, wykonam dla ciebie główny indeks portalu, dzięki któremu będziesz w stanie podróżować między Calderą a wszystkimi dunmerskimi twierdzami na Vvardenfell. Czy chcesz wiedzieć, gdzie znaleźć pierwszy z nich?</val>
+	<!-- Hyperlinks: [Caldera -> Caldera] [Vvardenfell -> Vvardenfell] [proposition -> propozycja] [ring -> pierścień]
+	   Glossary: [Master -> Mistrz]
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^3080311244280837441</key>
+	<val>Najpierw przynieś mi indeks portalu Marandus. Później porozmawiamy o kolejnych.</val>
+	<!-- Hyperlinks: [Mara -> Mara] [Talk -> porozmawiać] [ring -> pierścień]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^3170312963023711763</key>
+	<val>Doskonale. Oto twoje 500 sztuk złota. Teraz przynieś mi indeks portalu Marandus. Dowiedziałem się, że został spakowany wraz z innymi rzeczami i dostarczony do Świątyni św. Olmsa w Vivek. Oczywiście ci kapłani nie mają pojęcia o jego wartości. Możliwe, że zwyczajnie rzucili go gdzieś w kąt. Rozejrzyj się za pustymi skrzyniami w magazynie. Zrób to z należytą starannością - indeks jest mały, szary i łatwo przegapić go w półmroku.</val>
+	<!-- Hyperlinks: [Mara -> Mara] [Temple -> Świątynia] [Vivec -> Vivek] [rat -> szczur] [ring -> pierścień]
+	   Glossary: [Rat -> szczur]
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^3239627053096812198</key>
+	<val>Oto twoje 500 sztuk złota. Teraz potrzebny mi będzie indeks portalu Indoranyon. Jego obecny właściciel, Divayth Fyr, stary i potężny czarodziej Telvanni zamieszkujący wieżę Tel Fyr, kolekcjoner antyków, raczej nie zechce się z nim rozstać.</val>
+	<!-- Hyperlinks: [Divayth Fyr -> Divayth Fyr] [Tel Fyr -> Tel Fyr] [collector -> kolekcjoner]
+	   Glossary: [Wizard -> Czarodziej]
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^32478133982358118445</key>
+	<val>Najpierw przynieś mi indeks portalu Andasreth. Później porozmawiamy o kolejnych.</val>
+	<!-- Hyperlinks: [Andasreth -> Andasreth] [Talk -> porozmawiać] [ring -> pierścień]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^518926473630519023</key>
+	<val>Najpierw przynieś mi indeks portalu Rotheran. Później porozmawiamy o kolejnych.</val>
+	<!-- Hyperlinks: [Rotheran -> Rotheran] [Talk -> porozmawiać] [ring -> pierścień]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^5358140132184718551</key>
+	<val>Najpierw przynieś mi indeks portalu Berandas. Później porozmawiamy o kolejnych.</val>
+	<!-- Hyperlinks: [Talk -> porozmawiać] [ring -> pierścień]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^626216801711623824</key>
+	<val>Najpierw przynieś mi indeks portalu Valenvaryon. Później porozmawiamy o kolejnych.</val>
+	<!-- Hyperlinks: [Talk -> porozmawiać] [ring -> pierścień]
+	   Glossary:
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^9094119383018911976</key>
+	<val>Oto 500 sztuk złota za indeks do Rotheran. Teraz przynieś mi indeks portalu Falensarano. Ostatnio należał do cudzoziemca imieniem Hunnen, którego po raz ostatni widziano na szlaku prowadzącym do Maelkashishi, daedrycznej kaplicy położonej na zachód od Maar Gan. Huunen prawdopodobnie nie żyje, a odnalezienie jego ciała - i indeksu - raczej nie będzie łatwym zadaniem.</val>
+	<!-- Hyperlinks: [Daedric -> daedryczne] [Falensarano -> Falensarano] [Maar Gan -> Maar Gan] [Maelkashishi -> Maelkashishi] [Rotheran -> Rotheran] [Shishi -> Shishi] [outlander -> obcy] [ring -> pierścień]
+	   Glossary: [Tough -> Twardziel]
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^indeks portalu^112461563236725627</key>
+	<val>Nawet o tym nie myśl.</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^indeks portalu^114922824920813003</key>
+	<val>Jeśli chcesz udać się do twierdzy Dunmerów, po prostu porozmawiaj ze mną i przynieś ze sobą główny indeks. Wyślę cię bezpośrednio do którejkolwiek twierdzy chcesz. A jeśli chodzi o podróż powrotną, to wystarczy, że aktywujesz dowolny portal mając przy sobie swój główny indeks, a trafisz bezpośrednio do mnie.</val>
+	<!-- Hyperlinks: [Dunmer -> Dunmerowie] [ring -> pierścień] [stronghold -> twierdza]
+	   Glossary: [Master -> Mistrz]
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^indeks portalu^12195169662267421341</key>
+	<val>Został złożony w darze przez pielgrzyma. Powiedziano mi, że jest całkiem cenny, dlatego jesteśmy wdzięczni za taką ofiarę.</val>
+	<!-- Hyperlinks: [rat -> szczur]
+	   Glossary: [Rat -> szczur]
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^indeks portalu^1734927609596725813</key>
+	<val>Nic o nim nie wiem. Łowca znalazł ciekawy kamień w ruinach i dał go mi. Nie jest raczej jakiś nadzwyczajny... dlatego mogę ci go sprzedać.</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: Female -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^indeks portalu^19019193882995026354</key>
+	<val>Jest MÓJ! Tylko mój!</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^indeks portalu^23355160821432215011</key>
+	<val>Każda dunmerska twierdza na Vvardenfell posiada komnatę z portalami, które mogą przenieść cię do innych twierdz - ale tylko gdy masz przy sobie odpowiedni indeks będący kluczem do danego portalu. Główny indeks, który zamierzam ci podarować, pozwoli ci podróżować między Calderą a dziesięcioma twierdzami zwanymi: Andasreth, Berandas, Falasmaryon, Falensarano, Hlormaren, Indoranyon, Marandus, Rotheran, Telasero i Valenvaryon.</val>
+	<!-- Hyperlinks: [Andasreth -> Andasreth] [Caldera -> Caldera] [Dunmer -> Dunmerowie] [Falensarano -> Falensarano] [Hlormar -> Hlormar] [Mara -> Mara] [Rotheran -> Rotheran] [Vvardenfell -> Vvardenfell] [enchant -> zaklinanie] [stronghold -> twierdza]
+	   Glossary: [Master -> Mistrz]
+	   Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^indeks portalu^23880193751711715953</key>
+	<val>Indeks portalu? Możesz go sobie wziąć. Leży gdzieś tutaj, chyba na górnej półce, i tylko zbiera kurz. Nie krępuj się.</val>
+	<!-- Hyperlinks: [ring -> pierścień]
+	   Glossary:
+	   Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^indeks portalu^3020891272656710898</key>
+	<val>Nic o nim nie wiem. Porozmawiaj z Salenem Ravelem, kapłanem. Jego pokój znajduje się w północnym rogu Świątyni.</val>
+	<!-- Hyperlinks:
+	   Glossary:
+	   Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^indeks portalu^650724683093712053</key>
+	<val>Och. To coś. Zamierzałem oddać go mieszkańcom Domu Spaczonych do zabawy. Chcesz go? Proszę bardzo.</val>
+	<!-- Hyperlinks: [Corprus -> śmiertelne spaczenie] [Corprusarium -> Dom Spaczonych]
+	   Glossary:
+	   Speaker: N\A -->
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>1249815187281437959^Choice "Yes, send me to Hlormaren." 1 "Not yet." 2</key>
+	<val>1249815187281437959^Choice "Tak, przenieś mnie do Hlormaren." 1 "Nie teraz." 2</val>
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>15484214041789229376^Choice "Yes, send me to Berandas." 1 "Not yet." 2</key>
+	<val>15484214041789229376^Choice "Tak, przenieś mnie do Berandas." 1 "Nie teraz." 2</val>
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>21687238681682613614^Choice "Yes, send me to Falasmaryon." 1 "Not yet." 2</key>
+	<val>21687238681682613614^Choice "Tak, przenieś mnie do Falasmaryon." 1 "Nie teraz." 2</val>
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>221232345276131490^Choice "Yes, send me to Andasreth." 1 "Not yet." 2</key>
+	<val>221232345276131490^Choice "Tak, przenieś mnie do Andasreth." 1 "Nie teraz." 2</val>
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>22263481626691333^Choice "Yes, send me to Telasero." 1 "Not yet." 2</key>
+	<val>22263481626691333^Choice "Tak, przenieś mnie do Telasero." 1 "Nie teraz." 2</val>
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>27636160319522753^Choice "Yes, send me to Valenvaryon." 1 "Not yet." 2</key>
+	<val>27636160319522753^Choice "Tak, przenieś mnie do Valenvaryon." 1 "Nie teraz." 2</val>
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>28422561038584505^Choice "Yes, send me to Falensarano." 1 "Not yet." 2</key>
+	<val>28422561038584505^Choice "Tak, przenieś mnie do Falensarano." 1 "Nie teraz." 2</val>
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>3046249381472296^Choice "I'm not interested." 1 "I'm interested." 2</key>
+	<val>3046249381472296^Choice "Raczej nie." 1 "Oczywiście." 2</val>
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>318811439966031130^Choice "Yes, send me to Indoranyon." 1 "Not yet." 2</key>
+	<val>318811439966031130^Choice "Tak, przenieś mnie do Indoranyon." 1 "Nie teraz." 2</val>
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>3297259922670426768^Choice "Yes, send me to Marandus." 1 "Not yet." 2</key>
+	<val>3297259922670426768^Choice "Tak, przenieś mnie do Marandus." 1 "Nie teraz." 2</val>
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>517729084258077147^Choice "Yes, send me to Rotheran." 1 "Not yet." 2</key>
+	<val>517729084258077147^Choice "Tak, przenieś mnie do Rotheran." 1 "Nie teraz." 2</val>
+</record>

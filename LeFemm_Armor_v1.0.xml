@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Domina_Helm</key>
+	<val>Hełm Dominacji</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Domina_boots</key>
+	<val>Buty Dominacji</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Domina_cuirass</key>
+	<val>Kirys Dominacji</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Domina_gauntlet_L</key>
+	<val>Lewa Rękawica Dominacji</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Domina_gauntlet_R</key>
+	<val>Prawa Rękawica Dominacji</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Domina_greaves</key>
+	<val>Nagolenniki Dominacji</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Domina_pauldron_L</key>
+	<val>Lewy Naramiennik Dominacji</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Domina_pauldron_R</key>
+	<val>Prawy Naramiennik Dominacji</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Gold1_Armor_cuirass</key>
+	<val>Złoty kirys</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Gold1_Armor_helm</key>
+	<val>Złoty hełm</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Gold1_Armor_pauldron_L</key>
+	<val>Złoty lewy naramiennik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Gold1_Armor_pauldron_R</key>
+	<val>Złoty prawy naramiennik</val>
+</record>
