@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<record>
+	<_id>DIAL</_id>
+	<key>explore these ruins</key>
+	<val>zbadać te ruiny</val>
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>family honor</key>
+	<val>honor rodziny</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^helm_tohan_unique</key>
+	<val>Adamantowy hełm Tohana</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^com_chest_tohan_unique</key>
+	<val>Skrzynia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^key_tohan_unique</key>
+	<val>Klucz Norvayne'a</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^dalin norvayne</key>
+	<val>Dalin Norvayne</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^daris norvayne</key>
+	<val>Daris Norvayne</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^10983293811786215385</key>
+	<val>Brat miał ostatnie słowo w naszym sporze, chociaż szanse były wyrównane. Zgodnie z jego decyzją udamy się wraz z tobą w głąb tych ruin. Proszę, weź ten klucz. Nas nie interesuje skarb, ale może tobie przyda się do znalezienia tego, czego szukasz. Ruszajmy.</val>
+	<!-- Hyperlinks:
+	     Glossary: [Brother -> Brat]
+	     Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^143518688481017612</key>
+	<val>Udało ci się znaleźć swój skarb, druhu. W tym miejscu nasze ścieżki powinny się rozdzielić. Ja zostanę tu jeszcze przez chwilę. Powodzenia.</val>
+	<!-- Hyperlinks: [luck -> szczęście]
+	     Glossary:
+	     Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^1467626429485018928</key>
+	<val>Wejdziemy do ruin poźniej, kiedy już odpowiednio się przygotujemy. Mój brat miał ostatnie słowo w naszym sporze.</val>
+	<!-- Hyperlinks:
+	     Glossary: [Brother -> Brat]
+	     Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^171398799317837490</key>
+	<val>Mój brat ma ostatnie słowo w naszym sporze, więc postąpimy zgodnie z jego decyzją. Musisz zbadać te ruiny na własną rękę. My wejdziemy poźniej, kiedy już odpowiednio się przygotujemy. Proszę, weź ten klucz. Nas nie interesuje skarb, ale może tobie przyda się do znalezienia tego, czego szukasz. Ruszajmy.</val>
+	<!-- Hyperlinks: [luck -> szczęście]
+	     Glossary: [Brother -> Brat]
+	     Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^17161184441559432599</key>
+	<val>Wejdziemy do ruin poźniej, kiedy już odpowiednio się przygotujemy.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^188124870198021300</key>
+	<val>Ta sprawa ciebie nie dotyczyła! Teraz musisz stawić czoła nam obu!</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^1957259931025012876</key>
+	<val>Powodzenia w kolejnych wyprawach, druhu.</val>
+	<!-- Hyperlinks: [luck -> szczęście]
+	     Glossary:
+	     Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^20083200091101611667</key>
+	<val>Miałem ostatnie słowo w sporze z bratem, więc zrobimy to, co postanowiłem. Musisz zbadać te ruiny na własną rękę. My wejdziemy poźniej, kiedy już odpowiednio się przygotujemy. Proszę, weź ten klucz. Nas nie interesuje skarb, ale może tobie przyda się do znalezienia tego, czego szukasz. Ruszajmy.</val>
+	<!-- Hyperlinks: [luck -> szczęście]
+	     Glossary: [Brother -> Brat]
+	     Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^2446520884141521422</key>
+	<val>Ruszajmy w głąb tych ruin.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^2725290531860820515</key>
+	<val>Miałem ostatnie słowo w sporze z bratem, chociaż szanse były wyrównane. Zgodnie z moją decyzją udamy się wraz z tobą w głąb tych ruin. Proszę, weź ten klucz. Nas nie interesuje skarb, ale może tobie przyda się do znalezienia tego, czego szukasz. Ruszajmy.</val>
+	<!-- Hyperlinks:
+	     Glossary: [Brother -> Brat]
+	     Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^2755111668738012346</key>
+	<val>Udało ci się znaleźć swój skarb, druhu. W tym miejscu nasze ścieżki powinny się rozdzielić. Ja tu zostanę. Powodzenia.</val>
+	<!-- Hyperlinks: [luck -> szczęście]
+	     Glossary:
+	     Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^30573282272275624106</key>
+	<val>Powodzenia w kolejnych wyprawach, druhu.</val>
+	<!-- Hyperlinks: [luck -> szczęście]
+	     Glossary:
+	     Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^31849260202577125420</key>
+	<val>Udało ci się znaleźć swój skarb, druhu. W tym miejscu nasze ścieżki powinny się rozdzielić. Powodzenia!</val>
+	<!-- Hyperlinks: [luck -> szczęście]
+	     Glossary:
+	     Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^3205113087239926396</key>
+	<val>Witaj. Zakładam, że chcesz zbadać te ruiny?</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^36182008517969942</key>
+	<val>Ta sprawa ciebie nie dotyczyła! Teraz musisz stawić czoła nam obu!</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^612811793116421980</key>
+	<val>Udało ci się znaleźć swój skarb, druhu. W tym miejscu nasze ścieżki powinny się rozdzielić. Ja tu zostanę. Powodzenia.</val>
+	<!-- Hyperlinks: [luck -> szczęście]
+	     Glossary:
+	     Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^7271278952064618695</key>
+	<val>Witaj! Ty też chcesz zbadać te ruiny?</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^9787120001898823131</key>
+	<val>Ruszajmy w głąb tych ruin.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^10473104881705412193</key>
+	<val>Ponieważ to Daris wygrał w "dyskusji", bracia zbadają ruiny bez mojej pomocy.</val>
+	<!-- Hyperlinks:
+	     Glossary: [Brother -> Brat]
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^1779291122467131464</key>
+	<val>Po Dagon Fel krąży plotka o wspaniałym hełmie ukrytym w ruinach miejsca zwanego Onnissiralis. To duża daedryczna kaplica na dalekiej północy Vvardenfell, na zachód od Vas. Zasugerowano mi odszukanie braci Norvayne, którzy niedawno wyruszyli do tych ruin.</val>
+	<!-- Hyperlinks: [Daedric -> daedryczne] [Dagon Fel -> Dagon Fel] [Vas -> Vas] [Vvardenfell -> Vvardenfell]
+	     Glossary: [Brother -> Brat]
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^185572323146132493</key>
+	<val> Norvayne, Dalin i Daris. Wydają się niezdecydowani odnośnie sposobu, w jaki mają zbadać ruiny. Dalin chciałby zaangażować w to więcej osób, by zwiększyć swe szanse na przeżycie, natomiast Daris uważa, że honor rodziny wymaga, aby zrobili to sami.</val>
+	<!-- Hyperlinks: [rat -> szczur]
+	     Glossary: [Brother -> Brat] [Rat -> szczur]
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^24205265833107720210</key>
+	<val>Udało mi się odzyskać adamantowy hełm Tohana.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^2608255161727131531</key>
+	<val>Daris pokonał swego brata w walce na gołe pięści.</val>
+	<!-- Hyperlinks:
+	     Glossary: [Brother -> Brat]
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^2660066762222327116</key>
+	<val>Dalin Norvayne został zabity.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^2849516201187924511</key>
+	<val>Bracia postanowili omówić różnice zdań w dość osobliwy sposób: walką na pięści. Ten, który dłużej utrzyma się na nogach, postanowi o ich dalszych krokach.</val>
+	<!-- Hyperlinks: [work -> praca]
+	     Glossary: [Brother -> Brat]
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^30454124011522613857</key>
+	<val>Bracia Norvayne uznali mnie za swego wroga, ponieważ zostali przeze mnie zaatakowani w czasie ich "dyskusji".</val>
+	<!-- Hyperlinks: [ring -> pierścień]
+	     Glossary: [Brother -> Brat]
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^32525242732457522320</key>
+	<val>Daris Norvayne został zabity.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^3261428716250134620</key>
+	<val>Jeden z braci Norvayne został przeze mnie zaatakowany w czasie ich walki.</val>
+	<!-- Hyperlinks: [ring -> pierścień]
+	     Glossary: [Brother -> Brat]
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^32644257278506277</key>
+	<val>Żaden z braci Norvayne nie chce mi dłużej towarzyszyć.</val>
+	<!-- Hyperlinks: [escort -> eskorta]
+	     Glossary: [Brother -> Brat]
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^5214276902741527848</key>
+	<val>Dalin pokonał swego brata w walce na gołe pięści.</val>
+	<!-- Hyperlinks:
+	     Glossary: [Brother -> Brat]
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^697619032343425522</key>
+	<val>Bracia udadzą się ze mną w głąb ruin, ponieważ Dalin wygrał "dyskusję" ze swoim bratem.</val>
+	<!-- Hyperlinks:
+	     Glossary: [Brother -> Brat]
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zbadać te ruiny^25679227561317327199</key>
+	<val>Tak. Mój brat Dalin i ja zamierzaliśmy to zrobić. Nasz ojciec zginął w środku, a my chcemy go pomścić. Jednak on woli poczekać na pomoc. Ja natomiast twierdzę, że honor rodziny jest najważniejszy i powinniśmy iść tam sami.</val>
+	<!-- Hyperlinks:
+	     Glossary: [Brother -> Brat]
+	     Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zbadać te ruiny^292195281322747724</key>
+	<val>Znakomicie! Mój brat Daris i ja mieliśmy taki sam zamiar. Lata temu nasz ojciec, niech spoczywa w pokoju, zginął w tych ruinach. Chcemy oczyścić je ze wszelkiego zła, jakie zalęgło się w środku. Osobiście uważam, że im więcej nas będzie, tym lepiej. Jednak mój brat twierdzi, że honor rodziny nie pozwala nam skorzystać z pomocy innych.</val>
+	<!-- Hyperlinks: [discuss -> omówić]
+	     Glossary: [Brother -> Brat]
+	     Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^honor rodziny^138152507038544632</key>
+	<val>Wystarczy, Darisie! Wybacz mojemu bratu. Wygląda na to, że możemy to rozwiązać tylko w jeden sposób. To długoletnia tradycja rodziny Norvayne. Nie wtrącaj się, przybyszu. Kiedy podejmiemy decyzję, damy ci znać.</val>
+	<!-- Hyperlinks: [decision -> decyzja]
+	     Glossary: [Brother -> Brat]
+	     Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^honor rodziny^54612760232135645</key>
+	<val>Znam twoje zdanie na ten temat, Dalinie! Mój brat wyrywa się przed szereg. Wygląda na to, że możemy to rozwiązać tylko w jeden sposób. To długoletnia tradycja rodziny Norvayne. Nie wtrącaj się, przybyszu. Kiedy podejmiemy decyzję, damy ci znać.</val>
+	<!-- Hyperlinks: [decision -> decyzja] [know you -> znam cię]
+	     Glossary: [Brother -> Brat]
+	     Speaker: Male -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^najnowsze plotki^2699818230245425154</key>
+	<val>Po okolicy krążą opowieści o starożytnym hełmie zamkniętym wewnątrz ruin Onnissiralis, na zachód od Vas. Wyjmij mapę, pokażę ci gdzie jest Vas. Bracia Norvayne niedawno wyruszyli do tych ruin. Radzę ci ich odszukać, jeśli zamierzasz wejść do środka. To dobre chłopaki, chociaż trochę kłótliwe.</val>
+	<!-- Hyperlinks: [Vas -> Vas]
+	     Glossary: [Ancient -> Pradawny] [Brother -> Brat]
+	     Speaker: N\A -->
+</record>
