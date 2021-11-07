@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<record>
+	<_id>CELL</_id>
+	<key>Firemoth Region</key>
+	<val>Fort Ognia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Firemoth, Dungeon</key>
+	<val>Fort Ognia, lochy</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Firemoth, Great Hall</key>
+	<val>Fort Ognia, wielka sala</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Firemoth, Guard Quarters</key>
+	<val>Fort Ognia, kwatery strażników</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Firemoth, Guard Towers</key>
+	<val>Fort Ognia, wieże strażnicze</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Firemoth, Keep</key>
+	<val>Fort Ognia, twierdza</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Firemoth, Lower Cavern</key>
+	<val>Fort Ognia, dolna jaskinia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Firemoth, Mine</key>
+	<val>Fort Ognia, kopalnia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Firemoth, Tomb</key>
+	<val>Fort Ognia, grobowiec</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Firemoth, Upper Cavern</key>
+	<val>Fort Ognia, górna jaskinia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Firemoth, Upper Chambers</key>
+	<val>Fort Ognia, komnaty</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Seyda Neen</key>
+	<val>Seyda Neen</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sudanit Mine</key>
+	<val>Kopalnia Sudanit</val>
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>Firemoth</key>
+	<val>Fort Ognia</val>
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>Ward of Akavir</key>
+	<val>Obrońca Akaviru</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Ward of Akavir</key>
+	<val>Obrońca Akaviru</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^contain_corpse_FM_01</key>
+	<val>Zwłoki</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^contain_corpse_FM_02</key>
+	<val>Zwłoki</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^contain_corpse_FM_key</key>
+	<val>Zwłoki</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CREA^Skeleton_FM_archer</key>
+	<val>Szkielet-łucznik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CREA^Skeleton_FM_grunt</key>
+	<val>Szkielet-wojownik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CREA^Skeleton_FM_king</key>
+	<val>Grurn</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>DOOR^Ex_De_Shack_Door</key>
+	<val>Drzwi</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>DOOR^Ex_imp_loaddoor_02</key>
+	<val>Drewniane drzwi</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>DOOR^In_impsmall_d_hidden_01</key>
+	<val>Ukryte drzwi</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>DOOR^door_cavern_doors10</key>
+	<val>Wysłużone drzwi do jaskini</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>DOOR^ex_imp_loaddoor_03</key>
+	<val>Drewniane drzwi</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>DOOR^firemoth_gate_1</key>
+	<val>Brama</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>DOOR^firemoth_gate_2</key>
+	<val>Brama</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>DOOR^in_com_traptop_01</key>
+	<val>Klapa</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>DOOR^in_impsmall_door_01</key>
+	<val>Drewniane drzwi</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>DOOR^in_impsmall_door_jail_01</key>
+	<val>Drzwi do celi</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>DOOR^in_impsmall_trapdoor_01a</key>
+	<val>Klapa</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>DOOR^in_velothismall_ndoor_01</key>
+	<val>Drewniane drzwi</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^key_firemoth</key>
+	<val>Klucz do lochów Fortu Ognia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^misc_com_bottle_03</key>
+	<val>Dzban</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^Firemoth_Archer</key>
+	<val>Mara</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^Firemoth_Mage</key>
+	<val>Aronil</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^Firemoth_Sailor</key>
+	<val>Silm-Dar</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^Firemoth_Warrior</key>
+	<val>Hjrondir</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^firemoth_cat</key>
+	<val>J'Hanir</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>REGN^Firemoth Region</key>
+	<val>Fort Ognia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>SPEL^regenhealth_ability_10</key>
+	<val>Regeneracja zdrowia</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>SPEL^regenmagicka_ability_10</key>
+	<val>Regeneracja many</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>SPEL^shockblast</key>
+	<val>Piorun Kulisty</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^11348180411884827267</key>
+	<val>Jak wygląda sytuacja w Forcie Ognia [Fort Ognia]?</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^1167012954534529711</key>
+	<val>Dzięki ci za odnalezienie mnie! Przez długi czas tylko grzyby utrzymywały mnie przy życiu. Prowadź, pomogę, jak tylko będę mógł.</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^11868222482437830631</key>
+	<val>Widziałam gorsze rzeczy. Ruszajmy dalej.</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^14500272529981491</key>
+	<val>Możemy już wracać do Seyda Neen?</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^17516113621450112980</key>
+	<val>Dostałem od ciebie już wszystko, czego potrzebowałem. Przeczytaj napis na kapliczce i odejdź. Twa śmiertelna obecność mnie nuży.</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^18298208411770219941</key>
+	<val>W razie czego wiesz gdzie mnie znaleźć.</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^190592792723126084</key>
+	<val>Co tu robisz? Sukinkoty wyrzuciły mnie z Legionu... a za co? Idioci, co do jednego. Jestem zaskoczony. A jednak głupcy zorientowali się, że zniknął. Teraz jest mój. I tak już zostanie. Ty zaś nikomu o tym nie powiesz!</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^231724779969828437</key>
+	<val>Ruszamy do Fortu Ognia?</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^242753219211862537</key>
+	<val>Prowadź! Przybyliśmy tu, by zabijać!</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^3009629748474023429</key>
+	<val>Jestem %name. Mam powiedzieć coś o sobie? Nieważne skąd pochodzę i czym się zajmuję. Od czasu do czasu mam za zadanie powitać gości w Morrowind.</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^31074262511675025898</key>
+	<val>Świetne wyczucie czasu, %PCName! Potrzebuję kogoś, kto poprowadziłby grupę najemników do Fortu Ognia [Fort Ognia].</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^3238626648911710898</key>
+	<val>Będę ci towarzyszyć. Mam nadzieję, że wiesz, co robisz.</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^455315669676314909</key>
+	<val>Przybywasz tu z pielgrzymką? I nawet masz dla mnie mały prezent.</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^83386568163719408</key>
+	<val>A zatem w drogę.</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^ms_firemoth^1767431017788028821</key>
+	<val>Sellus Gravius z Seyda Neen poprosił mnie o poprowadzenie niewielkiej grupy najemników w celu odbicia Fortu Ognia. Mamy zmierzyć się tam ze szkieletową armią Grurna i odzyskać starożytny artefakt znany jako Obrońca Akaviru.</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^ms_firemoth^735331089409329325</key>
+	<val>Sellus Gravius otrzymał Obrońcę Akaviru. W zamian dał mi 3000 sztuk złota.</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Fort Ognia^147086705101748041</key>
+	<val>Nie mów o tym. Nie wyruszaj tam. Teraz jedynie legiony umarłych strzegą murów Fortu Ognia.</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Fort Ognia^25698274352778018313</key>
+	<val>Teraz rządzą tam nieumarli. Fort został najechany wiele lat temu. Kiedyś był to jeden z ważniejszych punktów strategicznych na Morzu Wewnętrznym, teraz to tylko zapomniana ruina.</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Fort Ognia^28207159951009020306</key>
+	<val>Najważniejsze jest odzyskanie Obrońcy Akaviru. Ale musimy też pomścić ludzi, którzy tam zginęli.</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Fort Ognia^3669157151196515</key>
+	<val>Nie takiej odpowiedzi się spodziewałem. Mam nadzieję, że jeszcze to przemyślisz.</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Fort Ognia^488011031880361</key>
+	<val>Znakomicie! Twoja załoga będzie czekać w porcie. Porozmawiaj z kapitanem na temat podróży do Fortu Ognia. Niechaj bogowie nad tobą czuwają, %PCName.</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Fort Ognia^7049322901533732256</key>
+	<val>Ten cesarski fort położony na wyspie na zachodzie kilka lat temu został zaatakowany przez hordę nieumarłych pod przywództwem Grurna, która wyszła prosto z morza i zdziesiątkowała garnizon. Ci, którym udało się uciec, zmuszeni byli zostawić za sobą potężny artefakt zwany Obrońcą Akaviru [Obrońca Akaviru]. Poszukuję kogoś, kto poprowadziłby tam niewielki oddział mający za zadanie odzyskanie artefaktu. Piszesz się na to?</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Obrońca Akaviru^19412254743241727913</key>
+	<val>To zaklęta tarcza wykonana ze skóry smoka. Legion trzymał ten bezcenny artefakt w Forcie Ognia [Fort Ognia] w wielkiej tajemnicy. Teraz musimy ją jakoś odzyskać, a wraz z nią nasz honor.</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Obrońca Akaviru^31285127991350025129</key>
+	<val>Udało ci się ją odzyskać! Po tylu latach, starożytny symbol honoru Legionów został odzyskany! Oto twoje obiecane 3000 sztuk złota, wraz z moimi podziękowaniami. O twoim czynie dowie się całe Cesarskie Miasto. Bezpiecznych podróży, druhu.</val>
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>14500272529981491^Choice "Yes" 1 "No" 2</key>
+	<val>14500272529981491^Choice "Tak." 1 "Nie." 2</val>
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>231724779969828437^Choice "Yes" 1 "No" 2</key>
+	<val>231724779969828437^Choice "Tak." 1 "Nie." 2</val>
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>7049322901533732256^Choice "I can lead this group. Show me the way." 1 "No, not at this time." 2</key>
+	<val>7049322901533732256^Choice "Mogę poprowadzić grupę, wskaż mi jedynie drogę." 1 "Nie, nie tym razem." 2</val>
+</record>
