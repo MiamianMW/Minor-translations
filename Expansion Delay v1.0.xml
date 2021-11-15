@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- Słownik do: Expansion Delay v1.3
+https://www.nexusmods.com/morrowind/mods/47588 -->
+
+<record>
+	<_id>SCTX</_id>
+	<key>dbattackScript^		MessageBox "You are awakened by a loud noise."</key>
+	<val>dbattackScript^		MessageBox "Budzi cię jakiś hałas."</val>
+	<!--
+	Glossary: [Noise -> Hałas SPEL^noise]
+	-->
+</record>
+	

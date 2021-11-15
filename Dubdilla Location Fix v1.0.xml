@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- Słownik do: Dubdilla Location Fix v1.0
+https://www.nexusmods.com/morrowind/mods/46720 -->
+
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_VampireCure^118965566497012515</key>
+	<val>Udało mi się porozmawiać z Molag Balem za pośrednictwem posągu w kaplicy Bal Ur. Twierdzi, że nie ma lekarstwa na mój wampiryzm, ale zdobędzie je dla mnie w zamian za przysługę. Jego córka, Molag Grunda, zadaje się z niejakim Nomegiem Gwai -- to atronachem mrozu. Jeśli zdołam zabić ich oboje i wysłać ich dusze do królestwa, w którym Molag Bal będzie mógł ich ukarać, otrzymam lekarstwo. Obecnie mieszkają w jaskini Dubdilla na zachód od Góry Assarnibibi.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [Favor -> przysługa] [frost atronach -> atronach mrozu] [vampirism -> wampiryzm]
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
