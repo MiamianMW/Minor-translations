@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- Słownik do: Cozy Seyda Neen v1.2
+https://www.nexusmods.com/morrowind/mods/49309 -->
+
+<record>
+	<_id>CELL</_id>
+	<key>Seyda Neen, Morvisa Sendu House</key>
+	<val>Seyda Neen, dom Morvisy Sendu</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen] [Seyda Neen -> Seyda Neen ACTI^active_sign_seydaneen_01]
+	-->
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Seyda Neen, Ramshackle Hut</key>
+	<val>Seyda Neen, rudera</val>
+	<!--
+	Glossary: [Seyda Neen -> Seyda Neen ACTI^active_sign_seydaneen_01]
+	-->
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Seyda Neen, Talvas Llanym House</key>
+	<val>Seyda Neen, dom Talvasa Llanyma</val>
+	<!--
+	Glossary: [Seyda Neen -> Seyda Neen ACTI^active_sign_seydaneen_01]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>BOOK^0SNShackNote</key>
+	<val>Obwieszczenie</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CREA^0SNdead_mudcrab</key>
+	<val>Krab błotny</val>
+	<!--
+	Glossary: [Mudcrab -> Krab błotny CREA^mudcrab]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^0SNMorvisaSendu</key>
+	<val>Morvisa Sendu</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^0SNTalvasLlanym</key>
+	<val>Talvas Llanym</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>SPEL^0SNGodCurse</key>
+	<val>Boska Klątwa</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>TEXT</_id>
+	<key>0SNShackNote</key>
+	<val><DIV ALIGN="LEFT"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards" ><BR>
+Uwaga wszyscy mieszkańcy Seyda Neen oraz goście odwiedzający nasze miasto!<BR>
+<BR>
+Z tą chwilą chata przestaje być własnością Romlyna Dretha, który został uznany winnym prowadzenia działalności przestępczej i przemytniczej. Dla osoby, która wskaże miejsce jego aktualnego pobytu, przewidziano nagrodę w wysokości 2000 smoków. Zachowajcie szczególną ostrożność! Ten kryminalista może ukrywać się dosłownie wszędzie. Plotka głosi, że posiada sekretną kryjówkę na Gorzkim Wybrzeżu zwaną "Kwiatem koda", której lokalizacji od dawna poszukuje Biuro Spisów i Opodatkowania. Jeżeli posiadasz jakiekolwiek informacje w tej sprawie, zgłoś się bezzwłocznie do Sellusa Graviusa.<BR>
+<BR>
+Socucius Ergalla<BR>
+</val>
+	<!--
+	Glossary: [Census and Excise Office -> Biuro Spisów i Opodatkowania FACT^Census and Excise] [Coda Flower -> Kwiat koda INGR^ingred_bc_coda_flower] [Danger -> Niebezpieczeństwo ACTI^furn_bannerd_danger_01] [Sellus Gravius -> Sellus Gravius NPC_^chargen captain] [Seyda Neen -> Seyda Neen ACTI^active_sign_seydaneen_01] [Smuggler -> Przemytnik NPC_^bm_smugglers_redguard] [Socucius Ergalla -> Socucius Ergalla NPC_^chargen class]
+	-->
+</record>
+<record>
+	<_id>NPC_FLAG</_id>
+	<key>0SNMorvisaSendu</key>
+	<val>F</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>NPC_FLAG</_id>
+	<key>0SNTalvasLlanym</key>
+	<val>M</val>
+	<!--
+	Glossary:
+	-->
+</record>
