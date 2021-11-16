@@ -1,0 +1,4826 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- Słownik do: Unofficial Morrowind Official Plugins Patched v3.1.0
+https://www.nexusmods.com/morrowind/mods/43931 -->
+
+<record>
+	<_id>CELL</_id>
+	<key>Firemoth Region</key>
+	<val>Fort Ognia</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Firemoth, Dungeon</key>
+	<val>Fort Ognia, lochy</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Firemoth, Great Hall</key>
+	<val>Fort Ognia, wielka sala</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Firemoth, Guard Quarters</key>
+	<val>Fort Ognia, kwatery strażników</val>
+	<!--
+	Glossary: [Guar -> Guar CREA^guar] [Guard -> Strażnik NPC_^BM_Imperial Guard]
+	-->
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Firemoth, Guard Towers</key>
+	<val>Fort Ognia, wieże strażnicze</val>
+	<!--
+	Glossary: [Guar -> Guar CREA^guar] [Guard -> Strażnik NPC_^BM_Imperial Guard]
+	-->
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Firemoth, Keep</key>
+	<val>Fort Ognia, twierdza</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Firemoth, Lower Cavern</key>
+	<val>Fort Ognia, dolna jaskinia</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Firemoth, Mine</key>
+	<val>Fort Ognia, kopalnia</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Firemoth, Tomb</key>
+	<val>Fort Ognia, grobowiec</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Firemoth, Upper Cavern</key>
+	<val>Fort Ognia, górna jaskinia</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Firemoth, Upper Chambers</key>
+	<val>Fort Ognia, komnaty</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Aradraen: Fletcher</key>
+	<val>Vivek, Aradraen: Fleczer</val>
+	<!--
+	Glossary: [Vivec -> Vivek ACTI^active_sign_vivec_01]
+	-->
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>Berandas</key>
+	<val>Berandas</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>Falasmaryon</key>
+	<val>Falasmaryon</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>Firemoth</key>
+	<val>Fort Ognia</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>Hlormaren</key>
+	<val>Hlormaren</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>Indoranyon</key>
+	<val>Indoranyon</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>Marandus</key>
+	<val>Marandus</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>Telasero</key>
+	<val>Telasero</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>Valenvaryon</key>
+	<val>Valenvaryon</val>
+	<!--
+	Glossary: [Val -> Val NPC_^val]
+	-->
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>Ward of Akavir</key>
+	<val>Obrońca Akaviru</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>entertain the patrons</key>
+	<val>zabawić gości</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>explore these ruins</key>
+	<val>zbadać te ruiny</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>family honor</key>
+	<val>honor rodziny</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>handy high-kick</key>
+	<val>wys-kok</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>propylon index</key>
+	<val>indeks portalu</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^Sound_Swamp_1</key>
+	<val>Sound_Swamp_1</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^Sound_Swamp_2</key>
+	<val>Sound_Swamp_2</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^Sound_Swamp_3</key>
+	<val>Sound_Swamp_3</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^furn_bannerd_wa_shop_aradraen</key>
+	<val>Aradraen: Fleczer</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Domina_Helm</key>
+	<val>Hełm Dominacji</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Domina_boots</key>
+	<val>Buty Dominacji</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Domina_cuirass</key>
+	<val>Kirys Dominacji</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Domina_gauntlet_L</key>
+	<val>Lewa Rękawica Dominacji</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Domina_gauntlet_R</key>
+	<val>Prawa Rękawica Dominacji</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Domina_greaves</key>
+	<val>Nagolenniki Dominacji</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Domina_pauldron_L</key>
+	<val>Lewy Naramiennik Dominacji</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Domina_pauldron_R</key>
+	<val>Prawy Naramiennik Dominacji</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Gold1_Armor_cuirass</key>
+	<val>Złoty kirys</val>
+	<!--
+	Glossary: [Gold -> szt. złota MISC^Gold_001]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Gold1_Armor_helm</key>
+	<val>Złoty hełm</val>
+	<!--
+	Glossary: [Gold -> szt. złota MISC^Gold_001]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Gold1_Armor_pauldron_L</key>
+	<val>Złoty lewy naramiennik</val>
+	<!--
+	Glossary: [Gold -> szt. złota MISC^Gold_001]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Gold1_Armor_pauldron_R</key>
+	<val>Złoty prawy naramiennik</val>
+	<!--
+	Glossary: [Gold -> szt. złota MISC^Gold_001]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^Ward of Akavir</key>
+	<val>Obrońca Akaviru</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ARMO^helm_tohan_unique</key>
+	<val>Adamantowy hełm Tohana</val>
+	<!--
+	Glossary: [Adamantium Helm -> Adamantowy hełm ARMO^addamantium_helm]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>BOOK^bk_Balladeers_Fakebook</key>
+	<val>Śpiewnik</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>BOOK^bk_Battle_Molag_Beran</key>
+	<val>Bitwa o Molag Beran</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>BOOK^bk_Im_My_Own_Grandpa</key>
+	<val>Jestem Swoim Własnym Dziadkiem</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^chest_small_02_arad1</key>
+	<val>Szkatuła</val>
+	<!--
+	Glossary: [Chest -> Skrzynia CONT^com_chest_01_pos] [Small Chest -> Szkatuła CONT^chest_small_02_gold_50]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^chest_small_02_arad2</key>
+	<val>Szkatuła</val>
+	<!--
+	Glossary: [Chest -> Skrzynia CONT^com_chest_01_pos] [Small Chest -> Szkatuła CONT^chest_small_02_gold_50]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^com_chest_02_v_adradra1</key>
+	<val>Skrzynia</val>
+	<!--
+	Glossary: [Chest -> Skrzynia CONT^com_chest_01_pos]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^com_chest_02_v_adradra2</key>
+	<val>Skrzynia</val>
+	<!--
+	Glossary: [Chest -> Skrzynia CONT^com_chest_01_pos]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^com_chest_02_v_adradra3</key>
+	<val>Skrzynia</val>
+	<!--
+	Glossary: [Chest -> Skrzynia CONT^com_chest_01_pos]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^com_chest_tohan_unique</key>
+	<val>Skrzynia</val>
+	<!--
+	Glossary: [Chest -> Skrzynia CONT^com_chest_01_pos]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^contain_corpse_FM_01</key>
+	<val>Zwłoki</val>
+	<!--
+	Glossary: [Corpse -> Zwłoki CONT^contain_corpse20]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^contain_corpse_FM_02</key>
+	<val>Zwłoki</val>
+	<!--
+	Glossary: [Corpse -> Zwłoki CONT^contain_corpse20]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^contain_corpse_FM_key</key>
+	<val>Zwłoki</val>
+	<!--
+	Glossary: [Corpse -> Zwłoki CONT^contain_corpse20]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CREA^Skeleton_FM_archer</key>
+	<val>Szkielet-łucznik</val>
+	<!--
+	Glossary: [Archer -> Łucznik CLAS^Archer] [Skeleton -> Szkielet CREA^dead_skeleton] [Skeleton Archer -> Szkielet-łucznik CREA^skeleton archer]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CREA^Skeleton_FM_grunt</key>
+	<val>Szkielet-wojownik</val>
+	<!--
+	Glossary: [Skeleton -> Szkielet CREA^dead_skeleton] [Skeleton Warrior -> Szkielet-wojownik CREA^skeleton warrior] [Warrior -> Wojownik CLAS^Warrior]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CREA^Skeleton_FM_king</key>
+	<val>Grurn</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>DOOR^firemoth_gate_1</key>
+	<val>Brama Biura Spisów</val>
+	<!--
+	Glossary: [Census and Excise Gate -> Brama Biura Spisów DOOR^Ex_De_SN_Gate] [Gate -> Wrota DOOR^ex_S_fence_gate]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>DOOR^firemoth_gate_2</key>
+	<val>Brama Biura Spisów</val>
+	<!--
+	Glossary: [Census and Excise Gate -> Brama Biura Spisów DOOR^Ex_De_SN_Gate] [Gate -> Wrota DOOR^ex_S_fence_gate]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^index_master</key>
+	<val>Główny indeks portalu</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^key_firemoth</key>
+	<val>Klucz do lochów Fortu Ognia</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^key_tohan_unique</key>
+	<val>Klucz Norvayne'a</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^Firemoth_Archer</key>
+	<val>Mara</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^Firemoth_Mage</key>
+	<val>Aronil</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^Firemoth_Sailor</key>
+	<val>Silm-Dar</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^Firemoth_Warrior</key>
+	<val>Hjrondir</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^aradraen</key>
+	<val>Aradraen</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^dalin norvayne</key>
+	<val>Dalin Norvayne</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^daris norvayne</key>
+	<val>Daris Norvayne</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^firemoth_cat</key>
+	<val>J'Hanir</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>REGN^Firemoth Region</key>
+	<val>Fort Ognia</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>SPEL^regenhealth_ability_10</key>
+	<val>Regeneracja zdrowia</val>
+	<!--
+	Glossary: [Regenerate -> Regeneracja SPEL^regenerate [ability]]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>SPEL^regenmagicka_ability_10</key>
+	<val>Regeneracja many</val>
+	<!--
+	Glossary: [Regenerate -> Regeneracja SPEL^regenerate [ability]]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>SPEL^shockblast</key>
+	<val>Porażający Cios</val>
+	<!--
+	Glossary: [Shock -> Porażenie SPEL^shock]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_firestorm_arrow</key>
+	<val>Okrutna Strzała Ognistej Burzy</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_firestorm_bolt</key>
+	<val>Okrutny Bełt Ognistej Burzy</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_firestorm_dart</key>
+	<val>Okrutna Rzutka Ognistej Burzy</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_firestorm_star</key>
+	<val>Okrutna Gwiazda Ognistej Burzy</val>
+	<!--
+	Glossary: [Star -> Gwiazda NPC_^star]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_frostbloom_arrow</key>
+	<val>Okrut. Strzała Lodowego Kwiecia</val>
+	<!--
+	Glossary: [Frostbloom -> Mroźne Kwiecie SPEL^frostbloom]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_frostbloom_bolt</key>
+	<val>Okrutny Bełt Lodowego Kwiecia</val>
+	<!--
+	Glossary: [Frostbloom -> Mroźne Kwiecie SPEL^frostbloom]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_frostbloom_dart</key>
+	<val>Okrutna Rzutka Lodowego Kwiecia</val>
+	<!--
+	Glossary: [Frostbloom -> Mroźne Kwiecie SPEL^frostbloom]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_frostbloom_star</key>
+	<val>Okrut. Gwiazda Lodowego Kwiecia</val>
+	<!--
+	Glossary: [Frostbloom -> Mroźne Kwiecie SPEL^frostbloom] [Star -> Gwiazda NPC_^star]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_poisonbloom_arrow</key>
+	<val>Okr. Strzała Trującego Kwiecia</val>
+	<!--
+	Glossary: [Poison -> Trucizna SPEL^poison] [Poisonbloom -> Trujące Kwiecie SPEL^poisonbloom]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_poisonbloom_bolt</key>
+	<val>Okrut. Bełt Trującego Kwiecia</val>
+	<!--
+	Glossary: [Poison -> Trucizna SPEL^poison] [Poisonbloom -> Trujące Kwiecie SPEL^poisonbloom]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_poisonbloom_dart</key>
+	<val>Okrut. Rzutka Trującego Kwiecia</val>
+	<!--
+	Glossary: [Poison -> Trucizna SPEL^poison] [Poisonbloom -> Trujące Kwiecie SPEL^poisonbloom]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_poisonbloom_star</key>
+	<val>Okr. Gwiazda Trującego Kwiecia</val>
+	<!--
+	Glossary: [Poison -> Trucizna SPEL^poison] [Poisonbloom -> Trujące Kwiecie SPEL^poisonbloom] [Star -> Gwiazda NPC_^star]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_shockbloom_arrow</key>
+	<val>Okr. Strzała Kwiecia Błyskawic</val>
+	<!--
+	Glossary: [Shock -> Porażenie SPEL^shock] [Shockbloom -> Kwiecie Błyskawic SPEL^shockbloom]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_shockbloom_bolt</key>
+	<val>Okrut. Bełt Kwiecia Błyskawic</val>
+	<!--
+	Glossary: [Shock -> Porażenie SPEL^shock] [Shockbloom -> Kwiecie Błyskawic SPEL^shockbloom]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_shockbloom_dart</key>
+	<val>Okrut. Rzutka Kwiecia Błyskawic</val>
+	<!--
+	Glossary: [Shock -> Porażenie SPEL^shock] [Shockbloom -> Kwiecie Błyskawic SPEL^shockbloom]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^cruel_shockbloom_star</key>
+	<val>Okr. Gwiazda Kwiecia Błyskawic</val>
+	<!--
+	Glossary: [Shock -> Porażenie SPEL^shock] [Shockbloom -> Kwiecie Błyskawic SPEL^shockbloom] [Star -> Gwiazda NPC_^star]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_firestorm_arrow</key>
+	<val>Zabój. Strzała Ognistej Burzy</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_firestorm_bolt</key>
+	<val>Zabójczy Bełt Ognistej Burzy</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_firestorm_dart</key>
+	<val>Zabójcza Rzutka Ognistej Burzy</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_firestorm_star</key>
+	<val>Zabój. Gwiazda Ognistej Burzy</val>
+	<!--
+	Glossary: [Star -> Gwiazda NPC_^star]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_frostbloom_arrow</key>
+	<val>Zabój. Strzała Lodowego Kwiecia</val>
+	<!--
+	Glossary: [Frostbloom -> Mroźne Kwiecie SPEL^frostbloom]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_frostbloom_bolt</key>
+	<val>Zabój. Bełt Lodowego Kwiecia</val>
+	<!--
+	Glossary: [Frostbloom -> Mroźne Kwiecie SPEL^frostbloom]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_frostbloom_dart</key>
+	<val>Zabój. Rzutka Lodowego Kwiecia</val>
+	<!--
+	Glossary: [Frostbloom -> Mroźne Kwiecie SPEL^frostbloom]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_frostbloom_star</key>
+	<val>Zabój. Gwiazda Lodowego Kwiecia</val>
+	<!--
+	Glossary: [Frostbloom -> Mroźne Kwiecie SPEL^frostbloom] [Star -> Gwiazda NPC_^star]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_poisonbloom_arrow</key>
+	<val>Zab. Strzała Trującego Kwiecia</val>
+	<!--
+	Glossary: [Poison -> Trucizna SPEL^poison] [Poisonbloom -> Trujące Kwiecie SPEL^poisonbloom]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_poisonbloom_bolt</key>
+	<val>Zabój. Bełt Trującego Kwiecia</val>
+	<!--
+	Glossary: [Poison -> Trucizna SPEL^poison] [Poisonbloom -> Trujące Kwiecie SPEL^poisonbloom]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_poisonbloom_dart</key>
+	<val>Zabój. Rzutka Trującego Kwiecia</val>
+	<!--
+	Glossary: [Poison -> Trucizna SPEL^poison] [Poisonbloom -> Trujące Kwiecie SPEL^poisonbloom]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_poisonbloom_star</key>
+	<val>Zab. Gwiazda Trującego Kwiecia</val>
+	<!--
+	Glossary: [Poison -> Trucizna SPEL^poison] [Poisonbloom -> Trujące Kwiecie SPEL^poisonbloom] [Star -> Gwiazda NPC_^star]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_shockbloom_arrow</key>
+	<val>Zab. Strzała Kwiecia Błyskawic</val>
+	<!--
+	Glossary: [Shock -> Porażenie SPEL^shock] [Shockbloom -> Kwiecie Błyskawic SPEL^shockbloom]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_shockbloom_bolt</key>
+	<val>Zabój. Bełt Kwiecia Błyskawic</val>
+	<!--
+	Glossary: [Shock -> Porażenie SPEL^shock] [Shockbloom -> Kwiecie Błyskawic SPEL^shockbloom]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_shockbloom_dart</key>
+	<val>Zabój. Rzutka Kwiecia Błyskawic</val>
+	<!--
+	Glossary: [Shock -> Porażenie SPEL^shock] [Shockbloom -> Kwiecie Błyskawic SPEL^shockbloom]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dire_shockbloom_star</key>
+	<val>Zab. Gwiazda Kwiecia Błyskawic</val>
+	<!--
+	Glossary: [Shock -> Porażenie SPEL^shock] [Shockbloom -> Kwiecie Błyskawic SPEL^shockbloom] [Star -> Gwiazda NPC_^star]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dread_firestorm_arrow</key>
+	<val>Strasz. Strzała Ognistej Burzy</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dread_frostbloom_arrow</key>
+	<val>Str. Strzała Lodowego Kwiecia</val>
+	<!--
+	Glossary: [Frostbloom -> Mroźne Kwiecie SPEL^frostbloom]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dread_poisonbloom_arrow</key>
+	<val>Str. Strzała Trującego Kwiecia</val>
+	<!--
+	Glossary: [Poison -> Trucizna SPEL^poison] [Poisonbloom -> Trujące Kwiecie SPEL^poisonbloom]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>WEAP^dread_shockbloom_arrow</key>
+	<val>Str. Strzała Kwiecia Błyskawic</val>
+	<!--
+	Glossary: [Shock -> Porażenie SPEL^shock] [Shockbloom -> Kwiecie Błyskawic SPEL^shockbloom]
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^10983293811786215385</key>
+	<val>Brat miał ostatnie słowo w naszym sporze, chociaż szanse były wyrównane. Zgodnie z jego decyzją udamy się wraz z tobą w głąb tych ruin. Proszę, weź ten klucz. Nas nie interesuje skarb, ale może tobie przyda się do znalezienia tego, czego szukasz. Ruszajmy.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^11348180411884827267</key>
+	<val>Jak wygląda sytuacja w Forcie Ognia [Fort Ognia]?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2: [Firemoth]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^1167012954534529711</key>
+	<val>Dzięki ci za odnalezienie mnie! Przez długi czas tylko grzyby utrzymywały mnie przy życiu. Prowadź, pomogę, jak tylko będę mógł.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [mushrooms -> grzyby]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^11868222482437830631</key>
+	<val>Widziałam gorsze rzeczy. Ruszajmy dalej.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^143518688481017612</key>
+	<val>Udało ci się znaleźć swój skarb, druhu. W tym miejscu nasze ścieżki powinny się rozdzielić. Ja zostanę tu jeszcze przez chwilę. Powodzenia.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [luck -> szczęście]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^14500272529981491</key>
+	<val>Możemy już wracać do Seyda Neen?</val>
+	<!--
+	Glossary: [Seyda Neen -> Seyda Neen ACTI^active_sign_seydaneen_01]
+	Hyperlinks 1: [Seyda Neen -> Seyda Neen]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^1467626429485018928</key>
+	<val>Wejdziemy do ruin poźniej, kiedy już odpowiednio się przygotujemy. Mój brat miał ostatnie słowo w naszym sporze.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^171398799317837490</key>
+	<val>Mój brat ma ostatnie słowo w naszym sporze, więc postąpimy zgodnie z jego decyzją. Musisz zbadać te ruiny na własną rękę. My wejdziemy poźniej, kiedy już odpowiednio się przygotujemy. Proszę, weź ten klucz. Nas nie interesuje skarb, ale może tobie przyda się do znalezienia tego, czego szukasz. Ruszajmy.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [luck -> szczęście]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^17161184441559432599</key>
+	<val>Wejdziemy do ruin poźniej, kiedy już odpowiednio się przygotujemy.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^18298208411770219941</key>
+	<val>W razie czego wiesz gdzie mnie znaleźć.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^188124870198021300</key>
+	<val>Ta sprawa ciebie nie dotyczyła! Teraz musisz stawić czoła nam obu!</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^1957259931025012876</key>
+	<val>Powodzenia w kolejnych wyprawach, druhu.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [luck -> szczęście]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^20083200091101611667</key>
+	<val>Miałem ostatnie słowo w sporze z bratem, więc zrobimy to, co postanowiłem. Musisz zbadać te ruiny na własną rękę. My wejdziemy poźniej, kiedy już odpowiednio się przygotujemy. Proszę, weź ten klucz. Nas nie interesuje skarb, ale może tobie przyda się do znalezienia tego, czego szukasz. Ruszajmy.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [luck -> szczęście]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^231724779969828437</key>
+	<val>Ruszamy do Fortu Ognia?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2: [Firemoth]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^242753219211862537</key>
+	<val>Prowadź! Przybyliśmy tu, by zabijać!</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^2446520884141521422</key>
+	<val>Ruszajmy w głąb tych ruin.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^2725290531860820515</key>
+	<val>Miałem ostatnie słowo w sporze z bratem, chociaż szanse były wyrównane. Zgodnie z moją decyzją udamy się wraz z tobą w głąb tych ruin. Proszę, weź ten klucz. Nas nie interesuje skarb, ale może tobie przyda się do znalezienia tego, czego szukasz. Ruszajmy.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^2755111668738012346</key>
+	<val>Udało ci się znaleźć swój skarb, druhu. W tym miejscu nasze ścieżki powinny się rozdzielić. Ja tu zostanę. Powodzenia.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [luck -> szczęście]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^30573282272275624106</key>
+	<val>Powodzenia w kolejnych wyprawach, druhu.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [luck -> szczęście]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^31074262511675025898</key>
+	<val>Świetne wyczucie czasu, %PCName! Potrzebuję kogoś, kto poprowadziłby grupę najemników do Fortu Ognia [Fort Ognia].</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2: [Firemoth]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^31849260202577125420</key>
+	<val>Udało ci się znaleźć swój skarb, druhu. W tym miejscu nasze ścieżki powinny się rozdzielić. Powodzenia!</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [luck -> szczęście]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^3205113087239926396</key>
+	<val>Witaj. Zakładam, że chcesz zbadać te ruiny?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2: [explore these ruins]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^3238626648911710898</key>
+	<val>Będę ci towarzyszyć. Mam nadzieję, że wiesz, co robisz.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^36182008517969942</key>
+	<val>Ta sprawa ciebie nie dotyczyła! Teraz musisz stawić czoła nam obu!</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^612811793116421980</key>
+	<val>Udało ci się znaleźć swój skarb, druhu. W tym miejscu nasze ścieżki powinny się rozdzielić. Ja tu zostanę. Powodzenia.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [luck -> szczęście]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^7271278952064618695</key>
+	<val>Witaj! Ty też chcesz zbadać te ruiny?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2: [explore these ruins]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^83386568163719408</key>
+	<val>A zatem w drogę.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^9787120001898823131</key>
+	<val>Ruszajmy w głąb tych ruin.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^10578302781805425225</key>
+	<val>Przychodzisz po kolejne obowiązki, %PCName? A może interesuje cię praca dla mnie?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [duties -> obowiązki] [work -> praca]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^111402261359917831</key>
+	<val>Mnie szukasz? Czy chcesz dołączyć do gildii magów? A może interesuje cię praca dla mnie?</val>
+	<!--
+	Glossary: [Mage -> Mag CLAS^Mage] [Mages Guild -> Gildia magów FACT^Mages Guild] [The Mage -> Mag BSGN^Fay]
+	Hyperlinks 1: [Mages Guild -> gildia magów] [join the Mages Guild -> dołączy?do gildii magów] [work -> praca]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^12297226801330610596</key>
+	<val>Czym mogę ci służyć, %PCName? Może zainteresuje cię praca dla mnie?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [work -> praca]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^12690224821694316719</key>
+	<val>Mnie szukasz? Czy chcesz dołączyć do gildii magów? A może sprowadza cię tu zlecona przeze mnie praca?</val>
+	<!--
+	Glossary: [Mage -> Mag CLAS^Mage] [Mages Guild -> Gildia magów FACT^Mages Guild] [The Mage -> Mag BSGN^Fay]
+	Hyperlinks 1: [Mages Guild -> gildia magów] [join the Mages Guild -> dołączy?do gildii magów] [work -> praca]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^13376119851154926801</key>
+	<val>Czym mogę ci służyć, %PCName? Czy sprowadza cię tu zlecona przeze mnie praca?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [work -> praca]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^17495165722579623008</key>
+	<val>Przychodzisz po kolejne obowiązki, %PCName? A może sprowadza cię tu zlecona przeze mnie praca?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [duties -> obowiązki] [work -> praca]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^2146127315156412736</key>
+	<val>Przychodzisz po kolejne obowiązki, %PCName? A może sprowadza cię tu zlecona przeze mnie praca?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [duties -> obowiązki] [work -> praca]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^2443368472828827142</key>
+	<val>Mnie szukasz? Czy chcesz dołączyć do gildii magów? A może sprowadza cię tu zlecona przeze mnie praca?</val>
+	<!--
+	Glossary: [Mage -> Mag CLAS^Mage] [Mages Guild -> Gildia magów FACT^Mages Guild] [The Mage -> Mag BSGN^Fay]
+	Hyperlinks 1: [Mages Guild -> gildia magów] [join the Mages Guild -> dołączy?do gildii magów] [work -> praca]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^24576266302597724067</key>
+	<val>Czym mogę ci służyć, %PCName? A może sprowadza cię tu zlecona przeze mnie praca?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [work -> praca]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 7^171343168140283456</key>
+	<val>Witam. Jestem Dulnea Ralaal, gospoda "Osiem Talerzy" w mieście Balmora to moja własność. Mamy tu łóżka i trochę towarów na sprzedaż. Jeśli nie znasz miasta, mogę ci również powiedzieć, gdzie znajdziesz inne usługi lub jakieś konkretne miejsce. Jeśli interesuje cię konkretna osoba, być może również będę ci w stanie pomóc. A może chcesz zabawić gości?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [Balmora -> Balmora] [Beds -> łóżka] [Services -> usługi] [patron -> opiekun] [someone in particular -> konkretna osoba] [specific place -> konkretne miejsce]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^10473104881705412193</key>
+	<val>Ponieważ to Daris wygrał w "dyskusji", bracia zbadają ruiny bez mojej pomocy.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^14923238751034622163</key>
+	<val>Adamantowy Hełm Tohana</val>
+	<!--
+	Glossary: [Adamantium Helm -> Adamantowy hełm ARMO^addamantium_helm]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^1779291122467131464</key>
+	<val>Po Dagon Fel krąży plotka o wspaniałym hełmie ukrytym w ruinach miejsca zwanego Onnissiralis. To duża daedryczna kaplica na dalekiej północy Vvardenfell, na zachód od Vas. Zasugerowano mi odszukanie braci Norvayne, którzy niedawno wyruszyli do tych ruin.</val>
+	<!--
+	Glossary: [Dagon Fel -> Dagon Fel ACTI^active_sign_dagon_fel_01]
+	Hyperlinks 1: [Daedric -> daedryczne] [Dagon Fel -> Dagon Fel] [Vas -> Vas] [Vvardenfell -> Vvardenfell]
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^185572323146132493</key>
+	<val>Udało mi się odnaleźć braci Norvayne, Dalina i Darisa. Wydają się niezdecydowani odnośnie sposobu, w jaki mają zbadać ruiny. Dalin chciałby zaangażować w to więcej osób, by zwiększyć swe szanse na przeżycie, natomiast Daris uważa, że honor rodziny wymaga, aby zrobili to sami.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2: [family honor]
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^24205265833107720210</key>
+	<val>Udało mi się odzyskać adamantowy hełm Tohana.</val>
+	<!--
+	Glossary: [Adamantium Helm -> Adamantowy hełm ARMO^addamantium_helm]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^2608255161727131531</key>
+	<val>Daris pokonał swego brata w walce na gołe pięści.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^2660066762222327116</key>
+	<val>Dalin Norvayne został zabity.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^2849516201187924511</key>
+	<val>Bracia postanowili omówić różnice zdań w dość osobliwy sposób: walką na pięści. Ten, który dłużej utrzyma się na nogach, postanowi o ich dalszych krokach.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [work -> praca]
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^30454124011522613857</key>
+	<val>Bracia Norvayne uznali mnie za swego wroga, ponieważ zostali przeze mnie zaatakowani w czasie ich "dyskusji".</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^32525242732457522320</key>
+	<val>Daris Norvayne został zabity.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^3261428716250134620</key>
+	<val>Jeden z braci Norvayne został przeze mnie zaatakowany w czasie ich walki.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^32644257278506277</key>
+	<val>Żaden z braci Norvayne nie chce mi dłużej towarzyszyć.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [escort -> eskorta]
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^5214276902741527848</key>
+	<val>Dalin pokonał swego brata w walce na gołe pięści.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^EBQ_Artifact^697619032343425522</key>
+	<val>Bracia udadzą się ze mną w głąb ruin, ponieważ Dalin wygrał "dyskusję" ze swoim bratem.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^1262032611271120297</key>
+	<val>Folms Mirel zapłacił mi 500 sztuk złota za indeks portalu Valenvaryon. Teraz potrzebny mu będzie indeks portalu Indoranyon. Divayth Fyr, stary i potężny czarodziej Telvanni zamieszkujący wieżę Tel Fyr, raczej nie zechce się z nim rozstać.</val>
+	<!--
+	Glossary: [Divayth Fyr -> Divayth Fyr NPC_^divayth fyr] [Gold -> szt. złota MISC^Gold_001] [Indoranyon Propylon -> Portyk Indoranyon ACTI^active_port_indo] [Indoranyon Propylon Index -> Indeks portalu Indoranyon MISC^index_indo] [Pot -> Garniec CONT^pot_01] [Tel Fyr -> Tel Fyr ACTI^Act_banner_Tel_Fyr] [Val -> Val NPC_^val] [Valenvaryon Propylon -> Portyk Valenvaryon ACTI^active_port_valen] [Valenvaryon Propylon Index -> Indeks portalu Valenvaryon MISC^index_valen]
+	Hyperlinks 1: [Divayth Fyr -> Divayth Fyr] [Tel Fyr -> Tel Fyr] [need -> potrzeba]
+	Hyperlinks 2: [Indoranyon] [Valenvaryon] [propylon index]
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^132591344352143527</key>
+	<val>Folms Mirel zapłacił mi 500 sztuk złota za indeks portalu Hlormaren. Teraz potrzebny mu będzie indeks portalu Marandus. Został spakowany i dostarczony do Świątyni św. Olmsa w Vivek. Folms Mirel kazał mi rozglądać się za pustymi skrzyniami w magazynie. Muszę zrobić to z należytą starannością - indeks jest mały, szary i łatwo przegapić go w półmroku.</val>
+	<!--
+	Glossary: [Crate -> Skrzynka CONT^crate_01_imp_weapons] [Folms Mirel -> Folms Mirel NPC_^folms mirel] [Gold -> szt. złota MISC^Gold_001] [Hlormaren Propylon -> Portyk Hlormaren ACTI^active_port_hlor] [Hlormaren Propylon Index -> Indeks portalu Hlormaren MISC^index_hlor] [Light -> Światło SPEL^light] [Marandus Propylon -> Portyk Marandus ACTI^active_port_maran] [Marandus Propylon Index -> Indeks portalu Marandus MISC^index_maran] [Pot -> Garniec CONT^pot_01] [Temple -> Świątynia FACT^Temple] [Vivec -> Vivek ACTI^active_sign_vivec_01]
+	Hyperlinks 1: [Hlormar -> Hlormar] [Mara -> Mara] [Temple -> Świątynia] [Vivec -> Vivek] [need -> potrzeba]
+	Hyperlinks 2: [Hlormaren] [Marandus] [propylon index]
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^1419216633316847514</key>
+	<val>Folms Mirel zapłacił mi 500 sztuk złota za indeks portalu Indoranyon. Teraz potrzebny mu będzie indeks portalu Berandas. Znajduje się w posiadaniu czarodzieja Baladasa Demnevanniego z Gnisis. Jego wieża zwana jest Arvs Drelen. Mieszkańcy Gnisis obawiają się go, ale skoro mieszka między nimi od tylu lat, to chyba nie może być aż taki zły.</val>
+	<!--
+	Glossary: [Baladas Demnevanni -> Baladas Demnevanni NPC_^baladas demnevanni] [Berandas Propylon -> Portyk Berandas ACTI^active_port_beran] [Berandas Propylon Index -> Indeks portalu Berandas MISC^index_beran] [Gnisis -> Gnisis ACTI^active_sign_gnisis_01] [Gold -> szt. złota MISC^Gold_001] [Indoranyon Propylon -> Portyk Indoranyon ACTI^active_port_indo] [Indoranyon Propylon Index -> Indeks portalu Indoranyon MISC^index_indo] [Pot -> Garniec CONT^pot_01]
+	Hyperlinks 1: [Baladas -> Baladas] [Gnisis -> Gnisis] [need -> potrzeba]
+	Hyperlinks 2: [Berandas] [Indoranyon] [propylon index]
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^1621294992722025146</key>
+	<val>Folms Mirel zapłacił mi 500 sztuk złota za indeks portalu Falasmaryon. Teraz potrzebny mu będzie indeks portalu Valenvaryon. Nibani Maesa, Wieszczka plemienia Popielnych z obozu Urshilaku, ma przy sobie ten indeks. Może nie być świadoma jego wartości i zgodzi się sprzedać go za bezcen.</val>
+	<!--
+	Glossary: [Falasmaryon Propylon -> Portyk Falasmaryon ACTI^active_port_falas] [Falasmaryon Propylon Index -> Indeks portalu Falasmaryon MISC^index_falas] [Gold -> szt. złota MISC^Gold_001] [Nibani Maesa -> Nibani Maesa NPC_^nibani maesa] [Pot -> Garniec CONT^pot_01] [Val -> Val NPC_^val] [Valenvaryon Propylon -> Portyk Valenvaryon ACTI^active_port_valen] [Valenvaryon Propylon Index -> Indeks portalu Valenvaryon MISC^index_valen] [Wise Woman -> Wieszczka CLAS^Wise Woman]
+	Hyperlinks 1: [Urshilaku -> Urshilaku] [Urshilaku camp -> obóz Urshilaku] [need -> potrzeba]
+	Hyperlinks 2: [Falasmaryon] [Valenvaryon] [propylon index]
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^1784519246761225725</key>
+	<val>Folms Mirel zapłacił mi 500 sztuk złota za indeks portalu Marandus. Teraz potrzebny mu będzie indeks portalu Falasmaryon. Pielgrzym złożył go w ofierze przy kaplicy w Maar Gan.</val>
+	<!--
+	Glossary: [Falasmaryon Propylon -> Portyk Falasmaryon ACTI^active_port_falas] [Falasmaryon Propylon Index -> Indeks portalu Falasmaryon MISC^index_falas] [Gold -> szt. złota MISC^Gold_001] [Maar Gan -> Maar Gan ACTI^active_sign_maar_gan_01] [Marandus Propylon -> Portyk Marandus ACTI^active_port_maran] [Marandus Propylon Index -> Indeks portalu Marandus MISC^index_maran] [Pilgrim -> Pielgrzym CLAS^Pilgrim] [Pot -> Garniec CONT^pot_01]
+	Hyperlinks 1: [Maar Gan -> Maar Gan] [Mara -> Mara] [need -> potrzeba]
+	Hyperlinks 2: [Falasmaryon] [Marandus] [propylon index]
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^225026164661014075</key>
+	<val>Folms Mirel zapłacił mi 500 sztuk złota za indeks portalu Telasero. Podarował mi też główny indeks portalu. Od teraz, kiedy tylko zechcę udać się do dunmerskiej twierdzy, wystarczy, że porozmawiam z Mirelem. Przy pomocy głównego indeksu przeniesie mnie bezpośrednio do wybranej twierdzy. Aby wrócić wprost do Caldery muszę jedynie aktywować dowolny portal mając główny indeks w kieszeni.</val>
+	<!--
+	Glossary: [Caldera -> Caldera ACTI^active_sign_caldera_01] [Folms Mirel -> Folms Mirel NPC_^folms mirel] [Gold -> szt. złota MISC^Gold_001] [Sen -> Sen NPC_^sen] [Telasero Propylon -> Portyk Telasero ACTI^active_port_telas] [Telasero Propylon Index -> Indeks portalu Telasero MISC^index_telas]
+	Hyperlinks 1: [Caldera -> Caldera] [Dunmer -> Dunmerowie] [stronghold -> twierdza]
+	Hyperlinks 2: [Telasero] [propylon index]
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^256192751730832936</key>
+	<val>Folms Mirel zapłacił mi 500 sztuk złota za indeks portalu Berandas. Teraz potrzebny mu będzie indeks portalu Andasreth. Należy do sprawiającej wieczne problemy mrocznej elfki imieniem Brilnosu Llarys, niestety nie nosi go przy sobie. Za kryjówkę obrała sobie kopułę na szczycie dunmerskiej twierdzy Hlormaren, położonej na wybrzeżu, na zachód od Balmory. W czasie poszukiwań indeksu muszę zachować wyjątkową ostrożność.</val>
+	<!--
+	Glossary: [Andasreth Propylon -> Portyk Andasreth ACTI^active_port_andra] [Andasreth Propylon Index -> Indeks portalu Andasreth MISC^index_andra] [Balmora -> Balmora ACTI^active_sign_balmora_01] [Berandas Propylon -> Portyk Berandas ACTI^active_port_beran] [Berandas Propylon Index -> Indeks portalu Berandas MISC^index_beran] [Brilnosu Llarys -> Brilnosu Llarys NPC_^brilnosu llarys] [Dark Elf -> Mroczny elf RACE^Dark Elf] [Gold -> szt. złota MISC^Gold_001] [Hide -> Ukrycie SPEL^hide] [Pot -> Garniec CONT^pot_01]
+	Hyperlinks 1: [Andasreth -> Andasreth] [Balmora -> Balmora] [Brilnosu Llarys -> Brilnosu Llarys] [Dunmer -> Dunmerowie] [Hlormar -> Hlormar] [need -> potrzeba] [stronghold -> twierdza]
+	Hyperlinks 2: [Berandas] [Hlormaren] [propylon index]
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^26505221271893117980</key>
+	<val>Folms Mirel zapłacił mi 500 sztuk złota za indeks portalu Andasreth. Teraz potrzebny mu będzie indeks portalu Rotheran. Ma go Rols Ienith, obłąkany banita, który zapewne odda go jedynie "po swoim trupie". Mieszka we wspólnym domu na szczycie Rotheran, dunmerskiej twierdzy położonej na południowym cyplu wyspy Dagon Fel.</val>
+	<!--
+	Glossary: [Andasreth Propylon -> Portyk Andasreth ACTI^active_port_andra] [Andasreth Propylon Index -> Indeks portalu Andasreth MISC^index_andra] [Dagon Fel -> Dagon Fel ACTI^active_sign_dagon_fel_01] [Gold -> szt. złota MISC^Gold_001] [Pot -> Garniec CONT^pot_01] [Rols Ienith -> Rols Ienith NPC_^rols ienith] [Rotheran Propylon -> Portyk Rotheran ACTI^active_port_roth] [Rotheran Propylon Index -> Indeks portalu Rotheran MISC^index_roth]
+	Hyperlinks 1: [Andasreth -> Andasreth] [Dagon Fel -> Dagon Fel] [Dunmer -> Dunmerowie] [Ienith -> Ienith] [Rotheran -> Rotheran] [need -> potrzeba] [stronghold -> twierdza] [tip -> napiwek]
+	Hyperlinks 2: [propylon index]
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^27364444976122592</key>
+	<val>Folms Mirel zapłacił mi 500 sztuk złota za indeks portalu Rotheran. Teraz potrzebny mu będzie indeks portalu Falensarano. Należał do cudzoziemca imieniem Hunnen, którego po raz ostatni widziano na szlaku prowadzącym do Maelkashishi, daedrycznej kaplicy położonej na zachód od Maar Gan. Hunnen prawdopodobnie nie żyje, a odnalezienie jego ciała i indeksu raczej nie będzie łatwym zadaniem.</val>
+	<!--
+	Glossary: [Corpse -> Zwłoki CONT^contain_corpse20] [Falensarano Propylon -> Portyk Falensarano ACTI^active_port_falen] [Falensarano Propylon Index -> Indeks portalu Falensarano MISC^index_falen] [Gold -> szt. złota MISC^Gold_001] [Maar Gan -> Maar Gan ACTI^active_sign_maar_gan_01] [Pot -> Garniec CONT^pot_01] [Rotheran Propylon -> Portyk Rotheran ACTI^active_port_roth] [Rotheran Propylon Index -> Indeks portalu Rotheran MISC^index_roth]
+	Hyperlinks 1: [Daedric -> daedryczne] [Falensarano -> Falensarano] [Maar Gan -> Maar Gan] [Maelkashishi -> Maelkashishi] [Rotheran -> Rotheran] [need -> potrzeba] [outlander -> obcy]
+	Hyperlinks 2: [propylon index]
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^30574168261496030242</key>
+	<val>Główny indeks portalu</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^435432336549732471</key>
+	<val>Folms Mirel zapłacił mi 500 sztuk złota za indeks portalu Falensarano. Został jeszcze jeden - indeks portalu Telasero. Znaleźć go można w Telasero, dunmerskiej twierdzy położonej między miastami Suran i Molag Mar, na południowym wybrzeżu regionu Molag Amur. Indeks ukryto w mrocznym miejscu między wieloma innymi przedmiotami.</val>
+	<!--
+	Glossary: [Falensarano Propylon -> Portyk Falensarano ACTI^active_port_falen] [Falensarano Propylon Index -> Indeks portalu Falensarano MISC^index_falen] [Gold -> szt. złota MISC^Gold_001] [Molag Amur Region -> Molag Mar REGN^Molag Mar Region] [Molag Mar -> Molag Mar ACTI^active_sign_Molag_Mar_01] [Suran -> Suran ACTI^active_sign_suran_01] [Telasero Propylon -> Portyk Telasero ACTI^active_port_telas] [Telasero Propylon Index -> Indeks portalu Telasero MISC^index_telas]
+	Hyperlinks 1: [Dunmer -> Dunmerowie] [Falensarano -> Falensarano] [Molag Amur -> Molag Amur] [Molag Mar -> Molag Mar] [Suran -> Suran] [stronghold -> twierdza]
+	Hyperlinks 2: [Telasero] [propylon index]
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_Master_Index^977086423504898</key>
+	<val>Folms Mirel z gildii magów w Calderze zapłaci mi 500 sztuk złota za każdy dostarczony mu indeks portalu. Zdradzi mi, gdzie można znaleźć jeden z nich, a kiedy mu go przyniosę, opowie mi o kolejnym. Kiedy będzie miał już wszystkie dziesięć, wykona dla mnie główny indeks portalu, dzięki któremu będę w stanie podróżować do wszystkich dunmerskich twierdz na Vvardenfell. Pierwszy indeks, pozwalający na podróż do twierdzy Hlormaren, znajduje się w posiadaniu Irgoli, właściciela lombardu w Calderze.</val>
+	<!--
+	Glossary: [Caldera -> Caldera ACTI^active_sign_caldera_01] [Folms Mirel -> Folms Mirel NPC_^folms mirel] [Gold -> szt. złota MISC^Gold_001] [Hlormaren Propylon -> Portyk Hlormaren ACTI^active_port_hlor] [Hlormaren Propylon Index -> Indeks portalu Hlormaren MISC^index_hlor] [Irgola -> Irgola NPC_^irgola] [Mage -> Mag CLAS^Mage] [Mages Guild -> Gildia magów FACT^Mages Guild] [Pawnbroker -> Właściciel lombardu CLAS^Pawnbroker]
+	Hyperlinks 1: [Caldera -> Caldera] [Dunmer -> Dunmerowie] [Hlormar -> Hlormar] [Irgola -> Irgola] [Mages Guild -> gildia magów] [Vvardenfell -> Vvardenfell] [stronghold -> twierdza]
+	Hyperlinks 2: [Hlormaren] [propylon index]
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^ms_firemoth^1208769311828321800</key>
+	<val>Oblężenie Fortu Ognia</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2: [Firemoth]
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^ms_firemoth^1767431017788028821</key>
+	<val>Sellus Gravius z Seyda Neen poprosił mnie o poprowadzenie niewielkiej grupy najemników w celu odbicia Fortu Ognia. Mamy zmierzyć się tam ze szkieletową armią Grurna i odzyskać starożytny artefakt znany jako Obrońca Akaviru.</val>
+	<!--
+	Glossary: [Sellus Gravius -> Sellus Gravius NPC_^chargen captain] [Seyda Neen -> Seyda Neen ACTI^active_sign_seydaneen_01] [Skeleton -> Szkielet CREA^dead_skeleton]
+	Hyperlinks 1: [Seyda Neen -> Seyda Neen] [skeleton -> szkielet] [task -> zadanie]
+	Hyperlinks 2: [Firemoth] [Ward of Akavir]
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^ms_firemoth^735331089409329325</key>
+	<val>Sellus Gravius otrzymał Obrońcę Akaviru. W zamian dał mi 3000 sztuk złota.</val>
+	<!--
+	Glossary: [Gold -> szt. złota MISC^Gold_001] [Sellus Gravius -> Sellus Gravius NPC_^chargen captain]
+	Hyperlinks 1:
+	Hyperlinks 2: [Ward of Akavir]
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Andasreth^1021312775260291252</key>
+	<val>Nie mogę wysłać cię do Andasreth, jeśli nie masz przy sobie głównego indeksu.</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen]
+	Hyperlinks 1: [Andasreth -> Andasreth]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Andasreth^21766177361576431281</key>
+	<val>Kiedy tylko zechcesz...</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Andasreth^2203285845729666</key>
+	<val>Zatem w drogę...</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Andasreth^221232345276131490</key>
+	<val>Czy chcesz udać się do Andasreth?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [Andasreth -> Andasreth]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Berandas^15484214041789229376</key>
+	<val>Czy chcesz udać się do Berandas?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2: [Berandas]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Berandas^1681331238129595496</key>
+	<val>Nie mogę wysłać cię do Berandas, jeśli nie masz przy sobie głównego indeksu.</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen]
+	Hyperlinks 1:
+	Hyperlinks 2: [Berandas]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Berandas^19201280982713925042</key>
+	<val>Zatem w drogę...</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Berandas^31452220057262378</key>
+	<val>Kiedy tylko zechcesz...</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Falasmaryon^21687238681682613614</key>
+	<val>Czy chcesz udać się do Falasmaryon?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2: [Falasmaryon]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Falasmaryon^28003807723223313</key>
+	<val>Zatem w drogę...</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Falasmaryon^2850516005129913305</key>
+	<val>Kiedy tylko zechcesz...</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Falasmaryon^29116298723129010224</key>
+	<val>Nie mogę wysłać cię do Falasmaryon, jeśli nie masz przy sobie głównego indeksu.</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen]
+	Hyperlinks 1:
+	Hyperlinks 2: [Falasmaryon]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Falensarano^1693428742262414990</key>
+	<val>Kiedy tylko zechcesz...</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Falensarano^2445025905398211113</key>
+	<val>Zatem w drogę...</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Falensarano^28422561038584505</key>
+	<val>Czy chcesz udać się do Falensarano?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [Falensarano -> Falensarano]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Falensarano^577412582176066263</key>
+	<val>Nie mogę wysłać cię do Falensarano, jeśli nie masz przy sobie głównego indeksu.</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen]
+	Hyperlinks 1: [Falensarano -> Falensarano]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Fort Ognia^147086705101748041</key>
+	<val>Nie mów o tym. Nie wyruszaj tam. Teraz jedynie legiony umarłych strzegą murów Fortu Ognia.</val>
+	<!--
+	Glossary: [Dead Guar -> Martwy guar CREA^guar_hrmudcrabnest] [Guar -> Guar CREA^guar] [Guard -> Strażnik NPC_^BM_Imperial Guard] [Legions of the Dead -> Legiony Umarłych BOOK^bk_legionsofthedead]
+	Hyperlinks 1: [guar -> guar] [guard -> straż]
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Fort Ognia^25698274352778018313</key>
+	<val>Teraz rządzą tam nieumarli. Fort został najechany wiele lat temu. Kiedyś był to jeden z ważniejszych punktów strategicznych na Morzu Wewnętrznym, teraz to tylko zapomniana ruina.</val>
+	<!--
+	Glossary: [Guar -> Guar CREA^guar] [Guard -> Strażnik NPC_^BM_Imperial Guard]
+	Hyperlinks 1: [Inner Sea -> Morze Wewnętrzne] [guar -> guar] [guard -> straż]
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Fort Ognia^28207159951009020306</key>
+	<val>Najważniejsze jest odzyskanie Obrońcy Akaviru. Ale musimy też pomścić ludzi, którzy tam zginęli.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2: [Ward of Akavir]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Fort Ognia^3669157151196515</key>
+	<val>Nie takiej odpowiedzi się spodziewałem. Mam nadzieję, że jeszcze to przemyślisz.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Fort Ognia^488011031880361</key>
+	<val>Znakomicie! Twoja załoga będzie czekać w porcie. Porozmawiaj z kapitanem na temat podróży do Fortu Ognia. Niechaj bogowie nad tobą czuwają, %PCName.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [Talk -> porozmawiać] [blessings -> błogosławieństwa] [go with you -> iść z tobą]
+	Hyperlinks 2: [Firemoth]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Fort Ognia^7049322901533732256</key>
+	<val>Ten cesarski fort położony na wyspie na zachodzie kilka lat temu został zaatakowany przez hordę nieumarłych pod przywództwem Grurna, która wyszła prosto z morza i zdziesiątkowała garnizon. Ci, którym udało się uciec, zmuszeni byli zostawić za sobą potężny artefakt zwany Obrońcą Akaviru [Obrońca Akaviru]. Poszukuję kogoś, kto poprowadziłby tam niewielki oddział mający za zadanie odzyskanie artefaktu. Piszesz się na to?</val>
+	<!--
+	Glossary: [Imperial -> Cesarski RACE^Imperial]
+	Hyperlinks 1: [Imperial -> Cesarski] [survivor -> rozbitek]
+	Hyperlinks 2: [Ward of Akavir]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Hlormaren^1249815187281437959</key>
+	<val>Czy chcesz udać się do Hlormaren?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [Hlormar -> Hlormar]
+	Hyperlinks 2: [Hlormaren]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Hlormaren^25020321821407113475</key>
+	<val>Kiedy tylko zechcesz...</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Hlormaren^26517319421673121762</key>
+	<val>Nie mogę wysłać cię do Hlormaren, jeśli nie masz przy sobie głównego indeksu.</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen]
+	Hyperlinks 1: [Hlormar -> Hlormar]
+	Hyperlinks 2: [Hlormaren]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Hlormaren^458819095130128730</key>
+	<val>Zatem w drogę...</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Indoranyon^1074418304195614644</key>
+	<val>Zatem w drogę...</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Indoranyon^10955226441727721250</key>
+	<val>Kiedy tylko zechcesz...</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Indoranyon^10973283811730524164</key>
+	<val>Nie mogę wysłać cię do Indoranyon, jeśli nie masz przy sobie głównego indeksu.</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen]
+	Hyperlinks 1:
+	Hyperlinks 2: [Indoranyon]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Indoranyon^318811439966031130</key>
+	<val>Czy chcesz udać się do Indoranyon?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2: [Indoranyon]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Marandus^2091315552828311608</key>
+	<val>Kiedy tylko zechcesz...</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Marandus^2360485621455730623</key>
+	<val>Zatem w drogę...</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Marandus^2728940942982715492</key>
+	<val>Nie mogę wysłać cię do Marandus, jeśli nie masz przy sobie głównego indeksu.</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen]
+	Hyperlinks 1: [Mara -> Mara]
+	Hyperlinks 2: [Marandus]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Marandus^3297259922670426768</key>
+	<val>Czy chcesz udać się do Marandus?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [Mara -> Mara]
+	Hyperlinks 2: [Marandus]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Rotheran^23205147582745226600</key>
+	<val>Zatem w drogę...</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Rotheran^2895312243682321155</key>
+	<val>Kiedy tylko zechcesz...</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Rotheran^350930662239814868</key>
+	<val>Nie mogę wysłać cię do Rotheran, jeśli nie masz przy sobie głównego indeksu.</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen]
+	Hyperlinks 1: [Rotheran -> Rotheran]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Rotheran^517729084258077147</key>
+	<val>Czy chcesz udać się do Rotheran?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [Rotheran -> Rotheran]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Telasero^10025165302849626667</key>
+	<val>Kiedy tylko zechcesz...</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Telasero^212328022152231098</key>
+	<val>Zatem w drogę...</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Telasero^22263481626691333</key>
+	<val>Czy chcesz udać się do Telasero?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2: [Telasero]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Telasero^24842170691077516960</key>
+	<val>Nie mogę wysłać cię do Telasero, jeśli nie masz przy sobie głównego indeksu.</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen]
+	Hyperlinks 1:
+	Hyperlinks 2: [Telasero]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Valenvaryon^1912424620847430306</key>
+	<val>Zatem w drogę...</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Valenvaryon^2259224481247439100</key>
+	<val>Kiedy tylko zechcesz...</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Valenvaryon^27636160319522753</key>
+	<val>Czy chcesz udać się do Valenvaryon?</val>
+	<!--
+	Glossary: [Val -> Val NPC_^val]
+	Hyperlinks 1:
+	Hyperlinks 2: [Valenvaryon]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Valenvaryon^576425447125297052</key>
+	<val>Nie mogę wysłać cię do Valenvaryon, jeśli nie masz przy sobie głównego indeksu.</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen] [Val -> Val NPC_^val]
+	Hyperlinks 1:
+	Hyperlinks 2: [Valenvaryon]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Obrońca Akaviru^19412254743241727913</key>
+	<val>To zaklęta tarcza wykonana ze skóry smoka. Legion trzymał ten bezcenny artefakt w Forcie Ognia [Fort Ognia] w wielkiej tajemnicy. Teraz musimy ją jakoś odzyskać, a wraz z nią nasz honor.</val>
+	<!--
+	Glossary: [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [enchant -> zaklinanie]
+	Hyperlinks 2: [Firemoth]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Obrońca Akaviru^31285127991350025129</key>
+	<val>Udało ci się ją odzyskać! Po tylu latach, starożytny symbol honoru Legionów został odzyskany! Oto twoje obiecane 3000 sztuk złota, wraz z moimi podziękowaniami. O twoim czynie dowie się całe Cesarskie Miasto. Bezpiecznych podróży, druhu.</val>
+	<!--
+	Glossary: [Gold -> szt. złota MISC^Gold_001] [Imperial -> Cesarski RACE^Imperial] [Val -> Val NPC_^val]
+	Hyperlinks 1: [Imperial -> Cesarski] [Shal -> Shal] [my friend -> mój przyjaciel] [reward -> nagroda]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^101727389318912388</key>
+	<val>[Opowiadasz kilka dowcipów. Wywołały jedynie pojedyncze uśmiechy. To nie dowcipy były problemem, lecz sposób, w jaki je opowiedziano.] Niezły materiał. Ale twoja ekspresja i artykulacja wymagają dopracowania. Nie zaszkodziłby też bardziej odpowiedni wygląd - załóż jakąś śmieszną czapkę czy coś w tym stylu. Popracuj nad tym, a może pewnego dnia...</val>
+	<!--
+	Glossary: [Pot -> Garniec CONT^pot_01]
+	Hyperlinks 1: [need -> potrzeba] [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1032827187340117252</key>
+	<val>[Wyrzucasz trzy małe jaja kwama w powietrze. Te spadają na podłogę, rozbijają się, opryskując ciebie i twoją publiczność.] Świetnie. Wyjdź. Wynoś się!</val>
+	<!--
+	Glossary: [Small Kwama Egg -> Małe jajo kwama INGR^food_kwama_egg_01]
+	Hyperlinks 1: [kwama -> kwama] [kwama egg -> jajo kwama]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1063179532054918088</key>
+	<val>[Opowiadasz kilka śmiesznych dowcipów. Publiczność wybuchnęła śmiechem. Bardzo mocno. Kochają cię i spędzają z tobą miło czas.] Wiesz, to było naprawdę dobre. Byłam na wszystkich występach, ale twój bije pozostałe na głowę. Wróć kiedy tylko będziesz mógł.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^107909651054829751</key>
+	<val>[Zaczynasz z zapałem śpiewać i energicznie brzdąkać na lutni. Publiczność ze znużeniem czeka aż skończysz.] No, posiadasz jako taką osobowość, twoja koordynacja też nie jest zła... no i oczywiście masz lutnię! Ale wiesz, jeżeli chcesz poruszyć swoją publiczność, musisz koniecznie podszkolić się w dziedzinie retoryki. Koniecznie.</val>
+	<!--
+	Glossary: [Lute -> Lutnia MISC^misc_de_lute_01] [Vigor -> Wigor SPEL^vigor]
+	Hyperlinks 1: [personality -> osobowość] [speechcraft -> retoryka]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1131897832766514529</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię. Polubili cię. Niestety nie udało ci się ich porwać.] Dzięki. Koloviański hełm stanowił miły dodatek. Raczej nie zaczniesz zarabiać tym na życie. Ale nie masz się też czego wstydzić.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^11445115712813015891</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię. Dowcipy chyba się spodobały. Niemniej publiczność zachowywała się raczej cicho.] Dzięki. Pobobał mi się twój materiał. Niestety, raczej nie udało ci się podbić ich serc. Ale widziałam już znacznie gorsze występy.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^115022767965027379</key>
+	<val>[Opowiadasz kilka dowcipów. Grzecznie cię wysłuchali. Z uprzejmości nawet się uśmiechali.] To dobra publiczność - spragniona rozrywki. Twój występ nie należał do wybitnych. Ale z drugiej strony, nikt też nie usnął.</val>
+	<!--
+	Glossary: [Star -> Gwiazda NPC_^star]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^11807302391330523266</key>
+	<val>[Żonglujesz trzema małymi jajami kwama w standarowym stylu, wykonujesz półprysznic, podkreślasz to złapaniem jaja kwama na karku i przerzuceniem go przez głowę. Publiczność ogląda twoje popisy z zaciekawieniem, uśmiechają się, a gdy kończysz, życzliwie klaszczą.] Całkiem dobre. Masz swój styl, %PCName. Tylko nie spocznij na laurach.</val>
+	<!--
+	Glossary: [Jug -> Dzban MISC^misc_com_bottle_03] [Small Kwama Egg -> Małe jajo kwama INGR^food_kwama_egg_01]
+	Hyperlinks 1: [kwama -> kwama] [kwama egg -> jajo kwama] [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1181824825252718857</key>
+	<val>[Opowiadasz kilka dowcipów. To była dobra noc. Wszyscy się śmiali i wyglądali na zasmuconych, kiedy występ dobiegł końca.] Polubili cię. Ja cię polubiłam. Twój materiał jest solidny, a ta czapka uzupełnia całokształt. Wracaj do nas jak najczęściej.</val>
+	<!--
+	Glossary: [Sor -> Sor NPC_^sor]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1207155483160618040</key>
+	<val>[Opowiadasz kilka dowcipów. Ludzie śmiali się. Płakali. Udało ci się zmienić ich życie.] To było NIESAMOWITE. Nigdy nie byłam na lepszym występie. Odwiedź nas jeszcze. Wracaj jak najczęściej.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1234929163286965786</key>
+	<val>["Bitwa o Molag Beran" to pieśń, którą zna i kocha każdy Dunmer, jest także ona bardzo popularna wśród lokalnej publiczności. Wszyscy w karczmie dołączają się do śpiewania, a po wszystkim klaszczą przez dobrych kilka minut.] No, %PCName, dobrze znasz swoją publiczność. Je ci ona po prostu z rąk.</val>
+	<!--
+	Glossary: [Skooma -> Skooma ALCH^potion_skooma_01] [Sor -> Sor NPC_^sor]
+	Hyperlinks 1: [Dunmer -> Dunmerowie] [Favor -> przysługa] [Hands -> Dłonie] [know you -> znam cię] [skooma -> skooma]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^12408288321380620784</key>
+	<val>[Zaczynasz dzielnie śpiewać i energicznie brzdąkać na lutni. Publiczność marszczy brwi i zaczyna oglądać swoje paznokcie, czekając, aż to wszystko się skończy.] Och, na Viveka. Może i masz jako taką osobowość, niezłą koordynację, no i twój głos jest... no... wystarczająco głośny. No i posiadasz lutnię. To dobry początek. Niezbyt obiecujący, ale przy odpowiednim treningu może być tylko lepiej. Gorzej już raczej nie będzie...</val>
+	<!--
+	Glossary: [Lute -> Lutnia MISC^misc_de_lute_01] [Star -> Gwiazda NPC_^star] [Vigor -> Wigor SPEL^vigor]
+	Hyperlinks 1: [personality -> osobowość]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1266026761191553980</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność obserwuje to z zainteresowaniem.] Cóż, to nie było aż takie złe. Ale potrzebujesz więcej praktyki.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Guar -> Guar CREA^guar] [Pot -> Garniec CONT^pot_01] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec] [guar -> guar] [need -> potrzeba]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^129561989941518928</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność ogląda to z zainteresowaniem, ale potem marszczy brwi i odwraca wzrok.] No cóż. Mało było w tym gracji. No i te kopnięcia były jakieś słabe. Ale przy odpowiednim treningu możesz się nauczyć porządnie tańczyć wys-kok.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2: [handy high-kick]
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1321085701847113134</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię. Spodobała się im czapka i opowiadane dowcipy. Niestety nie udało ci się ich zachwycić.] Dzięki. Koloviański hełm i dowcipy zostały ciepło przyjęte. Ale jeśli chcesz wejść na wyższy poziom, to popracuj jeszcze nad swoją charyzmą i stylem mówienia.</val>
+	<!--
+	Glossary: [Pot -> Garniec CONT^pot_01]
+	Hyperlinks 1: [need -> potrzeba] [personality -> osobowość] [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1328026454262811</key>
+	<val>[Tańczysz w kółko i wykonujesz naprawdę wysokie kopnięcia. Publiczność jest zakłopotana i zawiedziona.] Phi. Niby masz jakiś talent do skakania i tańczenia. Ale nie masz pojęcia, co to jest wys-kok! Rada: załatw sobie dobrą kościaną tarczę. No i ćwicz, ćwicz i jeszcze raz ćwicz.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2: [handy high-kick]
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^13594311532263712349</key>
+	<val>[Wskakujesz na swoją kościaną tarczę, wybijasz się w powietrze, kręcisz się i wykonujesz kopnięcia, a na koniec lądujesz perfekcyjnie, lekko jak piórko i bez wysiłku. Publiczność obserwuje to z podziwem, a następnie krzyczy i bije brawo.] NIE-SA-MO-WI-TE! Znakomite przedstawienie! Ta siła, styl, gracja! Bardzo ci dziękuję i oczekuję twojego szybkiego powrotu!</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Feather -> Lekkość SPEL^feather] [Light -> Światło SPEL^light] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^136345840762922444</key>
+	<val>[Tańczysz na swojej kościanej tarczy, wyskakujesz w powietrze, obracasz się, wykonujesz wysokie kopnięcie i lądujesz na ziemi lekko i z gracją. Publiczność ogląda to z fascynacją, uśmiecha się i kiwa głowami.] Bardzo ładnie. To było naprawdę dobre. Goście byli zachwyceni. Cóż, dziękuję. Mam nadzieję, że jeszcze się zobaczymy.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Light -> Światło SPEL^light] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^138618794974726170</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię. Spodobała się im czapka i opowiadane dowcipy. Niestety nie udało ci się ich zachwycić.] Dzięki. Koloviański hełm i dowcipy zostały ciepło przyjęte. Ale jeśli chcesz wejść na wyższy poziom, to popracuj jeszcze nad swoją charyzmą i stylem mówienia.</val>
+	<!--
+	Glossary: [Pot -> Garniec CONT^pot_01]
+	Hyperlinks 1: [need -> potrzeba] [personality -> osobowość] [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1425628252588110630</key>
+	<val>[Zaczynasz powoli i prosto, następnie równomiernie przechodzisz w ciężko brzmiący rytm na swoich bębnach. Twoje uderzenia są zaraźliwe; wielu widzów dołącza do ciebie, a wszyscy spędzają dobrze czas.] To było naprawdę dobre, publice podoba się twoja gra na trzech bębnach. Jeżeli trochę potrenujesz, to jestem przekonana, że uda ci się zagrać na CZTERECH bębnach.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01] [Star -> Gwiazda NPC_^star]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1455095081326716763</key>
+	<val>[Opowiadasz kilka dowcipów. Przynajmniej wysłuchali cię uważnie - ale się nie śmiali.] Wydaje mi się, że pojmujesz podstawową ideę dowcipów. A przy odrobinie szczęścia i samozaparcia może kiedyś nauczysz się je opowiadać. Ale biorąc pod uwagę wszystkie okoliczności uważam, że jeszcze nie należy ci się główny czas sceniczny.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [luck -> szczęście]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1458367862617821748</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność obserwuje to z zainteresowaniem, uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Oglądanie twojego tańca to była czysta przyjemność. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^14998225263018830681</key>
+	<val>[Wybijasz nierówny rytm na bębnie. Publiczność zwraca na ciebie uwagę... przez krótki czas, a potem po prostu zaczyna cię ignorować.] To z całą pewnością była gra na bębnie. Ale jeżeli chcesz DOBRZE grać na tym bębnie, popracuj nad szybkością i zwinnością.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01] [Pot -> Garniec CONT^pot_01]
+	Hyperlinks 1: [agility -> zwinność] [need -> potrzeba] [speed -> szybkość]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^15316323160521832</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię. Dowcipy chyba się spodobały. Niemniej publiczność zachowywała się raczej cicho.] Dzięki. Pobobał mi się twój materiał. Niestety, raczej nie udało ci się podbić ich serc. Ale widziałam już znacznie gorsze występy.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1544032305530221951</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię. Czasem nawet się uśmiechnęli.] Dzięki. Nie było tak źle. Ale musisz się bardziej postarać, jeśli chcesz zacząć zarabiać tym na życie.</val>
+	<!--
+	Glossary: [Pot -> Garniec CONT^pot_01]
+	Hyperlinks 1: [need -> potrzeba]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1553619510264646263</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność obserwuje to z zainteresowaniem.] Cóż, to nie było aż takie złe. Ale potrzebujesz więcej praktyki.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Guar -> Guar CREA^guar] [Pot -> Garniec CONT^pot_01] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec] [guar -> guar] [need -> potrzeba]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1554016121877615062</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz wysokie kopnięcia. Publiczność marszczy brwi, a następnie kompletnie traci zainteresowanie.] To było po prostu okropne. Wysokie kopnięcia powinny być WYSOKIE. I PEŁNE WDZIĘKU. Kto ci powiedział, że tak się tańczy wys-kok?</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2: [handy high-kick]
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1567519167287542869</key>
+	<val>[Wybijasz nierówny rytm na drewnianym blacie. Publiczność okazuje niewielkie zainteresowanie.] Chyba jesteś tu od niedawna... ale w Morrowind, kiedy ktoś mówi, że będzie grał na bębnie, logicznym jest, że musi ten bęben POSIADAĆ... a nie walić w to, co akurat ma pod ręką. Tak więc lepiej stąd odejdź. I przestań denerwować mnie i moich klientów.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01]
+	Hyperlinks 1: [Morrowind -> Morrowind] [patron -> opiekun]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1583725712585523580</key>
+	<val>[Żonglujesz czterema dużymi jajami kwama w standarowym stylu. Publiczność ogląda to uważnie, a gdy kończysz, klaszcze życzliwie.] Całkiem dobre. Masz styl, %PCName. Trzymaj się.</val>
+	<!--
+	Glossary: [Jug -> Dzban MISC^misc_com_bottle_03] [Large Kwama Egg -> Duże jajo kwama INGR^food_kwama_egg_02]
+	Hyperlinks 1: [kwama -> kwama] [kwama egg -> jajo kwama] [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1625460272937223601</key>
+	<val>[Opowiadasz kilka dowcipów. Ludzie śmiali się. Płakali. Udało ci się zmienić ich życie.] To było NIESAMOWITE. Nigdy nie byłam na lepszym występie. Odwiedź nas jeszcze. Wracaj jak najczęściej.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^16404204972995513334</key>
+	<val>[Opowiadasz kilka dowcipów. Wywołały jedynie pojedyncze uśmiechy. To nie dowcipy były problemem, lecz sposób, w jaki je opowiedziano.] Niezły materiał. Ale twoja ekspresja i artykulacja wymagają dopracowania. Nie zaszkodziłby też bardziej odpowiedni wygląd - załóż jakąś śmieszną czapkę czy coś w tym stylu. Popracuj nad tym, a może pewnego dnia...</val>
+	<!--
+	Glossary: [Pot -> Garniec CONT^pot_01]
+	Hyperlinks 1: [need -> potrzeba] [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^16448160652674010743</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię - ale raczej nie bawili się zbyt dobrze.] Dzięki bogom, że to już koniec. Cóż, może i nie umiesz opowiadać dowcipów, ale przynajmniej masz szczęście. To sympatyczni ludzie. Raczej nie będą żywili urazy.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [luck -> szczęście]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^16558136612798111512</key>
+	<val>[Zaczynasz powoli i prosto, następnie równomiernie przechodzisz w ciężko brzmiący rytm na swoim bębnie. Twoje uderzenia są zaraźliwe; wielu widzów dołącza do ciebie, a wszyscy spędzają dobrze czas.] Hmm... masz talent. A publika chyba nawet cię lubi. Nie przestawaj ćwiczyć, a czeka cię wielka sława.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01] [Star -> Gwiazda NPC_^star]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1678722693361021942</key>
+	<val>[Opowiadasz kilka dowcipów. Widzowie śmiali się w odpowienich momentach. Chyba spodobał się im występ.] To było całkiem niezłe. Podoba mi się twój styl. Odwiedź nas ponownie.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1681510427186464925</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność obserwuje to z zainteresowaniem, uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Oglądanie twojego tańca to była czysta przyjemność. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1742028471376230763</key>
+	<val>[Żonglujesz czterema dużymi jajami kwama, co chwilę wykonując asychroniczny prysznic i asychroniczną fontannę, następnie przechodzisz do silnej kaskady i do prostego półprysznica. Publiczność ogląda to z wytrzeszczonymi oczami, a gdy kończysz, klaszczy entuzjastycznie.] Bardzo dobrze. Naprawdę bardzo dobrze.</val>
+	<!--
+	Glossary: [Fountain -> Fontanna ACTI^furn_forgetful_pool] [Jug -> Dzban MISC^misc_com_bottle_03] [Large Kwama Egg -> Duże jajo kwama INGR^food_kwama_egg_02]
+	Hyperlinks 1: [kwama -> kwama] [kwama egg -> jajo kwama]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^17469218073252624850</key>
+	<val>[Zaczynasz śpiewać jakąś popularną piosenkę przy akomaniamencie lutni. Publiczność grzecznie tego słucha, ale z małym zainteresowaniem.] No, masz urok śpiewaka, sprawne palce, no i całkiem przyjemny głos. Ale raczej nie uda ci się z tego wyżyć. Jeżeli jednak trochę potrenujesz, twój głos i wymowa powinny się poprawić. A, no i poszukaj sobie nowych tekstów piosenek w śpiewnikach.</val>
+	<!--
+	Glossary: [Lute -> Lutnia MISC^misc_de_lute_01]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1757031150860127453</key>
+	<val>[Wyrzucasz cztery duże jaja kwama w powietrze. Te spadają na podłogę, rozbijają się, opryskując ciebie i twoją publiczność.] Świetnie. Wyjdź. Natychmiast.</val>
+	<!--
+	Glossary: [Large Kwama Egg -> Duże jajo kwama INGR^food_kwama_egg_02]
+	Hyperlinks 1: [kwama -> kwama] [kwama egg -> jajo kwama]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^175772494841949654</key>
+	<val>[Wybijasz wpadający w ucho rytm na bębnie. Publiczność uprzejmie tego słucha, ale praktycznie bez zainteresowania.] Nieźle. Nie było doskonale, ale i nie tragicznie. Dzięki za przybycie. Przyjmij też dobrą radę: ćwicz, ćwicz i jeszcze raz ćwicz.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^17902219191266331310</key>
+	<val>Nie masz pięciu ceramicznych mis. Więc nie dasz rady żonglować pięcioma ceramicznymi misami. Nadążasz?</val>
+	<!--
+	Glossary: [Bowl -> Misa MISC^misc_com_wood_bowl_02] [Ceramic Bowl -> Misa z ceramiki MISC^misc_de_bowl_orange_green_01] [Jug -> Dzban MISC^misc_com_bottle_03]
+	Hyperlinks 1: [ceramic bowl -> ceramiczna misa]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1791331242867613066</key>
+	<val>[Zaczynasz śpiewać sentymentalną piosenkę, wspomagając się delikatną grą na lutni. Publiczność naprawdę wygląda na zadowoloną - a nawet poruszoną - bo po chwili zaczyna życzliwie klaskać.] No, to było bardzo dobre. Masz przyjemny głos i całkiem dobrze grasz na lutni. Jeżeli nie przestaniesz nad tym pracować, będzie tylko lepiej. A, no i poszukaj sobie nowych tekstów piosenek w śpiewnikach.</val>
+	<!--
+	Glossary: [Lute -> Lutnia MISC^misc_de_lute_01] [Sen -> Sen NPC_^sen]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1799211312599318454</key>
+	<val>[Wybijasz delikatny rytm na swoich bębnach. Udało ci się pozyskać uwagę publiczności, której podoba się to, co słyszy.] Naprawdę dobrze się bawiłam. Wielu artystów mogłoby się od ciebie uczyć. Posłuchaj dobrej rady: dodaj do swego występu trzeci bęben. Jestem pewna, że sobie poradzisz.</val>
+	<!--
+	Glossary: [Adding -> Adding NPC_^adding] [Drum -> Bęben MISC^misc_de_drum_01]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1808831245515929630</key>
+	<val>[Zaczynasz powoli i prosto, następnie równomiernie przechodzisz w ciężko brzmiący rytm na swoich bębnach. Twoje uderzenia są zaraźliwe; wielu widzów dołącza do ciebie, a wszyscy spędzają dobrze czas.] To było naprawdę dobre, publice podoba się twoja gra na trzech bębnach. Jeżeli trochę potrenujesz, to jestem przekonana, że uda ci się zagrać na CZTERECH bębnach.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01] [Star -> Gwiazda NPC_^star]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^182552010915147854</key>
+	<val>[Opowiadasz kilka dowcipów. Ludzie śmiali się. Płakali. Udało ci się zmienić ich życie.] To było NIESAMOWITE. Nigdy nie byłam na lepszym występie. Odwiedź nas jeszcze. Wracaj jak najczęściej.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^184134058262841778</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz wysokie kopnięcia. Publiczność marszczy brwi, a następnie kompletnie traci zainteresowanie.] To było po prostu okropne. Wysokie kopnięcia powinny być WYSOKIE. I PEŁNE WDZIĘKU. Kto ci powiedział, że tak się tańczy wys-kok?</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2: [handy high-kick]
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1844919198229081</key>
+	<val>[Wyrzucasz pięć ceramicznych mis w powietrze. Te spadają na podłogę, rozbijając się i obsypując ciebie i twoją publiczność ostrymi odłamkami.] Świetnie. Wyjdź. Natychmiast.</val>
+	<!--
+	Glossary: [Bowl -> Misa MISC^misc_com_wood_bowl_02] [Ceramic Bowl -> Misa z ceramiki MISC^misc_de_bowl_orange_green_01] [Pot -> Garniec CONT^pot_01]
+	Hyperlinks 1: [ceramic bowl -> ceramiczna misa]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^186798241117901519</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność obserwuje to z zainteresowaniem.] Cóż, to nie było aż takie złe. Ale potrzebujesz więcej praktyki.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Guar -> Guar CREA^guar] [Pot -> Garniec CONT^pot_01] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec] [guar -> guar] [need -> potrzeba]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^18699160772295526577</key>
+	<val>[Tańczysz na swojej kościanej tarczy, wyskakujesz w powietrze, obracasz się, wykonujesz wysokie kopnięcie i lądujesz na ziemi lekko i z gracją. Publiczność ogląda to z fascynacją, uśmiecha się i kiwa głowami z aprobatą.] Bardzo ładnie. To było naprawdę dobre. Goście byli zachwyceni. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Light -> Światło SPEL^light] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1888229690437213915</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność obserwuje to z zainteresowaniem.] Cóż, to nie było aż takie złe. Ale potrzebujesz więcej praktyki.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Guar -> Guar CREA^guar] [Pot -> Garniec CONT^pot_01] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec] [guar -> guar] [need -> potrzeba]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^19434247292066715030</key>
+	<val>[Wybijasz wpadający w ucho rytm na bębnie. Publiczność uprzejmie tego słucha, ale praktycznie bez zainteresowania.] Nieźle. Nie było doskonale, ale i nie tragicznie. Dzięki za przybycie. Przyjmij też dobrą radę: ćwicz, ćwicz i jeszcze raz ćwicz.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^20063163422783823982</key>
+	<val>[Zaczynasz śpiewać sentymentalną piosenkę, wspomagając się delikatną grą na lutni. Publiczność naprawdę wygląda na zadowoloną - a nawet poruszoną - bo po chwili zaczyna życzliwie klaskać.] No, to było bardzo dobre. Masz przyjemny głos i całkiem dobrze grasz na lutni. Jeżeli nie przestaniesz nad tym pracować, będzie tylko lepiej. A, no i poszukaj sobie nowych tekstów piosenek w śpiewnikach.</val>
+	<!--
+	Glossary: [Lute -> Lutnia MISC^misc_de_lute_01] [Sen -> Sen NPC_^sen]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^20458229091437915820</key>
+	<val>[Tańczysz wokół i energicznie wykonujesz wysokie kopnięcia. Publiczność najpierw wygląda na zaskoczoną, a następnie zażenowaną...] Nic ci się nie stało? Musisz się podszkolić w dziedzinie atletyki i akrobatyki, jeżeli liczysz na zdobycie serc publiki. No i do tego nie masz pojęcia jak tańczyć wys-kok. Podstawowym elementem tego tańca jest kościana tarcza. No i ćwicz, ćwicz i jeszcze raz ćwicz.</val>
+	<!--
+	Glossary: [Acrobat -> Akrobata CLAS^Acrobat] [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Pot -> Garniec CONT^pot_01] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec] [luck -> szczęście] [need -> potrzeba]
+	Hyperlinks 2: [handy high-kick]
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2060919179144458496</key>
+	<val>[Zaczynasz powoli i prosto, następnie równomiernie przechodzisz w ciężko brzmiący rytm na swoim bębnie. Twoje uderzenia są zaraźliwe; wielu widzów dołącza do ciebie, a wszyscy spędzają dobrze czas.] Hmm... masz talent. A publika chyba nawet cię lubi. Nie przestawaj ćwiczyć, a czeka cię wielka sława.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01] [Star -> Gwiazda NPC_^star]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^20656722321013380</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Przy odrobinie szczęścia możesz odnieść sukces. Ale ćwiczenia i ciężka praca też nie zaszkodzą.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec] [luck -> szczęście] [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^21306243311576928488</key>
+	<val>[Opowiadasz kilka dowcipów. WYDAWAŁO ci się, że są zabawne. Ale ludzie uważali inaczej.] Źle. Bardzo źle. Znienawidzili cię. Polecam zapisać się na jakiś kurs uroku osobistego. Oraz wysławiania. Pomyśleć nad przyzwoitym materiałem. Założyć śmieszną czapkę. No i lepiej nie pokazuj się tu przez jakiś czas.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2133930376980830006</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność obserwuje to z zainteresowaniem, uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Oglądanie twojego tańca to była czysta przyjemność. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^21366305762114814956</key>
+	<val>[Tańczysz na swojej kościanej tarczy, wyskakujesz w powietrze, obracasz się, wykonujesz wysokie kopnięcie i lądujesz na ziemi lekko i z gracją. Publiczność ogląda to z fascynacją, uśmiecha się i kiwa głowami z aprobatą.] Bardzo ładnie. To było naprawdę dobre. Goście byli zachwyceni. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Light -> Światło SPEL^light] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2143832669128475566</key>
+	<val>[Opowiadasz kilka dowcipów. To była dobra noc. Wszyscy się śmiali i wyglądali na zasmuconych, kiedy występ dobiegł końca.] To był bardzo udany występ. Doceniam twój materiał, jak również styl i urok osobisty. Zawsze będziesz tu mile widzianym gościem.</val>
+	<!--
+	Glossary: [Sor -> Sor NPC_^sor] [Welcome -> Witamy ACTI^furn_bannerd_welcome_01]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2153570062097921763</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność obserwuje to z zainteresowaniem.] Cóż, to nie było aż takie złe. Ale potrzebujesz więcej praktyki.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Guar -> Guar CREA^guar] [Pot -> Garniec CONT^pot_01] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec] [guar -> guar] [need -> potrzeba]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2158017202191479272</key>
+	<val>[Opowiadasz kilka dowcipów. Widzowie śmiali się długo i głośno. Podobała im się każda minuta twego występu.] Moje gratulacje. Publiczność jadła ci z ręki. Wracaj do nas jak najczęściej.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2158692922425631072</key>
+	<val>[Wybijasz nierówny rytm na drewnianym blacie. Publiczność patrzy na ciebie kwaśnym i nieprzyjemnym wzrokiem.] Hmm. Brak bębna. Brak talentu. Myślę, że to ładnie wszystko podsumowuje. Spadaj stąd. Byle szybko.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2167426029181948492</key>
+	<val>[Wyrzucasz cztery duże jaja kwama w powietrze. Te spadają na podłogę, rozbijają się, opryskując ciebie i twoją publiczność.] Świetnie. Wyjdź. Natychmiast.</val>
+	<!--
+	Glossary: [Large Kwama Egg -> Duże jajo kwama INGR^food_kwama_egg_02]
+	Hyperlinks 1: [kwama -> kwama] [kwama egg -> jajo kwama]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^217274257208986976</key>
+	<val>[Wskakujesz na swoją kościaną tarczę, wybijasz się w powietrze, kręcisz się i wykonujesz kopnięcia, a na koniec lądujesz perfekcyjnie, lekko jak piórko i bez wysiłku. Publiczność obserwuje to z podziwem, a następnie krzyczy i bije brawo.] NIE-SA-MO-WI-TE! Znakomite przedstawienie! Ta siła, styl, gracja! Bardzo ci dziękuję i oczekuję twojego szybkiego powrotu!</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Feather -> Lekkość SPEL^feather] [Light -> Światło SPEL^light] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^21976173251931916325</key>
+	<val>[Prosta melodia z prostym akompaniamentem na lutni... jednak to twój głos naprawdę doprowadza pieśń do ich serc. Kiedy kończysz, w całym pomieszczeniu jest cicho, oczy publiczności są wilgotne, a po chwili uśmiechają się i energetycznie klaszczą.] No. [wyciera oczy] Naprawdę miło jest usłyszeć twój śpiew, %PCName. Mam nadzieję, że jeszcze tu wrócisz!</val>
+	<!--
+	Glossary: [Lute -> Lutnia MISC^misc_de_lute_01]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^22212171991822524734</key>
+	<val>[Tańczysz na swojej kościanej tarczy, wyskakujesz w powietrze, obracasz się, wykonujesz wysokie kopnięcie i lądujesz na ziemi lekko i z gracją. Publiczność ogląda to z fascynacją, uśmiecha się i kiwa głowami z aprobatą.] Bardzo ładnie. To było naprawdę dobre. Goście byli zachwyceni. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Light -> Światło SPEL^light] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^22218195712007030594</key>
+	<val>[Zaczynasz powoli i prosto, następnie równomiernie przechodzisz w ciężko brzmiący rytm na swoim bębnie. Twoje uderzenia są zaraźliwe; wielu widzów dołącza do ciebie, a wszyscy spędzają dobrze czas.] Hmm... masz talent. A publika chyba nawet cię lubi. Nie przestawaj ćwiczyć, a czeka cię wielka sława.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01] [Star -> Gwiazda NPC_^star]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^22323756533525192</key>
+	<val>[Wybijasz nierówny rytm na bębnie. Publiczność zwraca na ciebie uwagę... przez krótki czas, a potem po prostu zaczyna cię ignorować.] To z całą pewnością była gra na bębnie. Ale jeżeli chcesz DOBRZE grać na tym bębnie, popracuj nad szybkością i zwinnością.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01] [Pot -> Garniec CONT^pot_01]
+	Hyperlinks 1: [agility -> zwinność] [need -> potrzeba] [speed -> szybkość]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^22454159811860517470</key>
+	<val>[Zaczynasz powoli i prosto, następnie równomiernie przechodzisz w ciężko brzmiący rytm na swoim bębnie. Twoje uderzenia są zaraźliwe; wielu widzów dołącza do ciebie, a wszyscy spędzają dobrze czas.] Hmm... masz talent. A publika chyba nawet cię lubi. Nie przestawaj ćwiczyć, a czeka cię wielka sława.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01] [Star -> Gwiazda NPC_^star]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^22671167082921830879</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność ogląda to z zainteresowaniem, ale potem marszczy brwi i odwraca wzrok.] No cóż. Mało było w tym gracji. No i te kopnięcia były jakieś słabe. Ale przy odpowiednim treningu możesz się nauczyć porządnie tańczyć wys-kok.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2: [handy high-kick]
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2272714706183932224</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność obserwuje to z zainteresowaniem.] Cóż, to nie było aż takie złe. Ale potrzebujesz więcej praktyki.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Guar -> Guar CREA^guar] [Pot -> Garniec CONT^pot_01] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec] [guar -> guar] [need -> potrzeba]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^227391144930916570</key>
+	<val>[Opowiadasz kilka dowcipów. Przynajmniej wysłuchali cię uważnie - ale się nie śmiali.] Wydaje mi się, że pojmujesz podstawową ideę dowcipów. A przy odrobinie szczęścia i samozaparcia może kiedyś nauczysz się je opowiadać. Ale biorąc pod uwagę wszystkie okoliczności uważam, że jeszcze nie należy ci się główny czas sceniczny.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [luck -> szczęście]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^22798199657704330</key>
+	<val>[Tańczysz na swojej kościanej tarczy, wyskakujesz w powietrze, obracasz się, wykonujesz wysokie kopnięcie i lądujesz na ziemi lekko i z gracją. Publiczność ogląda to z fascynacją, uśmiecha się i kiwa głowami z aprobatą.] Bardzo ładnie. To było naprawdę dobre. Goście byli zachwyceni. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Light -> Światło SPEL^light] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2287628391200272187</key>
+	<val>[Opowiadasz kilka dowcipów. Ludzie śmiali się i miło spędzili czas.] Nie mam nic do zarzucenia. Bije od ciebie naturalny wdzięk i umiesz opowiadać dowcipy. Czekam z niecierpliwością na twój kolejny występ.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2297912592424424001</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność ogląda to z zainteresowaniem, ale potem marszczy brwi i odwraca wzrok.] No cóż. Mało było w tym gracji. No i te kopnięcia były jakieś słabe. Ale przy odpowiednim treningu możesz się nauczyć porządnie tańczyć wys-kok.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2: [handy high-kick]
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2313617266467317598</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię - ale nie bawili się zbyt dobrze.] No cóż. Zawsze mogło być gorzej. Chociaż nie bardzo. Twoje życie raczej nie jest zagrożone. Ale jednak radziłabym ci wyjść stąd po cichu.</val>
+	<!--
+	Glossary: [Danger -> Niebezpieczeństwo ACTI^furn_bannerd_danger_01]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^232642908945711618</key>
+	<val>[Zaczynasz prosto, następnie wybijasz jednocześnie kilka różnych rytmów, raptownie zmieniając tempo, potem przechodzisz w jednostajne uderzenia przypominające bicie serca na wszystkich czterech bębnach. Cały czas trzymasz "przy sobie" publiczność, a kiedy już kończysz, ci zaczynają klaskać i gwizdać entuzjastycznie.] No, to było naprawdę spektakularne. Moje gratulacje. Prawdziwy pokaz gry na czterech bębnach. Najlepszy jaki w życiu słyszałam. Mam nadzieję, że jeszcze tu wpadniesz.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01] [Star -> Gwiazda NPC_^star]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^23582225592419914496</key>
+	<val>[Wybijasz wpadający w ucho rytm na bębnie. Publiczność uprzejmie tego słucha, ale praktycznie bez zainteresowania.] Nieźle. Nie było doskonale, ale i nie tragicznie Dzięki za przybycie. Jeżeli trochę potrenujesz, to jestem przekonana, że uda ci się zagrać na dwóch bębnach. Albo i więcej...</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2372765178017521</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność obserwuje to z zainteresowaniem, uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Oglądanie twojego tańca to była czysta przyjemność. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2414816407575231331</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Przy odrobinie szczęścia możesz odnieść sukces. Ale ćwiczenia i ciężka praca też nie zaszkodzą.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec] [luck -> szczęście] [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^247184901632630268</key>
+	<val>[Opowiadasz kilka dowcipów. To była dobra noc. Wszyscy się śmiali i wyglądali na zasmuconych, kiedy występ dobiegł końca.] To był bardzo udany występ. A ten koloviański hełm stał się twoim znakiem rozpoznawczym. Wracaj do nas jak najczęściej.</val>
+	<!--
+	Glossary: [Sign -> Znak ACTI^active_sign_c_pawn_01] [Sor -> Sor NPC_^sor]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^252711690205304427</key>
+	<val>[Zaczynasz prosto, następnie wybijasz jednocześnie kilka różnych rytmów, raptownie zmieniając tempo, potem przechodzisz w jednostajne uderzenia przypominające bicie serca na wszystkich czterech bębnach. Cały czas trzymasz "przy sobie" publiczność, a kiedy już kończysz, ci zaczynają klaskać i gwizdać entuzjastycznie.] No, to było naprawdę spektakularne. Moje gratulacje. Prawdziwy pokaz gry na czterech bębnach. Najlepszy jaki w życiu słyszałam. Mam nadzieję, że jeszcze tu wpadniesz.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01] [Star -> Gwiazda NPC_^star]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^253287769580524406</key>
+	<val>[Wybijasz nierówny rytm na bębnie. Publiczność zwraca na ciebie uwagę... przez krótki czas, a potem po prostu zaczyna cię ignorować.] To z całą pewnością była gra na bębnie. Ale jeżeli chcesz DOBRZE grać na tym bębnie, popracuj nad szybkością i zwinnością.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01] [Pot -> Garniec CONT^pot_01]
+	Hyperlinks 1: [agility -> zwinność] [need -> potrzeba] [speed -> szybkość]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^254322276924486720</key>
+	<val>[Wskakujesz na swoją kościaną tarczę, wybijasz się w powietrze, kręcisz się i wykonujesz kopnięcia, a na koniec lądujesz perfekcyjnie, lekko jak piórko i bez wysiłku. Publiczność obserwuje to z podziwem, a następnie krzyczy i bije brawo.] NIE-SA-MO-WI-TE! Znakomite przedstawienie! Ta siła, styl, gracja! Bardzo ci dziękuję i oczekuję twojego szybkiego powrotu!</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Feather -> Lekkość SPEL^feather] [Light -> Światło SPEL^light] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^254645466907453</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Przy odrobinie szczęścia możesz odnieść sukces. Ale ćwiczenia i ciężka praca też nie zaszkodzą.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec] [luck -> szczęście] [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^256967252409316</key>
+	<val>Moi klienci widzieli już dzisiaj twój występ. Poczekaj do jutra.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [patron -> opiekun]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2616819609816518068</key>
+	<val>[Zaczynasz śpiewać jakąś popularną piosenkę przy akomaniamencie lutni. Publiczność grzecznie tego słucha, ale z małym zainteresowaniem.] No, masz urok śpiewaka, sprawne palce, no i całkiem przyjemny głos. Ale raczej nie uda ci się z tego wyżyć. Jeżeli jednak trochę potrenujesz, twój głos i wymowa powinny się poprawić. A, no i poszukaj sobie nowych tekstów piosenek w śpiewnikach.</val>
+	<!--
+	Glossary: [Lute -> Lutnia MISC^misc_de_lute_01]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^262182258714700829</key>
+	<val>[Tańczysz na swojej kościanej tarczy, wyskakujesz w powietrze, obracasz się, wykonujesz wysokie kopnięcie i lądujesz na ziemi lekko i z gracją. Publiczność ogląda to z fascynacją, uśmiecha się i kiwa głowami z aprobatą.] Bardzo ładnie. To było naprawdę dobre. Goście byli zachwyceni. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Light -> Światło SPEL^light] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^262342878325248992</key>
+	<val>[Opowiadasz kilka dowcipów. To była dobra noc. Wszyscy się śmiali i wyglądali na zasmuconych, kiedy występ dobiegł końca.] Tym razem publiczność należała do ciebie. Kiedy już się rozkręcisz, jesteś nie do zatrzymania. Dzięki za występ i do zobaczenia wkrótce.</val>
+	<!--
+	Glossary: [Sor -> Sor NPC_^sor]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2631413844281627268</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz wysokie kopnięcia. Publiczność marszczy brwi, a następnie kompletnie traci zainteresowanie.] To było po prostu okropne. Wysokie kopnięcia powinny być WYSOKIE. I PEŁNE WDZIĘKU. Kto ci powiedział, że tak się tańczy wys-kok?</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2: [handy high-kick]
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2655066190747590</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność ogląda to z zainteresowaniem, ale potem marszczy brwi i odwraca wzrok.] No cóż. Mało było w tym gracji. No i te kopnięcia były jakieś słabe. Ale przy odpowiednim treningu możesz się nauczyć porządnie tańczyć wys-kok.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2: [handy high-kick]
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2673917761639611936</key>
+	<val>Uh... gdzie są te trzy małe jaja kwama, którymi chcesz żonglować? A może to są MAGICZNE i NIEWIDZIALNE jaja kwama, co?</val>
+	<!--
+	Glossary: [Jug -> Dzban MISC^misc_com_bottle_03] [Small Kwama Egg -> Małe jajo kwama INGR^food_kwama_egg_01]
+	Hyperlinks 1: [kwama -> kwama] [kwama egg -> jajo kwama]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^26858296824125520</key>
+	<val>[Opowiadasz kilka dowcipów. Ludzie śmiali się i miło spędzili czas.] Nie mam nic do zarzucenia. Bije od ciebie naturalny wdzięk i umiesz opowiadać dowcipy. Czekam z niecierpliwością na twój kolejny występ.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^269016262259552272</key>
+	<val>["Bitwa o Molag Beran" to pieśń, którą zna i kocha każdy Dunmer, jest także ona bardzo popularna wśród lokalnej publiczności. Kiedy kończysz, otacza cię cisza, oczy wszystkich są mokre od łez - jednak już chwilę później wszystcy uśmiechają się i biją brawo.] No. [wyciera oczy] To było po prostu piękne, %PCName. Nie ma tu osoby, której nie zakręciłaby się łezka w oku. Cóż, widać, że znasz swoją publiczność. I to świetnie.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [Dunmer -> Dunmerowie] [Favor -> przysługa] [know you -> znam cię]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2692922944156213822</key>
+	<val>[Opowiadasz kilka dowcipów. Widzowie śmiali się długo i głośno. Podobała im się każda minuta twego występu.] Moje gratulacje. Publiczność jadła ci z ręki. Wracaj do nas jak najczęściej.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2694610474240713492</key>
+	<val>[Płynnie żonglujesz pięcioma ceramicznymi misami, od kaskady do półprysznica, dodatkowo na przemian przerzucając talerz za plecy i pod nogą. Publiczność obserwuje to z otwartymi oczami, wstrzymuje oddech, a kiedy kończysz, wybucha aplauzem.] To było niesamowite. To chyba najlepsza rzecz, jaką kiedykolwiek widziałam. Jak ty TO robisz?</val>
+	<!--
+	Glossary: [Bowl -> Misa MISC^misc_com_wood_bowl_02] [Ceramic Bowl -> Misa z ceramiki MISC^misc_de_bowl_orange_green_01] [Jug -> Dzban MISC^misc_com_bottle_03] [Plate -> Talerz MISC^misc_com_metal_plate_04]
+	Hyperlinks 1: [ceramic bowl -> ceramiczna misa]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^27089292559845008</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność ogląda to z zainteresowaniem, ale potem marszczy brwi i odwraca wzrok.] No cóż. Mało było w tym gracji. No i te kopnięcia były jakieś słabe. Ale przy odpowiednim treningu możesz się nauczyć porządnie tańczyć wys-kok.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2: [handy high-kick]
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2792565342317173</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność ogląda to z zainteresowaniem, ale potem marszczy brwi i odwraca wzrok.] No cóż. Mało było w tym gracji. No i te kopnięcia były jakieś słabe. Ale przy odpowiednim treningu możesz się nauczyć porządnie tańczyć wys-kok.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2: [handy high-kick]
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2792911788162837636</key>
+	<val>[Próbujesz dotrzeć do publiczności śpiewając kilka zachodnich utworów ze "Śpiewnika". Unikając politycznych i nudnych tekstów, urzekasz widownię tymi humorystycznymi i romantycznymi.] No, "Ziarenka, Krwawe Ziarenka", naprawdę podobała się publice. Nigdy wcześniej tego nie słyszałam... kto cię jej nauczył?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^28463202442635223856</key>
+	<val>[Wybijasz nierówny rytm na drewnianym blacie. Publiczność okazuje niewielkie zainteresowanie.] Chyba jesteś tu od niedawna... ale w Morrowind, kiedy ktoś mówi, że będzie grał na bębnie, logicznym jest, że musi ten bęben POSIADAĆ... a nie walić w to, co akurat ma pod ręką. Tak więc lepiej stąd odejdź. I przestań denerwować mnie i moich klientów.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01]
+	Hyperlinks 1: [Morrowind -> Morrowind] [patron -> opiekun]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2847110635270755704</key>
+	<val>[Opowiadasz kilka dowcipów. Wywołały jedynie pojedyncze uśmiechy. Z drugiej strony, wiekszości spodobał się twój koloviański hełm.] Podoba mi się ta czapka. A jeśli chodzi o resztę? Wyszło raczej słabo. Do osiągnięcia sukcesu potrzebne ci będą błyskotliwa osobowość, zręczny język i kilka przyzwoitych dowcipów. Oraz dużo szczęścia.</val>
+	<!--
+	Glossary: [Pot -> Garniec CONT^pot_01] [Spark -> Iskra SPEL^spark]
+	Hyperlinks 1: [luck -> szczęście] [need -> potrzeba] [personality -> osobowość]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2865722355568111049</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię - ale nie bawili się zbyt dobrze.] No cóż. Zawsze mogło być gorzej. Chociaż nie bardzo. Twoje życie raczej nie jest zagrożone. Ale jednak radziłabym ci wyjść stąd po cichu.</val>
+	<!--
+	Glossary: [Danger -> Niebezpieczeństwo ACTI^furn_bannerd_danger_01]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^287125038182555816</key>
+	<val>Hmm... nie masz nawet czterech dużych jaj kwama, tak więc jak masz zamiar nimi żonglować, hę?</val>
+	<!--
+	Glossary: [Jug -> Dzban MISC^misc_com_bottle_03] [Large Kwama Egg -> Duże jajo kwama INGR^food_kwama_egg_02]
+	Hyperlinks 1: [kwama -> kwama] [kwama egg -> jajo kwama]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^28822321751616119135</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz wysokie kopnięcia. Publiczność marszczy brwi, a następnie kompletnie traci zainteresowanie.] To było po prostu okropne. Wysokie kopnięcia powinny być WYSOKIE. I PEŁNE WDZIĘKU. Kto ci powiedział, że tak się tańczy wys-kok?</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2: [handy high-kick]
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^288826363130689348</key>
+	<val>Zrób tak.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2910510977921930704</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność obserwuje to z zainteresowaniem, uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Oglądanie twojego tańca to była czysta przyjemność. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^292034440442210978</key>
+	<val>[Zaczynasz prosto, następnie wybijasz jednocześnie kilka różnych rytmów, raptownie zmieniając tempo, potem przechodzisz w jednostajne uderzenia przypominające bicie serca na wszystkich czterech bębnach. Cały czas trzymasz "przy sobie" publiczność, a kiedy już kończysz, ci zaczynają klaskać i gwizdać entuzjastycznie.] No, to było naprawdę spektakularne. Moje gratulacje. Prawdziwy pokaz gry na czterech bębnach. Najlepszy jaki w życiu słyszałam. Mam nadzieję, że jeszcze tu wpadniesz.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01] [Star -> Gwiazda NPC_^star]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^29247307751756613326</key>
+	<val>[Opowiadasz kilka dowcipów. WYDAWAŁO ci się, że są zabawne. Widzowie uważają inaczej.] Kto ci powiedział, że umiesz to robić? Mamusia? Nie ma w tobie za grosz uroku osobistego. Nie umiesz opowiadać dowcipów. NIE ZNASZ żadnych dowcipów. Twój strój też nie jest zabawny. Według mnie podążasz złą drogą.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [line of work -> kariera] [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2959824347771110747</key>
+	<val>[Tańczysz na swojej kościanej tarczy, wyskakujesz w powietrze, obracasz się, wykonujesz wysokie kopnięcie i lądujesz na ziemi lekko i z gracją. Publiczność ogląda to z fascynacją, uśmiecha się i kiwa głowami z aprobatą.] Bardzo ładnie. To było naprawdę dobre. Goście byli zachwyceni. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Light -> Światło SPEL^light] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^29777256401131612772</key>
+	<val>[Opowiadasz kilka dowcipów. Widzowie śmiali się w odpowienich momentach. Chyba spodobał się im występ.] To było całkiem niezłe. Podoba mi się twój styl. Odwiedź nas ponownie.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2983752131002323300</key>
+	<val>[Opowiadasz kilka dowcipów. Ludzie śmiali się. Płakali. Udało ci się zmienić ich życie.] To było NIESAMOWITE. Nigdy nie byłam na lepszym występie. Odwiedź nas jeszcze. Wracaj jak najczęściej.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2995523743399983</key>
+	<val>[Wskakujesz na swoją kościaną tarczę, wybijasz się w powietrze, kręcisz się i wykonujesz kopnięcia, a na koniec lądujesz perfekcyjnie, lekko jak piórko i bez wysiłku. Publiczność obserwuje to z podziwem, a następnie krzyczy i bije brawo.] NIE-SA-MO-WI-TE! Znakomite przedstawienie! Ta siła, styl, gracja! Bardzo ci dziękuję i oczekuję twojego szybkiego powrotu!</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Feather -> Lekkość SPEL^feather] [Light -> Światło SPEL^light] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^3000822780704331</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność obserwuje to z zainteresowaniem, uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Oglądanie twojego tańca to była czysta przyjemność. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^3046527240112116341</key>
+	<val>[Wybijasz delikatny rytm na swoich bębnach. Udało ci się pozyskać uwagę publiczności, której podoba się to, co słyszy.] Naprawdę dobrze się bawiłam. Wielu artystów mogłoby się od ciebie uczyć. Posłuchaj dobrej rady: dodaj do swego występu trzeci bęben. Jestem pewna, że sobie poradzisz.</val>
+	<!--
+	Glossary: [Adding -> Adding NPC_^adding] [Drum -> Bęben MISC^misc_de_drum_01]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^304682989390157561</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność obserwuje to z zainteresowaniem, uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Oglądanie twojego tańca to była czysta przyjemność. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^3073772747925540</key>
+	<val>[Wyrzucasz trzy małe jaja kwama w powietrze. Te spadają na podłogę, rozbijają się, opryskując ciebie i twoją publiczność.] Świetnie. Wyjdź. Natychmiast.</val>
+	<!--
+	Glossary: [Small Kwama Egg -> Małe jajo kwama INGR^food_kwama_egg_01]
+	Hyperlinks 1: [kwama -> kwama] [kwama egg -> jajo kwama]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^3093721867695412281</key>
+	<val>[Wskakujesz na swoją kościaną tarczę, wybijasz się w powietrze, kręcisz się i wykonujesz kopnięcia, a na koniec lądujesz perfekcyjnie, lekko jak piórko i bez wysiłku. Publiczność obserwuje to z podziwem, a następnie krzyczy i bije brawo.] NIE-SA-MO-WI-TE! Znakomite przedstawienie! Ta siła, styl, gracja! Bardzo ci dziękuję i oczekuję twojego szybkiego powrotu!</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Feather -> Lekkość SPEL^feather] [Light -> Światło SPEL^light] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^312768299208768938</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię. Czasem nawet się uśmiechnęli.] Dzięki. Nie było tak źle. Ale musisz się bardziej postarać, jeśli chcesz zacząć zarabiać tym na życie.</val>
+	<!--
+	Glossary: [Pot -> Garniec CONT^pot_01]
+	Hyperlinks 1: [need -> potrzeba]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^3149729552234159015</key>
+	<val>[Opowiadasz kilka dowcipów. Ludzie śmiali się. Płakali. Udało ci się zmienić ich życie.] To było NIESAMOWITE. Nigdy nie byłam na lepszym występie. Odwiedź nas jeszcze. Wracaj jak najczęściej.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^31740228051768218202</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz wysokie kopnięcia. Publiczność marszczy brwi, a następnie kompletnie traci zainteresowanie.] To było po prostu okropne. Wysokie kopnięcia powinny być WYSOKIE. I PEŁNE WDZIĘKU. Kto ci powiedział, że tak się tańczy wys-kok?</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2: [handy high-kick]
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^318238147128457290</key>
+	<val>[Opowiadasz kilka dowcipów. Wywołały jedynie pojedyncze uśmiechy. Z drugiej strony, wiekszości spodobał się twój koloviański hełm.] Podoba mi się ta czapka. A jeśli chodzi o resztę? Wyszło raczej słabo. Do osiągnięcia sukcesu potrzebne ci będą błyskotliwa osobowość, zręczny język i kilka przyzwoitych dowcipów. Oraz dużo szczęścia.</val>
+	<!--
+	Glossary: [Pot -> Garniec CONT^pot_01] [Spark -> Iskra SPEL^spark]
+	Hyperlinks 1: [luck -> szczęście] [need -> potrzeba] [personality -> osobowość]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^31888206281135110689</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność obserwuje to z zainteresowaniem.] Cóż, to nie było aż takie złe. Ale potrzebujesz więcej praktyki.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Guar -> Guar CREA^guar] [Pot -> Garniec CONT^pot_01] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec] [guar -> guar] [need -> potrzeba]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^3192084923112214381</key>
+	<val>[Zaczynasz powoli i prosto, następnie równomiernie przechodzisz w ciężko brzmiący rytm na swoich bębnach. Twoje uderzenia są zaraźliwe; wielu widzów dołącza do ciebie, a wszyscy spędzają dobrze czas.] To było naprawdę dobre, publice podoba się twoja gra na trzech bębnach. Jeżeli trochę potrenujesz, to jestem przekonana, że uda ci się zagrać na CZTERECH bębnach.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01] [Star -> Gwiazda NPC_^star]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^32118145112700223769</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Przy odrobinie szczęścia możesz odnieść sukces. Ale ćwiczenia i ciężka praca też nie zaszkodzą.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec] [luck -> szczęście] [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^32143107151316010961</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię. Polubili cię. Niestety nie udało ci się ich porwać.] Dzięki. Koloviański hełm stanowił miły dodatek. Raczej nie zaczniesz zarabiać tym na życie. Ale nie masz się też czego wstydzić.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^3225821095187529705</key>
+	<val>[Opowiadasz kilka dowcipów. To była dobra noc. Wszyscy się śmiali i wyglądali na zasmuconych, kiedy występ dobiegł końca.] To był bardzo udany występ. Doceniam twój materiał, jak również styl i urok osobisty. Zawsze będziesz tu mile widzianym gościem.</val>
+	<!--
+	Glossary: [Sor -> Sor NPC_^sor] [Welcome -> Witamy ACTI^furn_bannerd_welcome_01]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^322782416512768797</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Przy odrobinie szczęścia możesz odnieść sukces. Ale ćwiczenia i ciężka praca też nie zaszkodzą.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec] [luck -> szczęście] [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^32388160362304728419</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię - ale raczej nie bawili się zbyt dobrze.] Dzięki bogom, że to już koniec. Cóż, może i nie umiesz opowiadać dowcipów, ale przynajmniej masz szczęście. To sympatyczni ludzie. Raczej nie będą żywili urazy.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [luck -> szczęście]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^3251888941658620264</key>
+	<val>[Żonglujesz czterema dużymi jajami kwama, co chwilę wykonując asychroniczny prysznic i asychroniczną fontannę, następnie przechodzisz do silnej kaskady i do prostego półprysznica. Publiczność ogląda to z wytrzeszczonymi oczami, a gdy kończysz, klaszczy entuzjastycznie.] Bardzo dobrze. Naprawdę bardzo dobrze.</val>
+	<!--
+	Glossary: [Fountain -> Fontanna ACTI^furn_forgetful_pool] [Jug -> Dzban MISC^misc_com_bottle_03] [Large Kwama Egg -> Duże jajo kwama INGR^food_kwama_egg_02]
+	Hyperlinks 1: [kwama -> kwama] [kwama egg -> jajo kwama]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^325631865738657884</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz wysokie kopnięcia. Publiczność marszczy brwi, a następnie kompletnie traci zainteresowanie.] To było po prostu okropne. Wysokie kopnięcia powinny być WYSOKIE. I PEŁNE WDZIĘKU. Kto ci powiedział, że tak się tańczy wys-kok?</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2: [handy high-kick]
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^3273310614266372350</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię. Nie byli rozczarowani.] Dobra robota. Ten występ był wart zapłaconego złota. Ale nie przestawaj nad tym pracować.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^3274673621993578</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność ogląda to z zainteresowaniem, ale potem marszczy brwi i odwraca wzrok.] No cóż. Mało było w tym gracji. No i te kopnięcia były jakieś słabe. Ale przy odpowiednim treningu możesz się nauczyć porządnie tańczyć wys-kok.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2: [handy high-kick]
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^3324244082484020057</key>
+	<val>[Zaczynasz  z zapałem śpiewać i rozdzierać palcami powietrze. Publiczność wygląda na zszokowaną.] A to ci niespodzianka. Myślałam, że MASZ lutnię. Hmm. Może i posiadasz jakiś tam urok i... ehr... sprawne palce, no i do tego twój głos jest... no cóż... wystarczająco głośny. Ale bez lutni... Dziękuję za coś takiego. A teraz odejdź.</val>
+	<!--
+	Glossary: [Lute -> Lutnia MISC^misc_de_lute_01] [Shock -> Porażenie SPEL^shock]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^33402881370048510</key>
+	<val>[Opowiadasz kilka dowcipów. WYDAWAŁO ci się, że są zabawne. Słuchacze z gospody "Osiem Talerzy" mieli inne zdanie. I wyrazili je bardzo dobitnie.] To nie byłaby taka katastrofa, gdyby nie brak uroku osobistego, brak przyzwoitego materiału, brak śmiesznego przebrania. Cóż, mam nadzieję, że się prędko nie zobaczymy.</val>
+	<!--
+	Glossary: [Eight Plates -> Osiem Talerzy ACTI^furn_banner_tavern_eightplates] [Plate -> Talerz MISC^misc_com_metal_plate_04]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^347176813108519805</key>
+	<val>[Wskakujesz na swoją kościaną tarczę, wybijasz się w powietrze, kręcisz się i wykonujesz kopnięcia, a na koniec lądujesz perfekcyjnie, lekko jak piórko i bez wysiłku. Publiczność obserwuje to z podziwem, a następnie krzyczy i bije brawo.] NIE-SA-MO-WI-TE! Znakomite przedstawienie! Ta siła, styl, gracja! Bardzo ci dziękuję i oczekuję twojego szybkiego powrotu!</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Feather -> Lekkość SPEL^feather] [Light -> Światło SPEL^light] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^348232122152923968</key>
+	<val>[Opowiadasz kilka dowcipów. To była dobra noc. Wszyscy się śmiali i wyglądali na zasmuconych, kiedy występ dobiegł końca.] Tym razem publiczność należała do ciebie. Kiedy już się rozkręcisz, jesteś nie do zatrzymania. Dzięki za występ i do zobaczenia wkrótce.</val>
+	<!--
+	Glossary: [Sor -> Sor NPC_^sor]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^411914067166778578</key>
+	<val>[Opowiadasz kilka dowcipów. Grzecznie cię wysłuchali. Z uprzejmości nawet się uśmiechali.] Todobra publiczność - spragniona rozrywki. Twój występ nie należał do wybitnych. Ale z drugiej strony, nikt też nie usnął..</val>
+	<!--
+	Glossary: [Star -> Gwiazda NPC_^star]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^4323943411407447</key>
+	<val>[Dźwięk lutni jest naprawdę bogaty i potężny. Publiczność kiwa głowami i uśmiecha się z aprobatą, a następnie zaczyna spoglądać na twój instrument.] Bardzo dobry występ... No i gdzie udało ci się zdobyć tę niesamowitą grubą lutnię? Oni naprawdę odpłynęli, gdy słuchali twej pięknej gry...</val>
+	<!--
+	Glossary: [Fat Lute -> Lutnia MISC^misc_de_lute_01_phat] [Lute -> Lutnia MISC^misc_de_lute_01] [Star -> Gwiazda NPC_^star]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^4334194382250226442</key>
+	<val>[Zaczynasz z zapałem śpiewać i energicznie brzdąkać na lutni. Publiczność wygląda na oszołomioną, a po chwili - zakłopotaną.] Twoja osobowość, koordynacja i retoryka są po prostu nijakie. Ale masz chociaż sobie lutnię. To krok w dobrą stronę. Nie poddawaj się.</val>
+	<!--
+	Glossary: [Lute -> Lutnia MISC^misc_de_lute_01] [Vigor -> Wigor SPEL^vigor]
+	Hyperlinks 1: [personality -> osobowość] [speechcraft -> retoryka]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^4388283983181115357</key>
+	<val>[Tańczysz wokół i wykonujesz wysokie kopnięcia. Publiczność marszczy brwi i wygląda na zdegustowaną.] Jak widzę, absolutnie nie masz talentu, nie WIESZ jak tańczyć wys-kok, nawet nie wyobrażasz sobie, jak żałosny był twój "występ". Współczuję ci. Współczuję sobie. I moim klientom. Idź precz.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [dance -> taniec] [patron -> opiekun]
+	Hyperlinks 2: [handy high-kick]
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^450430428250483235</key>
+	<val>[Wybijasz delikatny rytm na swoich bębnach. Udało ci się pozyskać uwagę publiczności, której podoba się to, co słyszy.] Naprawdę dobrze się bawiłam. Wielu artystów mogłoby się od ciebie uczyć. Posłuchaj dobrej rady: dodaj do swego występu trzeci bęben. Jestem pewna, że sobie poradzisz.</val>
+	<!--
+	Glossary: [Adding -> Adding NPC_^adding] [Drum -> Bęben MISC^misc_de_drum_01]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^494991691616654</key>
+	<val>[Wybijasz nierówny rytm na bębnie. Publiczność zwraca na ciebie uwagę... przez krótki czas, a potem po prostu zaczyna cię ignorować.] To z całą pewnością była gra na bębnie. Ale jeżeli chcesz DOBRZE grać na tym bębnie, popracuj nad szybkością i zwinnością.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01] [Pot -> Garniec CONT^pot_01]
+	Hyperlinks 1: [agility -> zwinność] [need -> potrzeba] [speed -> szybkość]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^51782018428815732</key>
+	<val>[Zaczynasz prosto, następnie wybijasz jednocześnie kilka różnych rytmów, raptownie zmieniając tempo, potem przechodzisz w jednostajne uderzenia przypominające bicie serca na wszystkich czterech bębnach. Cały czas trzymasz "przy sobie" publiczność, a kiedy już kończysz, ci zaczynają klaskać i gwizdać entuzjastycznie.] No, to było naprawdę spektakularne. Moje gratulacje. Prawdziwy pokaz gry na czterech bębnach. Najlepszy jaki w życiu słyszałam. Mam nadzieję, że jeszcze tu wpadniesz.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01] [Star -> Gwiazda NPC_^star]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^523028197734716798</key>
+	<val>[Opowiadasz kilka dowcipów. To była dobra noc. Wszyscy się śmiali i wyglądali na zasmuconych, kiedy występ dobiegł końca.] Polubili cię. Ja cię polubiłam. Twój materiał jest solidny, a ta czapka uzupełnia całokształt. Wracaj do nas jak najczęściej.</val>
+	<!--
+	Glossary: [Sor -> Sor NPC_^sor]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^5244177631055412214</key>
+	<val>[Płynnie żonglujesz pięcioma ceramicznymi misami, od kaskady do półprysznica, dodatkowo na przemian przerzucając talerz za plecy i pod nogą. Publiczność obserwuje to z otwartymi oczami, wstrzymuje oddech, a kiedy kończysz, wybucha aplauzem.] To było niesamowite. To chyba najlepsza rzecz, jaką kiedykolwiek widziałam. Jak ty TO robisz?</val>
+	<!--
+	Glossary: [Bowl -> Misa MISC^misc_com_wood_bowl_02] [Ceramic Bowl -> Misa z ceramiki MISC^misc_de_bowl_orange_green_01] [Jug -> Dzban MISC^misc_com_bottle_03] [Plate -> Talerz MISC^misc_com_metal_plate_04]
+	Hyperlinks 1: [ceramic bowl -> ceramiczna misa]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^5282301962510216580</key>
+	<val>Chcesz coś zaprezentować? Co masz zamiar zrobić?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^53384602303618927</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Przy odrobinie szczęścia możesz odnieść sukces. Ale ćwiczenia i ciężka praca też nie zaszkodzą.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec] [luck -> szczęście] [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^5479206191565729210</key>
+	<val>[Zaczynasz powoli i prosto, następnie równomiernie przechodzisz w ciężko brzmiący rytm na swoich bębnach. Twoje uderzenia są zaraźliwe; wielu widzów dołącza do ciebie, a wszyscy spędzają dobrze czas.] To było naprawdę dobre, publice podoba się twoja gra na trzech bębnach. Jeżeli trochę potrenujesz, to jestem przekonana, że uda ci się zagrać na CZTERECH bębnach.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01] [Star -> Gwiazda NPC_^star]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^550110764136347817</key>
+	<val>[Tańczysz na swojej kościanej tarczy, wyskakujesz w powietrze, obracasz się, wykonujesz wysokie kopnięcie i lądujesz na ziemi lekko i z gracją. Publiczność ogląda to z fascynacją, uśmiecha się i kiwa głowami z aprobatą.] Bardzo ładnie. To było naprawdę dobre. Goście byli zachwyceni. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Light -> Światło SPEL^light] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^5585463514838157</key>
+	<val>[Opowiadasz kilka dowcipów. Ludzie śmiali się. Płakali. Udało ci się zmienić ich życie.] To było NIESAMOWITE. Nigdy nie byłam na lepszym występie. Odwiedź nas jeszcze. Wracaj jak najczęściej.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^5807160551503631339</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz wysokie kopnięcia. Publiczność marszczy brwi, a następnie kompletnie traci zainteresowanie.] To było po prostu okropne. Wysokie kopnięcia powinny być WYSOKIE. I PEŁNE WDZIĘKU. Kto ci powiedział, że tak się tańczy wys-kok?</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2: [handy high-kick]
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^581817111196531922</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność obserwuje to z zainteresowaniem.] Cóż, to nie było aż takie złe. Ale potrzebujesz więcej praktyki.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Guar -> Guar CREA^guar] [Pot -> Garniec CONT^pot_01] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec] [guar -> guar] [need -> potrzeba]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^5823325221415421877</key>
+	<val>[Opowiadasz kilka dowcipów. Ludzie śmiali się. Płakali. Udało ci się zmienić ich życie.] To było NIESAMOWITE. Nigdy nie byłam na lepszym występie. Odwiedź nas jeszcze. Wracaj jak najczęściej.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^58721411470228010</key>
+	<val>[Opowiadasz kilka dowcipów. WYDAWAŁO ci się, że są zabawne. Więc dlaczego wszyscy tak się wściekli?] Mam nadzieję, że znasz inny sposób na zarabianie pieniędzy. Twoja osobowość, retoryka i materiał są wręcz nijakie. Dziękuję bardzo za taki występ.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [personality -> osobowość] [speechcraft -> retoryka]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^6011189791416614236</key>
+	<val>[Opowiadasz kilka śmiesznych dowcipów. Przynajmniej śmiesznych według CIEBIE. Publiczność nie zachwyciła się.] Niezła próba. Całkowita, totalna porażka. Ale przynajmniej wiesz, na czym stoisz. Nie brak ci odwagi. Podziwiam to. Posłuchaj mojej rady: popracuj nad swoją osobowością i retoryką. Naucz się kilku kawałów albo zdobądź jakiś śmieszny strój. A wtedy, kiedy tu powrócisz, może nie zawalisz wszystkiego.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [personality -> osobowość] [speechcraft -> retoryka] [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^620472071343826163</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz wysokie kopnięcia. Publiczność marszczy brwi, a następnie kompletnie traci zainteresowanie.] To było po prostu okropne. Wysokie kopnięcia powinny być WYSOKIE. I PEŁNE WDZIĘKU. Kto ci powiedział, że tak się tańczy wys-kok?</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2: [handy high-kick]
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^62952268469295665</key>
+	<val>[Opowiadasz kilka dowcipów. To była dobra noc. Wszyscy się śmiali i wyglądali na zasmuconych, kiedy występ dobiegł końca.] To był bardzo udany występ. A ten koloviański hełm stał się twoim znakiem rozpoznawczym. Wracaj do nas jak najczęściej.</val>
+	<!--
+	Glossary: [Sign -> Znak ACTI^active_sign_c_pawn_01] [Sor -> Sor NPC_^sor]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^6315315553156916903</key>
+	<val>[Opowiadasz kilka śmiesznych dowcipów. Publiczność wybuchnęła śmiechem. Bardzo mocno. Kochają cię i spędzają z tobą miło czas.] Wiesz, to było naprawdę dobre. Widziałam ich twarze...podobało im się. Wracaj do nas jak najczęściej.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^653255723128012114</key>
+	<val>[Opowiadasz kilka dowcipów. Ludzie śmiali się. Płakali. Udało ci się zmienić ich życie.] To było NIESAMOWITE. Nigdy nie byłam na lepszym występie. Odwiedź nas jeszcze. Wracaj jak najczęściej.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^699011177244577723</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność ogląda to z zainteresowaniem, ale potem marszczy brwi i odwraca wzrok.] No cóż. Mało było w tym gracji. No i te kopnięcia były jakieś słabe. Ale przy odpowiednim treningu możesz się nauczyć porządnie tańczyć wys-kok.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2: [handy high-kick]
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^77707471285610636</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Przy odrobinie szczęścia możesz odnieść sukces. Ale ćwiczenia i ciężka praca też nie zaszkodzą.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec] [luck -> szczęście] [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^84498490952531993</key>
+	<val>[Zaczynasz prosto, następnie wybijasz jednocześnie kilka różnych rytmów, raptownie zmieniając tempo, potem przechodzisz w jednostajne uderzenia przypominające bicie serca na wszystkich czterech bębnach. Cały czas trzymasz "przy sobie" publiczność, a kiedy już kończysz, ci zaczynają klaskać i gwizdać entuzjastycznie.] No, to było naprawdę spektakularne. Moje gratulacje. Prawdziwy pokaz gry na czterech bębnach. Najlepszy jaki w życiu słyszałam. Mam nadzieję, że jeszcze tu wpadniesz.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01] [Star -> Gwiazda NPC_^star]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^8572201911333018215</key>
+	<val>[Wybijasz wpadający w ucho rytm na bębnie. Publiczność uprzejmie tego słucha, ale praktycznie bez zainteresowania.] Nieźle. Nie było doskonale, ale i nie tragicznie. Dzięki za przybycie. Przyjmij też dobrą radę: ćwicz, ćwicz i jeszcze raz ćwicz.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^865621787732128543</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność obserwuje to z zainteresowaniem, uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Oglądanie twojego tańca to była czysta przyjemność. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^8946259511795420153</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię. Nie byli rozczarowani.] Dobra robota. Ten występ był wart zapłaconego złota. Ale nie przestawaj nad tym pracować.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^913929393241147984</key>
+	<val>[Wskakujesz na swoją kościaną tarczę, wybijasz się w powietrze, kręcisz się i wykonujesz kopnięcia, a na koniec lądujesz perfekcyjnie, lekko jak piórko i bez wysiłku. Publiczność obserwuje to z podziwem, a następnie krzyczy i bije brawo.] NIE-SA-MO-WI-TE! Znakomite przedstawienie! Ta siła, styl, gracja! Bardzo ci dziękuję i oczekuję twojego szybkiego powrotu!</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Feather -> Lekkość SPEL^feather] [Light -> Światło SPEL^light] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^91652975286678595</key>
+	<val>[Żonglujesz trzema małymi jajami kwama w standarowym stylu. Publiczność uprzejmie kiwa głowami, a następnie ignoruje cię, obojętna.] Tak. Udało ci się. Udało ci się żonglować trzema małymi jajami kwama jednocześnie. Jupi! Lepiej już idź.</val>
+	<!--
+	Glossary: [Jug -> Dzban MISC^misc_com_bottle_03] [Small Kwama Egg -> Małe jajo kwama INGR^food_kwama_egg_01]
+	Hyperlinks 1: [kwama -> kwama] [kwama egg -> jajo kwama]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^934022551202125663</key>
+	<val>[Wybijasz wpadający w ucho rytm na bębnie. Publiczność uprzejmie tego słucha, ale praktycznie bez zainteresowania.] Nieźle. Nie było doskonale, ale i nie tragicznie. Dzięki za przybycie. Przyjmij też dobrą radę: ćwicz, ćwicz i jeszcze raz ćwicz.</val>
+	<!--
+	Glossary: [Drum -> Bęben MISC^misc_de_drum_01]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^940757932426522971</key>
+	<val>[Wskakujesz na swoją kościaną tarczę, wybijasz się w powietrze, kręcisz się i wykonujesz kopnięcia, a na koniec lądujesz perfekcyjnie, lekko jak piórko i bez wysiłku. Publiczność obserwuje to z podziwem, a następnie krzyczy i bije brawo.] NIE-SA-MO-WI-TE! Znakomite przedstawienie! Ta siła, styl, gracja! Bardzo ci dziękuję i oczekuję twojego szybkiego powrotu!</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Feather -> Lekkość SPEL^feather] [Light -> Światło SPEL^light] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^9436108651108912610</key>
+	<val>[Żonglujesz trzema małymi jajami kwama w standarowym stylu, wykonujesz półprysznic, podkreślasz to złapaniem jaja kwama na karku i przerzuceniem go przez głowę. Publiczność ogląda to z ciekawością, uśmiecha się oglądając triki, a gdy kończysz, życzliwie klaszcze.] Całkiem dobre. Masz styl, %PCName. Trzymaj się.</val>
+	<!--
+	Glossary: [Jug -> Dzban MISC^misc_com_bottle_03] [Small Kwama Egg -> Małe jajo kwama INGR^food_kwama_egg_01]
+	Hyperlinks 1: [kwama -> kwama] [kwama egg -> jajo kwama] [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^9575124201384832386</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Przy odrobinie szczęścia możesz odnieść sukces. Ale ćwiczenia i ciężka praca też nie zaszkodzą.</val>
+	<!--
+	Glossary: [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield]
+	Hyperlinks 1: [dance -> taniec] [luck -> szczęście] [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^9959319512381817106</key>
+	<val>[Zaczynasz nieśmiało śpiewać i grać na niewidzialnej lutni. Publiczność patrzy na ciebie wrogim wzrokiem.] Hmm. To co, teraz widzieliśmy, mogło spowodować nagłą ucieczkę publiki. Cóż, nawet najlepsza lutnia nie pomoże przy braku talentu. Raczej więcej się tu nie pojawisz. No chyba, że życie ci niemiłe...</val>
+	<!--
+	Glossary: [Lute -> Lutnia MISC^misc_de_lute_01] [Weary -> Zmęczony SPEL^weary]
+	Hyperlinks 1: [escape -> ucieczka]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zbadać te ruiny^25679227561317327199</key>
+	<val>Tak. Mój brat Dalin i ja zamierzaliśmy to zrobić. Nasz ojciec zginął w środku, a my chcemy go pomścić. Jednak on woli poczekać na pomoc. Ja natomiast twierdzę, że honor rodziny jest najważniejszy i powinniśmy iść tam sami.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [plan -> plan]
+	Hyperlinks 2: [family honor]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zbadać te ruiny^292195281322747724</key>
+	<val>Znakomicie! Mój brat Daris i ja mieliśmy taki sam zamiar. Lata temu nasz ojciec, niech spoczywa w pokoju, zginął w tych ruinach. Chcemy oczyścić je ze wszelkiego zła, jakie zalęgło się w środku. Osobiście uważam, że im więcej nas będzie, tym lepiej. Jednak mój brat twierdzi, że honor rodziny nie pozwala nam skorzystać z pomocy innych.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [discuss -> omówić]
+	Hyperlinks 2: [family honor]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^honor rodziny^138152507038544632</key>
+	<val>Wystarczy, Darisie! Wybacz mojemu bratu. Wygląda na to, że możemy to rozwiązać tylko w jeden sposób. To długoletnia tradycja rodziny Norvayne. Nie wtrącaj się, przybyszu. Kiedy podejmiemy decyzję, damy ci znać.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [decision -> decyzja]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^honor rodziny^54612760232135645</key>
+	<val>Znam twoje zdanie na ten temat, Dalinie! Mój brat wyrywa się przed szereg. Wygląda na to, że możemy to rozwiązać tylko w jeden sposób. To długoletnia tradycja rodziny Norvayne. Nie wtrącaj się, przybyszu. Kiedy podejmiemy decyzję, damy ci znać.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [decision -> decyzja] [know you -> znam cię]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^wys-kok^2753532387185528563</key>
+	<val>"Wys-kok" to tradycyjny dunmerski taniec wojenny, wykonywany na kościanej tarczy wojownika. Stylowe wysokie kopnięcia i pełne gracji lądowania na tarczy, będące podstawowymi elementami tego tańca, wymagają doskonałej atletyki i akrobatyki.</val>
+	<!--
+	Glossary: [Acrobat -> Akrobata CLAS^Acrobat] [Bonemold Shield -> Kościana tarcza ARMO^bonemold_shield] [Shield -> Tarcza SPEL^shield] [Warrior -> Wojownik CLAS^Warrior]
+	Hyperlinks 1: [Dunmer -> Dunmerowie] [dance -> taniec]
+	Hyperlinks 2: [handy high-kick]
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^mały sekret^1407822190554218458</key>
+	<val>Umiesz grać na lutni? W takim razie musisz koniecznie porozmawiać z Dulneą Ralaal z gospody "Osiem Talerzy" w Balmorze. Podobno zatrudnia artystów, by zabawiali jej klientów.</val>
+	<!--
+	Glossary: [Balmora -> Balmora ACTI^active_sign_balmora_01] [Dulnea Ralaal -> Dulnea Ralaal NPC_^dulnea ralaal] [Eight Plates -> Osiem Talerzy ACTI^furn_banner_tavern_eightplates] [Lute -> Lutnia MISC^misc_de_lute_01] [Plate -> Talerz MISC^misc_com_metal_plate_04]
+	Hyperlinks 1: [Balmora -> Balmora] [Talk -> porozmawiać] [patron -> opiekun]
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^mały sekret^2418029509221322694</key>
+	<val>Umiesz grać na bębnach? W takim razie musisz koniecznie porozmawiać z Dulneą Ralaal z gospody "Osiem Talerzy" w Balmorze. Podobno zatrudnia artystów, by zabawiali jej klientów.</val>
+	<!--
+	Glossary: [Balmora -> Balmora ACTI^active_sign_balmora_01] [Drum -> Bęben MISC^misc_de_drum_01] [Dulnea Ralaal -> Dulnea Ralaal NPC_^dulnea ralaal] [Eight Plates -> Osiem Talerzy ACTI^furn_banner_tavern_eightplates] [Plate -> Talerz MISC^misc_com_metal_plate_04]
+	Hyperlinks 1: [Balmora -> Balmora] [Talk -> porozmawiać] [patron -> opiekun]
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^mały sekret^2675034591959419889</key>
+	<val>Umiesz grać na bębnach? W takim razie musisz koniecznie porozmawiać z Dulneą Ralaal z gospody "Osiem Talerzy" w Balmorze. Podobno zatrudnia artystów, by zabawiali jej klientów.</val>
+	<!--
+	Glossary: [Balmora -> Balmora ACTI^active_sign_balmora_01] [Drum -> Bęben MISC^misc_de_drum_01] [Dulnea Ralaal -> Dulnea Ralaal NPC_^dulnea ralaal] [Eight Plates -> Osiem Talerzy ACTI^furn_banner_tavern_eightplates] [Plate -> Talerz MISC^misc_com_metal_plate_04]
+	Hyperlinks 1: [Balmora -> Balmora] [Talk -> porozmawiać] [patron -> opiekun]
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^mały sekret^276181128340255511</key>
+	<val>Umiesz grać na lutni? W takim razie musisz koniecznie porozmawiać z Dulneą Ralaal z gospody "Osiem Talerzy" w Balmorze. Podobno zatrudnia artystów, by zabawiali jej klientów.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [Balmora -> Balmora] [Talk -> porozmawiać] [patron -> opiekun]
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^mały sekret^6543141622156630875</key>
+	<val>Lubisz zwiedzać różne zakamarki na odludziu? Drobna sugestia - napotykasz czasami miejsca wyglądające jakby były ze złocistego metalu? Z iglicami i wieżami? To krasnoludzkie ruiny. Mogą być niebezpieczne - po części z powodu znajdujących się w nich maszyn, a po części z powodu stworów, które często się w nich kryją. Na przykład wszystkie ruiny wewnątrz Upiornej Bariery pochodzą z czasów Dwemerów, podobno wampiry też je lubią.</val>
+	<!--
+	Glossary: [Danger -> Niebezpieczeństwo ACTI^furn_bannerd_danger_01] [Door -> Drzwi DOOR^ex_dae_door_load_oval] [Gold -> szt. złota MISC^Gold_001] [Hide -> Ukrycie SPEL^hide] [Vampire -> Wampir NPC_^berne vampire 1]
+	Hyperlinks 1: [Dwarven -> krasnoludzkie] [Ghostfence -> Upiorna Bariera] [inside the Ghostfence -> wewnątrz Upiornej Bariery] [little suggestion -> drobna sugestia] [vampires -> wampiry]
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^najnowsze plotki^14568317452754723589</key>
+	<val>Dulnea Ralaal, oberżystka z karczmy "Osiem Talerzy" w Balmorze, zatrudnia artystów do zabawiania jej klientów. Poszukuje błaznów, tancerzy, bębniarzy, żonglerów oraz bardów grających na lutni.</val>
+	<!--
+	Glossary: [Balmora -> Balmora ACTI^active_sign_balmora_01] [Drum -> Bęben MISC^misc_de_drum_01] [Dulnea Ralaal -> Dulnea Ralaal NPC_^dulnea ralaal] [Eight Plates -> Osiem Talerzy ACTI^furn_banner_tavern_eightplates] [Jug -> Dzban MISC^misc_com_bottle_03] [Lute -> Lutnia MISC^misc_de_lute_01] [Plate -> Talerz MISC^misc_com_metal_plate_04] [Publican -> Oberżysta CLAS^Publican]
+	Hyperlinks 1: [Balmora -> Balmora] [dance -> taniec] [patron -> opiekun]
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^najnowsze plotki^2699818230245425154</key>
+	<val>Po okolicy krążą opowieści o starożytnym hełmie zamkniętym wewnątrz ruin Onnissiralis, na zachód od Vas. Wyjmij mapę, pokażę ci gdzie jest Vas. Bracia Norvayne niedawno wyruszyli do tych ruin. Radzę ci ich odszukać, jeśli zamierzasz wejść do środka. To dobre chłopaki, chociaż trochę kłótliwe.</val>
+	<!--
+	Glossary: [Lock -> Zamknięcie SPEL^lock] [Mark -> Oznaczenie SPEL^mark]
+	Hyperlinks 1: [Vas -> Vas]
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^14060209922677313404</key>
+	<val>Oto 500 sztuk złota za indeks Andasreth. Teraz potrzebny mi będzie indeks portalu Rotheran. Ma go Rols Ienith, obłąkany banita, i zapewne odda go jedynie "po swoim trupie". Mieszka w miejscu zwanym "wspólnym domem" na szczycie Rotheran, dunmerskiej twierdzy położonej na południowym cyplu wyspy Dagon Fel.</val>
+	<!--
+	Glossary: [Dagon Fel -> Dagon Fel ACTI^active_sign_dagon_fel_01] [Gold -> szt. złota MISC^Gold_001] [Rols Ienith -> Rols Ienith NPC_^rols ienith] [Rotheran Propylon -> Portyk Rotheran ACTI^active_port_roth] [Rotheran Propylon Index -> Indeks portalu Rotheran MISC^index_roth]
+	Hyperlinks 1: [Andasreth -> Andasreth] [Dagon Fel -> Dagon Fel] [Dunmer -> Dunmerowie] [Ienith -> Ienith] [Rotheran -> Rotheran] [stronghold -> twierdza] [tip -> napiwek]
+	Hyperlinks 2: [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^14218155321035625567</key>
+	<val>Dobrze. Oto 500 sztuk złota. Teraz przynieś mi indeks portalu Andasreth. Należy do sprawiającej wieczne problemy mrocznej elfki imieniem Brilnosu Llarys, ale udało mi się dowiedzieć, że nie nosi go przy sobie. Za kryjówkę obrała sobie kopułę na szczycie dunmerskiej twierdzy zwanej Hlormaren, położonej na wybrzeżu, na zachód od Balmory. W czasie poszukiwań indeksu musisz zachować wyjątkową ostrożność.</val>
+	<!--
+	Glossary: [Andasreth Propylon -> Portyk Andasreth ACTI^active_port_andra] [Andasreth Propylon Index -> Indeks portalu Andasreth MISC^index_andra] [Balmora -> Balmora ACTI^active_sign_balmora_01] [Brilnosu Llarys -> Brilnosu Llarys NPC_^brilnosu llarys] [Dark Elf -> Mroczny elf RACE^Dark Elf] [Gold -> szt. złota MISC^Gold_001] [Hide -> Ukrycie SPEL^hide]
+	Hyperlinks 1: [Andasreth -> Andasreth] [Balmora -> Balmora] [Brilnosu Llarys -> Brilnosu Llarys] [Dunmer -> Dunmerowie] [Hlormar -> Hlormar] [stronghold -> twierdza]
+	Hyperlinks 2: [Hlormaren] [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^14378124993178824558</key>
+	<val>Najpierw przynieś mi indeks portalu Hlormaren. Później porozmawiamy o kolejnych.</val>
+	<!--
+	Glossary: [Hlormaren Propylon -> Portyk Hlormaren ACTI^active_port_hlor] [Hlormaren Propylon Index -> Indeks portalu Hlormaren MISC^index_hlor]
+	Hyperlinks 1: [Hlormar -> Hlormar] [Talk -> porozmawiać]
+	Hyperlinks 2: [Hlormaren] [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^14667284622761317333</key>
+	<val>Oto 500 sztuk złota za indeks Indoranyon. Teraz przynieś mi indeks portalu Berandas. Wiem jedynie, że znajduje się w posiadaniu czarodzieja Baladasa Demnevanniego z Gnisis. Jego wieża zwana jest Arvs Drelen. Mieszkańcy Gnisis obawiają się go, ale skoro mieszka między nimi od tylu lat, to chyba nie może być aż taki zły.</val>
+	<!--
+	Glossary: [Baladas Demnevanni -> Baladas Demnevanni NPC_^baladas demnevanni] [Berandas Propylon -> Portyk Berandas ACTI^active_port_beran] [Berandas Propylon Index -> Indeks portalu Berandas MISC^index_beran] [Gnisis -> Gnisis ACTI^active_sign_gnisis_01] [Gold -> szt. złota MISC^Gold_001]
+	Hyperlinks 1: [Baladas -> Baladas] [Gnisis -> Gnisis]
+	Hyperlinks 2: [Berandas] [Indoranyon] [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^1821232444801730616</key>
+	<val>Czynimy zdumiewające postępy. Oto twoje 500 sztuk złota. Teraz potrzebny mi będzie indeks portalu Falasmaryon. Pielgrzym nie mający pojęcia o jego wartości złożył go w ofierze przy kaplicy w Maar Gan. Odzyskanie indeksu nie powinno sprawić żadnych trudności komuś takiemu jak ty.</val>
+	<!--
+	Glossary: [Falasmaryon Propylon -> Portyk Falasmaryon ACTI^active_port_falas] [Falasmaryon Propylon Index -> Indeks portalu Falasmaryon MISC^index_falas] [Gold -> szt. złota MISC^Gold_001] [Maar Gan -> Maar Gan ACTI^active_sign_maar_gan_01] [Pilgrim -> Pielgrzym CLAS^Pilgrim] [Val -> Val NPC_^val]
+	Hyperlinks 1: [Maar Gan -> Maar Gan] [present -> prezent]
+	Hyperlinks 2: [Falasmaryon] [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^182916691174130199</key>
+	<val>Najpierw przynieś mi indeks portalu Falasmaryon. Później porozmawiamy o kolejnych.</val>
+	<!--
+	Glossary: [Falasmaryon Propylon -> Portyk Falasmaryon ACTI^active_port_falas] [Falasmaryon Propylon Index -> Indeks portalu Falasmaryon MISC^index_falas]
+	Hyperlinks 1: [Talk -> porozmawiać]
+	Hyperlinks 2: [Falasmaryon] [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^1875325647288445966</key>
+	<val>Dobrze. Przynieś mi indeks portalu Hlormaren, a ja zapłacę za niego 500 sztuk złota. To niewielki, szary i podłużny przedmiot wielkości klucza. Dowiedziałem się, że ma go Irgola, właściciel lombardu tutaj, w Calderze, trzy budynki na prawo od nas. Indeks nie jest zaklęty ani nic w tym stylu, więc nie próbuj nawet używać czaru Wykrycia Zaklętych Przedmiotów do jego zlokalizowania.</val>
+	<!--
+	Glossary: [Caldera -> Caldera ACTI^active_sign_caldera_01] [Detect Enchantment -> Wykrycie Zaklętych Przedmiotów SPEL^detect enchantment] [Gold -> szt. złota MISC^Gold_001] [Hlormaren Propylon -> Portyk Hlormaren ACTI^active_port_hlor] [Hlormaren Propylon Index -> Indeks portalu Hlormaren MISC^index_hlor] [Irgola -> Irgola NPC_^irgola] [Pawnbroker -> Właściciel lombardu CLAS^Pawnbroker]
+	Hyperlinks 1: [Caldera -> Caldera] [Hlormar -> Hlormar] [Irgola -> Irgola] [enchant -> zaklinanie] [enchantment -> urok]
+	Hyperlinks 2: [Hlormaren] [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^194974407318995109</key>
+	<val>Najpierw przynieś mi indeks portalu Indoranyon. Później porozmawiamy o kolejnych.</val>
+	<!--
+	Glossary: [Indoranyon Propylon -> Portyk Indoranyon ACTI^active_port_indo] [Indoranyon Propylon Index -> Indeks portalu Indoranyon MISC^index_indo]
+	Hyperlinks 1: [Talk -> porozmawiać]
+	Hyperlinks 2: [Indoranyon] [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^1963420149310967942</key>
+	<val>Rozumiem. Może innym razem.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^21027141122167519323</key>
+	<val>Najpierw przynieś mi indeks portalu Falensarano. Później porozmawiamy o kolejnych.</val>
+	<!--
+	Glossary: [Falensarano Propylon -> Portyk Falensarano ACTI^active_port_falen] [Falensarano Propylon Index -> Indeks portalu Falensarano MISC^index_falen]
+	Hyperlinks 1: [Falensarano -> Falensarano] [Talk -> porozmawiać]
+	Hyperlinks 2: [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^2252913641207624560</key>
+	<val>Wreszcie mam wszystkie indeksy. Oto twoje 500 sztuk złota i główny indeks. Zdradzę ci teraz jak on działa. Jeśli chcesz udać się do twierdzy Dunmerów, po prostu porozmawiaj ze mną i przynieś ze sobą główny indeks. Wyślę cię do którejkolwiek twierdzy zechcesz. A jeśli chodzi o podróż powrotną, to wystarczy, że aktywujesz dowolny portal mając przy sobie swój główny indeks, a trafisz bezpośrednio do mnie.</val>
+	<!--
+	Glossary: [Gold -> szt. złota MISC^Gold_001] [Sen -> Sen NPC_^sen]
+	Hyperlinks 1: [Dunmer -> Dunmerowie] [stronghold -> twierdza] [work -> praca]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^2554525040468637</key>
+	<val>Nasza praca została ukończona. Udało ci się dostarczyć mi wszystkie indeksy portali, za co nagrodziłem cię głównym indeksem. Teraz mogę wysłać cię do której tylko twierdzy zechcesz i kiedy tylko zechcesz. Wystarczy, że wymienisz nazwę twierdzy - Hlormaren, Marandus, Falasmaryon, Valenvaryon, Indoranyon, Berandas, Andasreth, Rotheran, Falensarano lub Telasero - and ja cię tam przeniosę.</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen] [Val -> Val NPC_^val]
+	Hyperlinks 1: [Andasreth -> Andasreth] [Falensarano -> Falensarano] [Hlormar -> Hlormar] [Mara -> Mara] [Rotheran -> Rotheran] [stronghold -> twierdza] [work -> praca]
+	Hyperlinks 2: [Berandas] [Falasmaryon] [Hlormaren] [Indoranyon] [Marandus] [Telasero] [Valenvaryon]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^27552107252387018016</key>
+	<val>Oto 500 sztuk złota. Teraz przynieś mi indeks portalu Valenvaryon. Ma go Nibani Maesa, Wieszczka plemienia Popielnych z obozu Urshilaku. Może nie być świadoma jego wartości i zgodzi się sprzedać go za bezcen.</val>
+	<!--
+	Glossary: [Gold -> szt. złota MISC^Gold_001] [Nibani Maesa -> Nibani Maesa NPC_^nibani maesa] [Val -> Val NPC_^val] [Valenvaryon Propylon -> Portyk Valenvaryon ACTI^active_port_valen] [Valenvaryon Propylon Index -> Indeks portalu Valenvaryon MISC^index_valen] [Wise Woman -> Wieszczka CLAS^Wise Woman]
+	Hyperlinks 1: [Urshilaku -> Urshilaku] [Urshilaku camp -> obóz Urshilaku]
+	Hyperlinks 2: [Valenvaryon] [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^27820212262370130451</key>
+	<val>Został jeszcze tylko jeden. Przynieś mi indeks portalu Telasero, a wtedy ja będę w stanie wykonać dla ciebie główny indeks, pozwalający na natychmiastowe podróże do dowolnej z twierdz Dunmerów.</val>
+	<!--
+	Glossary: [Telasero Propylon -> Portyk Telasero ACTI^active_port_telas] [Telasero Propylon Index -> Indeks portalu Telasero MISC^index_telas]
+	Hyperlinks 1: [Dunmer -> Dunmerowie] [stronghold -> twierdza]
+	Hyperlinks 2: [Telasero] [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^29795105121702117571</key>
+	<val>Oto 500 sztuk złota za indeks portalu Falensarano. Został jeszcze jeden - indeks portalu Telasero. Znaleźć go można w Telasero, dunmerskiej twierdzy położonej między miastami Suran i Molag Mar, na południowym wybrzeżu regionu Molag Amur. Wiem tylko tyle, że indeks ukryto w mrocznym miejscu między wieloma innymi przedmiotami. To raczej niezbyt przydatna wskazówka. Uważaj na siebie, słyszałem, że to bardzo, bardzo niebezpieczne miejsce.</val>
+	<!--
+	Glossary: [Gold -> szt. złota MISC^Gold_001] [Molag Amur Region -> Molag Mar REGN^Molag Mar Region] [Molag Mar -> Molag Mar ACTI^active_sign_Molag_Mar_01] [Suran -> Suran ACTI^active_sign_suran_01] [Telasero Propylon -> Portyk Telasero ACTI^active_port_telas] [Telasero Propylon Index -> Indeks portalu Telasero MISC^index_telas]
+	Hyperlinks 1: [Dunmer -> Dunmerowie] [Falensarano -> Falensarano] [Molag Amur -> Molag Amur] [Molag Mar -> Molag Mar] [Suran -> Suran] [stronghold -> twierdza]
+	Hyperlinks 2: [Telasero] [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^3046249381472296</key>
+	<val>Mam dla ciebie propozycję. Starożytni Dunmerowie stworzyli dziesięć artefaktów teleportacyjnych zwanych "indeksami portali". Zdradzę ci, gdzie można znaleźć jeden z nich, a kiedy mi go przyniesiesz, zapłacę ci 500 sztuk złota i opowiem o kolejnym. Kiedy będę miał już wszystkie dziesięć, wykonam dla ciebie główny indeks portalu, dzięki któremu będziesz w stanie podróżować między Calderą a wszystkimi dunmerskimi twierdzami na Vvardenfell. Czy chcesz wiedzieć, gdzie znaleźć pierwszy z nich?</val>
+	<!--
+	Glossary: [Caldera -> Caldera ACTI^active_sign_caldera_01] [Gold -> szt. złota MISC^Gold_001]
+	Hyperlinks 1: [Caldera -> Caldera] [Vvardenfell -> Vvardenfell] [proposition -> propozycja]
+	Hyperlinks 2: [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^3080311244280837441</key>
+	<val>Najpierw przynieś mi indeks portalu Marandus. Później porozmawiamy o kolejnych.</val>
+	<!--
+	Glossary: [Marandus Propylon -> Portyk Marandus ACTI^active_port_maran] [Marandus Propylon Index -> Indeks portalu Marandus MISC^index_maran]
+	Hyperlinks 1: [Mara -> Mara] [Talk -> porozmawiać]
+	Hyperlinks 2: [Marandus] [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^3170312963023711763</key>
+	<val>Doskonale. Oto twoje 500 sztuk złota. Teraz przynieś mi indeks portalu Marandus. Dowiedziałem się, że został spakowany wraz z innymi rzeczami i dostarczony do Świątyni św. Olmsa w Vivek. Oczywiście ci kapłani nie mają pojęcia o jego wartości. Możliwe, że zwyczajnie rzucili go gdzieś w kąt. Rozejrzyj się za pustymi skrzyniami w magazynie. Zrób to z należytą starannością - indeks jest mały, szary i łatwo przegapić go w półmroku.</val>
+	<!--
+	Glossary: [Crate -> Skrzynka CONT^crate_01_imp_weapons] [Gold -> szt. złota MISC^Gold_001] [Light -> Światło SPEL^light] [Marandus Propylon -> Portyk Marandus ACTI^active_port_maran] [Marandus Propylon Index -> Indeks portalu Marandus MISC^index_maran] [Priest -> Kapłan CLAS^Priest] [Temple -> Świątynia FACT^Temple] [Val -> Val NPC_^val] [Vivec -> Vivek ACTI^active_sign_vivec_01]
+	Hyperlinks 1: [Mara -> Mara] [Temple -> Świątynia] [Vivec -> Vivek]
+	Hyperlinks 2: [Marandus] [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^3239627053096812198</key>
+	<val>Oto twoje 500 sztuk złota. Teraz potrzebny mi będzie indeks portalu Indoranyon. Jego obecny właściciel, Divayth Fyr, stary i potężny czarodziej Telvanni zamieszkujący wieżę Tel Fyr, kolekcjoner antyków, raczej nie zechce się z nim rozstać.</val>
+	<!--
+	Glossary: [Divayth Fyr -> Divayth Fyr NPC_^divayth fyr] [Gold -> szt. złota MISC^Gold_001] [Indoranyon Propylon -> Portyk Indoranyon ACTI^active_port_indo] [Indoranyon Propylon Index -> Indeks portalu Indoranyon MISC^index_indo] [Tel Fyr -> Tel Fyr ACTI^Act_banner_Tel_Fyr]
+	Hyperlinks 1: [Divayth Fyr -> Divayth Fyr] [Tel Fyr -> Tel Fyr] [collector -> kolekcjoner]
+	Hyperlinks 2: [Indoranyon] [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^32478133982358118445</key>
+	<val>Najpierw przynieś mi indeks portalu Andasreth. Później porozmawiamy o kolejnych.</val>
+	<!--
+	Glossary: [Andasreth Propylon -> Portyk Andasreth ACTI^active_port_andra] [Andasreth Propylon Index -> Indeks portalu Andasreth MISC^index_andra]
+	Hyperlinks 1: [Andasreth -> Andasreth] [Talk -> porozmawiać]
+	Hyperlinks 2: [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^518926473630519023</key>
+	<val>Najpierw przynieś mi indeks portalu Rotheran. Później porozmawiamy o kolejnych.</val>
+	<!--
+	Glossary: [Rotheran Propylon -> Portyk Rotheran ACTI^active_port_roth] [Rotheran Propylon Index -> Indeks portalu Rotheran MISC^index_roth]
+	Hyperlinks 1: [Rotheran -> Rotheran] [Talk -> porozmawiać]
+	Hyperlinks 2: [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^5358140132184718551</key>
+	<val>Najpierw przynieś mi indeks portalu Berandas. Później porozmawiamy o kolejnych.</val>
+	<!--
+	Glossary: [Berandas Propylon -> Portyk Berandas ACTI^active_port_beran] [Berandas Propylon Index -> Indeks portalu Berandas MISC^index_beran]
+	Hyperlinks 1: [Talk -> porozmawiać]
+	Hyperlinks 2: [Berandas] [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^626216801711623824</key>
+	<val>Najpierw przynieś mi indeks portalu Valenvaryon. Później porozmawiamy o kolejnych.</val>
+	<!--
+	Glossary: [Val -> Val NPC_^val] [Valenvaryon Propylon -> Portyk Valenvaryon ACTI^active_port_valen] [Valenvaryon Propylon Index -> Indeks portalu Valenvaryon MISC^index_valen]
+	Hyperlinks 1: [Talk -> porozmawiać]
+	Hyperlinks 2: [Valenvaryon] [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^praca^9094119383018911976</key>
+	<val>Oto 500 sztuk złota za indeks do Rotheran. Teraz przynieś mi indeks portalu Falensarano. Ostatnio należał do cudzoziemca imieniem Hunnen, którego po raz ostatni widziano na szlaku prowadzącym do Maelkashishi, daedrycznej kaplicy położonej na zachód od Maar Gan. Huunen prawdopodobnie nie żyje, a odnalezienie jego ciała - i indeksu - raczej nie będzie łatwym zadaniem.</val>
+	<!--
+	Glossary: [Corpse -> Zwłoki CONT^contain_corpse20] [Falensarano Propylon -> Portyk Falensarano ACTI^active_port_falen] [Falensarano Propylon Index -> Indeks portalu Falensarano MISC^index_falen] [Gold -> szt. złota MISC^Gold_001] [Maar Gan -> Maar Gan ACTI^active_sign_maar_gan_01]
+	Hyperlinks 1: [Daedric -> daedryczne] [Falensarano -> Falensarano] [Maar Gan -> Maar Gan] [Maelkashishi -> Maelkashishi] [Rotheran -> Rotheran] [outlander -> obcy]
+	Hyperlinks 2: [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^indeks portalu^112461563236725627</key>
+	<val>Nawet o tym nie myśl.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^indeks portalu^114922824920813003</key>
+	<val>Jeśli chcesz udać się do twierdzy Dunmerów, po prostu porozmawiaj ze mną i przynieś ze sobą główny indeks. Wyślę cię bezpośrednio do którejkolwiek twierdzy chcesz. A jeśli chodzi o podróż powrotną, to wystarczy, że aktywujesz dowolny portal mając przy sobie swój główny indeks, a trafisz bezpośrednio do mnie.</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen]
+	Hyperlinks 1: [Dunmer -> Dunmerowie] [stronghold -> twierdza]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^indeks portalu^12195169662267421341</key>
+	<val>Został złożony w darze przez pielgrzyma. Powiedziano mi, że jest całkiem cenny, dlatego jesteśmy wdzięczni za taką ofiarę.</val>
+	<!--
+	Glossary: [Grate -> Krata DOOR^ex_v_palace_grate_01] [Pilgrim -> Pielgrzym CLAS^Pilgrim] [Val -> Val NPC_^val]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^indeks portalu^1734927609596725813</key>
+	<val>Nic o nim nie wiem. Łowca znalazł ciekawy kamień w ruinach i dał go mi. Nie jest raczej jakiś nadzwyczajny... dlatego mogę ci go sprzedać.</val>
+	<!--
+	Glossary: [Hunter -> Myśliwy CLAS^Hunter]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^indeks portalu^19019193882995026354</key>
+	<val>Jest MÓJ! Tylko mój!</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^indeks portalu^23355160821432215011</key>
+	<val>Każda dunmerska twierdza na Vvardenfell posiada komnatę z portalami, które mogą przenieść cię do innych twierdz - ale tylko gdy masz przy sobie odpowiedni indeks będący kluczem do danego portalu. Główny indeks, który zamierzam ci podarować, pozwoli ci podróżować między Calderą a dziesięcioma twierdzami zwanymi: Andasreth, Berandas, Falasmaryon, Falensarano, Hlormaren, Indoranyon, Marandus, Rotheran, Telasero i Valenvaryon.</val>
+	<!--
+	Glossary: [Caldera -> Caldera ACTI^active_sign_caldera_01] [Val -> Val NPC_^val]
+	Hyperlinks 1: [Andasreth -> Andasreth] [Caldera -> Caldera] [Dunmer -> Dunmerowie] [Falensarano -> Falensarano] [Hlormar -> Hlormar] [Mara -> Mara] [Rotheran -> Rotheran] [Vvardenfell -> Vvardenfell] [enchant -> zaklinanie] [stronghold -> twierdza]
+	Hyperlinks 2: [Berandas] [Falasmaryon] [Hlormaren] [Indoranyon] [Marandus] [Telasero] [Valenvaryon] [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^indeks portalu^23880193751711715953</key>
+	<val>Indeks portalu? Możesz go sobie wziąć. Leży gdzieś tutaj, chyba na górnej półce, i tylko zbiera kurz. Nie krępuj się.</val>
+	<!--
+	Glossary: [Welcome -> Witamy ACTI^furn_bannerd_welcome_01]
+	Hyperlinks 1:
+	Hyperlinks 2: [propylon index]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^indeks portalu^3020891272656710898</key>
+	<val>Nic o nim nie wiem. Porozmawiaj z Salenem Ravelem, kapłanem. Jego pokój znajduje się w północnym rogu Świątyni.</val>
+	<!--
+	Glossary: [Priest -> Kapłan CLAS^Priest] [Salen Ravel -> Salen Ravel NPC_^salen ravel]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^indeks portalu^650724683093712053</key>
+	<val>Och. To coś. Zamierzałem oddać go mieszkańcom Domu Spaczonych do zabawy. Chcesz go? Proszę bardzo.</val>
+	<!--
+	Glossary: [Corprus -> Spaczenie SPEL^corprus]
+	Hyperlinks 1: [Corprus -> śmiertelne spaczenie] [Corprusarium -> Dom Spaczonych]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>TEXT</_id>
+	<key>bk_Balladeers_Fakebook</key>
+	<val><DIV ALIGN="CENTER"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>
+Śpiewnik<BR>
+<DIV ALIGN="LEFT"><BR><BR>
+[W zbiorze tym zawarto teksty znanych i popularnych pieśni tawernianych, takich jak:]<BR>
+<BR>
+"Łysy Admirał Richton"<BR>
+"Złoty Gaj"<BR>
+"Dwunastodniowa Popijawa"<BR>
+"Wyspiarze Zrzuceni z Góry"<BR>
+"Ziarenka, Krwawe Ziarenka"<BR>
+"Bielizna Olgi"<BR>
+"Czarny Fredas"<BR>
+"Cesarski Wolontariusz"<BR>
+"W Dół, Poprzez Imbirowy Gaj"<BR>
+"Tocz się Bretonio, Tocz"<BR>
+"Wyspa Summerset"<BR>
+"Ciemnokrwiści Wrogowie"<BR>
+"Świt i Zmierzch"<BR>
+"Żegnaj, Kolovio"<BR>
+"Wiatr i Deszcz"<BR>
+"Zielona i Miłosierna Ziemia"<BR>
+"Wesoły Łucznik"<BR>
+"Wody Smutku"<BR>
+"Inkkit Hinkit"<BR>
+"Pielgrzym Na Szlaku"<BR>
+"Jestem Szczęśliwy, Że Nie Jestem Orkiem"<BR>
+</val>
+	<!--
+	Glossary: [Archer -> Łucznik CLAS^Archer] [Breton -> Breton RACE^Breton] [Gold -> szt. złota MISC^Gold_001] [Imperial -> Cesarski RACE^Imperial] [Orc -> Ork RACE^Orc] [Pilgrim -> Pielgrzym CLAS^Pilgrim] [Sor -> Sor NPC_^sor]
+	-->
+</record>
+<record>
+	<_id>TEXT</_id>
+	<key>bk_Battle_Molag_Beran</key>
+	<val><DIV ALIGN="LEFT"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>
+<BR>
+Bitwa o Molag Beran<BR>
+[Tradycyjna dunmerska ballada]<BR>
+<BR>
+Przyszedłeś ukryć się przed wojną,<BR>
+A może guary kraść,<BR>
+Gdzie byłeś ze swym rodem<BR>
+Podczas bitwy o Molag Beran?<BR>
+Ja byłem tam, walczyłem roniąc łzy,<BR>
+Smakując błyskawic i krwi.<BR>
+Stałem w szeregu z buzdyganem w dłoni,<BR>
+Gdy klan Dunmerów bratobójczą rozpoczął walkę.<BR>
+<BR>
+Wojownicy Rodu Retheran<BR>
+O świcie wyczekiwali bitwy.<BR>
+Przyszli dumni kolumną szeroką,<BR>
+Lecz uciekali hańbą okryci.<BR>
+Broniliśmy razem brzegów Tadras,<BR>
+Złamaliśmy szyki ich niszcząc doszczętnie.<BR>
+Pole krwią jasną zalane kuzynów<BR>
+Spływa z ostrzy okrutnych Drenim.<BR>
+<BR>
+Straciliśmy legiony dzielnych mężów<BR>
+Wielu odważnych z Rodu Drenim.<BR>
+Wciąż niosą samotnie płacz<BR>
+Czerwone wzgórza Molag Beran.<BR>
+Zginęli przez ciemnotę, zginęli za światło,<BR>
+Zginęli z powodu herbu na tarczach,<BR>
+Pożegnało się wielu ze światem,<BR>
+Podczas bitwy o Molag Beran.<BR>
+<BR></val>
+	<!--
+	Glossary: [Cattle -> Bydło NPC_^cattle_kha_f01] [Guar -> Guar CREA^guar] [Guard -> Strażnik NPC_^BM_Imperial Guard] [Herd -> Herd NPC_^herd] [Hide -> Ukrycie SPEL^hide] [Shield -> Tarcza SPEL^shield]
+	-->
+</record>
+<record>
+	<_id>TEXT</_id>
+	<key>bk_Im_My_Own_Grandpa</key>
+	<val><DIV ALIGN="LEFT"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>
+Jestem Swoim Własnym Dziadkiem<BR>
+Gaeldol, Najzabawniejszy Leśny Elf Wszech Czasów<BR>
+<BR>
+Dlaczego mroczny elf przeszedł przez ulicę?<BR>
+<BR>
+<BR>
+Ilu orków potrzeba do zapalenia pochodni?<BR>
+Zależy. Czy liczącym jest ork?<BR>
+<BR>
+Co to jest: zielone, skacze i skwierczy w lawie?<BR>
+Ork akrobata.<BR>
+<BR>
+Jeśli leśny elf spadnie z drzewa, to kogo to będzie obchodziło?<BR>
+<BR>
+<BR>
+Czy jeśli zrzucisz Khajiita głową w dół z dużej wysokości, to spadnie on na cztery łapy?<BR>
+Nie, jeśli wcześniej mu je obetniesz.<BR>
+<BR>
+
+</val>
+	<!--
+	Glossary: [Acrobat -> Akrobata CLAS^Acrobat] [Dark Elf -> Mroczny elf RACE^Dark Elf] [Gaeldol -> Gaeldol NPC_^Gaeldol] [Khajiit -> Khajiit RACE^Khajiit] [Light -> Światło SPEL^light] [Orc -> Ork RACE^Orc] [Torch -> Pochodnia LIGH^light_com_torch_01_256] [Wood Elf -> Leśny elf RACE^Wood Elf]
+	-->
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>1249815187281437959^Choice "Yes, send me to Hlormaren." 1 "Not yet." 2</key>
+	<val>1249815187281437959^Choice "Tak, przenieś mnie do Hlormaren." 1 "Nie teraz." 2</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen]
+	-->
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>14500272529981491^Choice "Yes" 1 "No" 2</key>
+	<val>14500272529981491^Choice "Tak." 1 "Nie." 2</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>15484214041789229376^Choice "Yes, send me to Berandas." 1 "Not yet." 2</key>
+	<val>15484214041789229376^Choice "Tak, przenieś mnie do Berandas." 1 "Nie teraz." 2</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen]
+	-->
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>21687238681682613614^Choice "Yes, send me to Falasmaryon." 1 "Not yet." 2</key>
+	<val>21687238681682613614^Choice "Tak, przenieś mnie do Falasmaryon." 1 "Nie teraz." 2</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen]
+	-->
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>221232345276131490^Choice "Yes, send me to Andasreth." 1 "Not yet." 2</key>
+	<val>221232345276131490^Choice "Tak, przenieś mnie do Andasreth." 1 "Nie teraz." 2</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen]
+	-->
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>22263481626691333^Choice "Yes, send me to Telasero." 1 "Not yet." 2</key>
+	<val>22263481626691333^Choice "Tak, przenieś mnie do Telasero." 1 "Nie teraz." 2</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen]
+	-->
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>231724779969828437^Choice "Yes" 1 "No" 2</key>
+	<val>231724779969828437^Choice "Tak." 1 "Nie." 2</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>27636160319522753^Choice "Yes, send me to Valenvaryon." 1 "Not yet." 2</key>
+	<val>27636160319522753^Choice "Tak, przenieś mnie do Valenvaryon." 1 "Nie teraz." 2</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen] [Val -> Val NPC_^val]
+	-->
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>28422561038584505^Choice "Yes, send me to Falensarano." 1 "Not yet." 2</key>
+	<val>28422561038584505^Choice "Tak, przenieś mnie do Falensarano." 1 "Nie teraz." 2</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen]
+	-->
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>3046249381472296^Choice "I'm not interested." 1 "I'm interested." 2</key>
+	<val>3046249381472296^Choice "Raczej nie." 1 "Oczywiście." 2</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>318811439966031130^Choice "Yes, send me to Indoranyon." 1 "Not yet." 2</key>
+	<val>318811439966031130^Choice "Tak, przenieś mnie do Indoranyon." 1 "Nie teraz." 2</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen]
+	-->
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>3297259922670426768^Choice "Yes, send me to Marandus." 1 "Not yet." 2</key>
+	<val>3297259922670426768^Choice "Tak, przenieś mnie do Marandus." 1 "Nie teraz." 2</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen]
+	-->
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>517729084258077147^Choice "Yes, send me to Rotheran." 1 "Not yet." 2</key>
+	<val>517729084258077147^Choice "Tak, przenieś mnie do Rotheran." 1 "Nie teraz." 2</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen]
+	-->
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>5282301962510216580^Choice "Tell a few jokes." 1 "Dance the handy high-kick." 2 "Play the drum." 3 "Play the lute and sing." 4 "Juggle three small kwama eggs." 5 "Juggle four large kwama eggs." 6 "Juggle five ceramic bowls." 7 "Let me think about it." 8</key>
+	<val>5282301962510216580^Choice "Opowiedz kilka dowcipów." 1 "Dance the wys-kok." 2 "Zagraj na bębnie." 3 "Zaśpiewaj grając na lutni." 4 "Żongluj trzema małymi jajami kwama." 5 "Żongluj czterema dużymi jajami kwama." 6 "Żongluj pięcioma cesamicznymi misami." 7 "Muszę to jeszcze przemyśleć." 8</val>
+	<!--
+	Glossary: [Bowl -> Misa MISC^misc_com_wood_bowl_02] [Ceramic Bowl -> Misa z ceramiki MISC^misc_de_bowl_orange_green_01] [Drum -> Bęben MISC^misc_de_drum_01] [Jug -> Dzban MISC^misc_com_bottle_03] [Large Kwama Egg -> Duże jajo kwama INGR^food_kwama_egg_02] [Lute -> Lutnia MISC^misc_de_lute_01] [Small Kwama Egg -> Małe jajo kwama INGR^food_kwama_egg_01]
+	-->
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>7049322901533732256^Choice "I can lead this group. Show me the way." 1 "No, not at this time." 2</key>
+	<val>7049322901533732256^Choice "Mogę poprowadzić grupę, wskaż mi jedynie drogę." 1 "Nie, nie tym razem." 2</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>NPC_FLAG</_id>
+	<key>Firemoth_Archer</key>
+	<val>F</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>NPC_FLAG</_id>
+	<key>Firemoth_Mage</key>
+	<val>M</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>NPC_FLAG</_id>
+	<key>Firemoth_Sailor</key>
+	<val>M</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>NPC_FLAG</_id>
+	<key>Firemoth_Warrior</key>
+	<val>M</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>NPC_FLAG</_id>
+	<key>aradraen</key>
+	<val>F</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>NPC_FLAG</_id>
+	<key>dalin norvayne</key>
+	<val>M</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>NPC_FLAG</_id>
+	<key>daris norvayne</key>
+	<val>M</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>NPC_FLAG</_id>
+	<key>firemoth_cat</key>
+	<val>M</val>
+	<!--
+	Glossary:
+	-->
+</record>
