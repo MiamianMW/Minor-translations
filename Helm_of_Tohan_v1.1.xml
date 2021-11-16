@@ -2,7 +2,7 @@
 <record>
 	<_id>DIAL</_id>
 	<key>explore these ruins</key>
-	<val>zbadaæ te ruiny</val>
+	<val>zbadaÄ‡ te ruiny</val>
 </record>
 <record>
 	<_id>DIAL</_id>
@@ -12,7 +12,7 @@
 <record>
 	<_id>FNAM</_id>
 	<key>ARMO^helm_tohan_unique</key>
-	<val>Adamantowy he³m Tohana</val>
+	<val>Adamantowy heÅ‚m Tohana</val>
 </record>
 <record>
 	<_id>FNAM</_id>
@@ -37,7 +37,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^10983293811786215385</key>
-	<val>Brat mia³ ostatnie s³owo w naszym sporze, chocia¿ szanse by³y wyrównane. Zgodnie z jego decyzj¹ udamy siê wraz z tob¹ w g³¹b tych ruin. Proszê, weŸ ten klucz. Nas nie interesuje skarb, ale mo¿e tobie przyda siê do znalezienia tego, czego szukasz. Ruszajmy.</val>
+	<val>Brat miaÅ‚ ostatnie sÅ‚owo w naszym sporze, chociaÅ¼ szanse byÅ‚y wyrÃ³wnane. Zgodnie z jego decyzjÄ… udamy siÄ™ wraz z tobÄ… w gÅ‚Ä…b tych ruin. ProszÄ™, weÅº ten klucz. Nas nie interesuje skarb, ale moÅ¼e tobie przyda siÄ™ do znalezienia tego, czego szukasz. Ruszajmy.</val>
 	<!-- Hyperlinks:
 	     Glossary: [Brother -> Brat]
 	     Speaker: Male -->
@@ -45,15 +45,15 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^143518688481017612</key>
-	<val>Uda³o ci siê znaleŸæ swój skarb, druhu. W tym miejscu nasze œcie¿ki powinny siê rozdzieliæ. Ja zostanê tu jeszcze przez chwilê. Powodzenia.</val>
-	<!-- Hyperlinks: [luck -> szczêœcie]
+	<val>UdaÅ‚o ci siÄ™ znaleÅºÄ‡ swÃ³j skarb, druhu. W tym miejscu nasze Å›cieÅ¼ki powinny siÄ™ rozdzieliÄ‡. Ja zostanÄ™ tu jeszcze przez chwilÄ™. Powodzenia.</val>
+	<!-- Hyperlinks: [luck -> szczÄ™Å›cie]
 	     Glossary:
 	     Speaker: Male -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^1467626429485018928</key>
-	<val>Wejdziemy do ruin poŸniej, kiedy ju¿ odpowiednio siê przygotujemy. Mój brat mia³ ostatnie s³owo w naszym sporze.</val>
+	<val>Wejdziemy do ruin poÅºniej, kiedy juÅ¼ odpowiednio siÄ™ przygotujemy. MÃ³j brat miaÅ‚ ostatnie sÅ‚owo w naszym sporze.</val>
 	<!-- Hyperlinks:
 	     Glossary: [Brother -> Brat]
 	     Speaker: Male -->
@@ -61,15 +61,15 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^171398799317837490</key>
-	<val>Mój brat ma ostatnie s³owo w naszym sporze, wiêc post¹pimy zgodnie z jego decyzj¹. Musisz zbadaæ te ruiny na w³asn¹ rêkê. My wejdziemy poŸniej, kiedy ju¿ odpowiednio siê przygotujemy. Proszê, weŸ ten klucz. Nas nie interesuje skarb, ale mo¿e tobie przyda siê do znalezienia tego, czego szukasz. Ruszajmy.</val>
-	<!-- Hyperlinks: [luck -> szczêœcie]
+	<val>MÃ³j brat ma ostatnie sÅ‚owo w naszym sporze, wiÄ™c postÄ…pimy zgodnie z jego decyzjÄ…. Musisz zbadaÄ‡ te ruiny na wÅ‚asnÄ… rÄ™kÄ™. My wejdziemy poÅºniej, kiedy juÅ¼ odpowiednio siÄ™ przygotujemy. ProszÄ™, weÅº ten klucz. Nas nie interesuje skarb, ale moÅ¼e tobie przyda siÄ™ do znalezienia tego, czego szukasz. Ruszajmy.</val>
+	<!-- Hyperlinks: [luck -> szczÄ™Å›cie]
 	     Glossary: [Brother -> Brat]
 	     Speaker: Male -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^17161184441559432599</key>
-	<val>Wejdziemy do ruin poŸniej, kiedy ju¿ odpowiednio siê przygotujemy.</val>
+	<val>Wejdziemy do ruin poÅºniej, kiedy juÅ¼ odpowiednio siÄ™ przygotujemy.</val>
 	<!-- Hyperlinks:
 	     Glossary:
 	     Speaker: Male -->
@@ -77,7 +77,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^188124870198021300</key>
-	<val>Ta sprawa ciebie nie dotyczy³a! Teraz musisz stawiæ czo³a nam obu!</val>
+	<val>Ta sprawa ciebie nie dotyczyÅ‚a! Teraz musisz stawiÄ‡ czoÅ‚a nam obu!</val>
 	<!-- Hyperlinks:
 	     Glossary:
 	     Speaker: Male -->
@@ -86,22 +86,22 @@
 	<_id>INFO</_id>
 	<key>G^Greeting 1^1957259931025012876</key>
 	<val>Powodzenia w kolejnych wyprawach, druhu.</val>
-	<!-- Hyperlinks: [luck -> szczêœcie]
+	<!-- Hyperlinks: [luck -> szczÄ™Å›cie]
 	     Glossary:
 	     Speaker: Male -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^20083200091101611667</key>
-	<val>Mia³em ostatnie s³owo w sporze z bratem, wiêc zrobimy to, co postanowi³em. Musisz zbadaæ te ruiny na w³asn¹ rêkê. My wejdziemy poŸniej, kiedy ju¿ odpowiednio siê przygotujemy. Proszê, weŸ ten klucz. Nas nie interesuje skarb, ale mo¿e tobie przyda siê do znalezienia tego, czego szukasz. Ruszajmy.</val>
-	<!-- Hyperlinks: [luck -> szczêœcie]
+	<val>MiaÅ‚em ostatnie sÅ‚owo w sporze z bratem, wiÄ™c zrobimy to, co postanowiÅ‚em. Musisz zbadaÄ‡ te ruiny na wÅ‚asnÄ… rÄ™kÄ™. My wejdziemy poÅºniej, kiedy juÅ¼ odpowiednio siÄ™ przygotujemy. ProszÄ™, weÅº ten klucz. Nas nie interesuje skarb, ale moÅ¼e tobie przyda siÄ™ do znalezienia tego, czego szukasz. Ruszajmy.</val>
+	<!-- Hyperlinks: [luck -> szczÄ™Å›cie]
 	     Glossary: [Brother -> Brat]
 	     Speaker: Male -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^2446520884141521422</key>
-	<val>Ruszajmy w g³¹b tych ruin.</val>
+	<val>Ruszajmy w gÅ‚Ä…b tych ruin.</val>
 	<!-- Hyperlinks:
 	     Glossary:
 	     Speaker: Male -->
@@ -109,7 +109,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^2725290531860820515</key>
-	<val>Mia³em ostatnie s³owo w sporze z bratem, chocia¿ szanse by³y wyrównane. Zgodnie z moj¹ decyzj¹ udamy siê wraz z tob¹ w g³¹b tych ruin. Proszê, weŸ ten klucz. Nas nie interesuje skarb, ale mo¿e tobie przyda siê do znalezienia tego, czego szukasz. Ruszajmy.</val>
+	<val>MiaÅ‚em ostatnie sÅ‚owo w sporze z bratem, chociaÅ¼ szanse byÅ‚y wyrÃ³wnane. Zgodnie z mojÄ… decyzjÄ… udamy siÄ™ wraz z tobÄ… w gÅ‚Ä…b tych ruin. ProszÄ™, weÅº ten klucz. Nas nie interesuje skarb, ale moÅ¼e tobie przyda siÄ™ do znalezienia tego, czego szukasz. Ruszajmy.</val>
 	<!-- Hyperlinks:
 	     Glossary: [Brother -> Brat]
 	     Speaker: Male -->
@@ -117,8 +117,8 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^2755111668738012346</key>
-	<val>Uda³o ci siê znaleŸæ swój skarb, druhu. W tym miejscu nasze œcie¿ki powinny siê rozdzieliæ. Ja tu zostanê. Powodzenia.</val>
-	<!-- Hyperlinks: [luck -> szczêœcie]
+	<val>UdaÅ‚o ci siÄ™ znaleÅºÄ‡ swÃ³j skarb, druhu. W tym miejscu nasze Å›cieÅ¼ki powinny siÄ™ rozdzieliÄ‡. Ja tu zostanÄ™. Powodzenia.</val>
+	<!-- Hyperlinks: [luck -> szczÄ™Å›cie]
 	     Glossary:
 	     Speaker: Male -->
 </record>
@@ -126,22 +126,22 @@
 	<_id>INFO</_id>
 	<key>G^Greeting 1^30573282272275624106</key>
 	<val>Powodzenia w kolejnych wyprawach, druhu.</val>
-	<!-- Hyperlinks: [luck -> szczêœcie]
+	<!-- Hyperlinks: [luck -> szczÄ™Å›cie]
 	     Glossary:
 	     Speaker: Male -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^31849260202577125420</key>
-	<val>Uda³o ci siê znaleŸæ swój skarb, druhu. W tym miejscu nasze œcie¿ki powinny siê rozdzieliæ. Powodzenia!</val>
-	<!-- Hyperlinks: [luck -> szczêœcie]
+	<val>UdaÅ‚o ci siÄ™ znaleÅºÄ‡ swÃ³j skarb, druhu. W tym miejscu nasze Å›cieÅ¼ki powinny siÄ™ rozdzieliÄ‡. Powodzenia!</val>
+	<!-- Hyperlinks: [luck -> szczÄ™Å›cie]
 	     Glossary:
 	     Speaker: Male -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^3205113087239926396</key>
-	<val>Witaj. Zak³adam, ¿e chcesz zbadaæ te ruiny?</val>
+	<val>Witaj. ZakÅ‚adam, Å¼e chcesz zbadaÄ‡ te ruiny?</val>
 	<!-- Hyperlinks:
 	     Glossary:
 	     Speaker: Male -->
@@ -149,7 +149,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^36182008517969942</key>
-	<val>Ta sprawa ciebie nie dotyczy³a! Teraz musisz stawiæ czo³a nam obu!</val>
+	<val>Ta sprawa ciebie nie dotyczyÅ‚a! Teraz musisz stawiÄ‡ czoÅ‚a nam obu!</val>
 	<!-- Hyperlinks:
 	     Glossary:
 	     Speaker: Male -->
@@ -157,15 +157,15 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^612811793116421980</key>
-	<val>Uda³o ci siê znaleŸæ swój skarb, druhu. W tym miejscu nasze œcie¿ki powinny siê rozdzieliæ. Ja tu zostanê. Powodzenia.</val>
-	<!-- Hyperlinks: [luck -> szczêœcie]
+	<val>UdaÅ‚o ci siÄ™ znaleÅºÄ‡ swÃ³j skarb, druhu. W tym miejscu nasze Å›cieÅ¼ki powinny siÄ™ rozdzieliÄ‡. Ja tu zostanÄ™. Powodzenia.</val>
+	<!-- Hyperlinks: [luck -> szczÄ™Å›cie]
 	     Glossary:
 	     Speaker: Male -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^7271278952064618695</key>
-	<val>Witaj! Ty te¿ chcesz zbadaæ te ruiny?</val>
+	<val>Witaj! Ty teÅ¼ chcesz zbadaÄ‡ te ruiny?</val>
 	<!-- Hyperlinks:
 	     Glossary:
 	     Speaker: Male -->
@@ -173,7 +173,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>G^Greeting 1^9787120001898823131</key>
-	<val>Ruszajmy w g³¹b tych ruin.</val>
+	<val>Ruszajmy w gÅ‚Ä…b tych ruin.</val>
 	<!-- Hyperlinks:
 	     Glossary:
 	     Speaker: Male -->
@@ -181,7 +181,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>J^EBQ_Artifact^10473104881705412193</key>
-	<val>Poniewa¿ to Daris wygra³ w "dyskusji", bracia zbadaj¹ ruiny bez mojej pomocy.</val>
+	<val>PoniewaÅ¼ to Daris wygraÅ‚ w "dyskusji", bracia zbadajÄ… ruiny bez mojej pomocy.</val>
 	<!-- Hyperlinks:
 	     Glossary: [Brother -> Brat]
 	     Speaker: N\A -->
@@ -189,7 +189,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>J^EBQ_Artifact^1779291122467131464</key>
-	<val>Po Dagon Fel kr¹¿y plotka o wspania³ym he³mie ukrytym w ruinach miejsca zwanego Onnissiralis. To du¿a daedryczna kaplica na dalekiej pó³nocy Vvardenfell, na zachód od Vas. Zasugerowano mi odszukanie braci Norvayne, którzy niedawno wyruszyli do tych ruin.</val>
+	<val>Po Dagon Fel krÄ…Å¼y plotka o wspaniaÅ‚ym heÅ‚mie ukrytym w ruinach miejsca zwanego Onnissiralis. To duÅ¼a daedryczna kaplica na dalekiej pÃ³Å‚nocy Vvardenfell, na zachÃ³d od Vas. Zasugerowano mi odszukanie braci Norvayne, ktÃ³rzy niedawno wyruszyli do tych ruin.</val>
 	<!-- Hyperlinks: [Daedric -> daedryczne] [Dagon Fel -> Dagon Fel] [Vas -> Vas] [Vvardenfell -> Vvardenfell]
 	     Glossary: [Brother -> Brat]
 	     Speaker: N\A -->
@@ -197,7 +197,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>J^EBQ_Artifact^185572323146132493</key>
-	<val> Norvayne, Dalin i Daris. Wydaj¹ siê niezdecydowani odnoœnie sposobu, w jaki maj¹ zbadaæ ruiny. Dalin chcia³by zaanga¿owaæ w to wiêcej osób, by zwiêkszyæ swe szanse na prze¿ycie, natomiast Daris uwa¿a, ¿e honor rodziny wymaga, aby zrobili to sami.</val>
+	<val>UdaÅ‚o mi siÄ™ odnaleÅºÄ‡ braci Norvayne, Dalina i Darisa. WydajÄ… siÄ™ niezdecydowani odnoÅ›nie sposobu, w jaki majÄ… zbadaÄ‡ ruiny. Dalin chciaÅ‚by zaangaÅ¼owaÄ‡ w to wiÄ™cej osÃ³b, by zwiÄ™kszyÄ‡ swe szanse na przeÅ¼ycie, natomiast Daris uwaÅ¼a, Å¼e honor rodziny wymaga, aby zrobili to sami.</val>
 	<!-- Hyperlinks: [rat -> szczur]
 	     Glossary: [Brother -> Brat] [Rat -> szczur]
 	     Speaker: N\A -->
@@ -205,7 +205,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>J^EBQ_Artifact^24205265833107720210</key>
-	<val>Uda³o mi siê odzyskaæ adamantowy he³m Tohana.</val>
+	<val>UdaÅ‚o mi siÄ™ odzyskaÄ‡ adamantowy heÅ‚m Tohana.</val>
 	<!-- Hyperlinks:
 	     Glossary:
 	     Speaker: N\A -->
@@ -213,7 +213,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>J^EBQ_Artifact^2608255161727131531</key>
-	<val>Daris pokona³ swego brata w walce na go³e piêœci.</val>
+	<val>Daris pokonaÅ‚ swego brata w walce na goÅ‚e piÄ™Å›ci.</val>
 	<!-- Hyperlinks:
 	     Glossary: [Brother -> Brat]
 	     Speaker: N\A -->
@@ -221,7 +221,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>J^EBQ_Artifact^2660066762222327116</key>
-	<val>Dalin Norvayne zosta³ zabity.</val>
+	<val>Dalin Norvayne zostaÅ‚ zabity.</val>
 	<!-- Hyperlinks:
 	     Glossary:
 	     Speaker: N\A -->
@@ -229,7 +229,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>J^EBQ_Artifact^2849516201187924511</key>
-	<val>Bracia postanowili omówiæ ró¿nice zdañ w doœæ osobliwy sposób: walk¹ na piêœci. Ten, który d³u¿ej utrzyma siê na nogach, postanowi o ich dalszych krokach.</val>
+	<val>Bracia postanowili omÃ³wiÄ‡ rÃ³Å¼nice zdaÅ„ w doÅ›Ä‡ osobliwy sposÃ³b: walkÄ… na piÄ™Å›ci. Ten, ktÃ³ry dÅ‚uÅ¼ej utrzyma siÄ™ na nogach, postanowi o ich dalszych krokach.</val>
 	<!-- Hyperlinks: [work -> praca]
 	     Glossary: [Brother -> Brat]
 	     Speaker: N\A -->
@@ -237,15 +237,15 @@
 <record>
 	<_id>INFO</_id>
 	<key>J^EBQ_Artifact^30454124011522613857</key>
-	<val>Bracia Norvayne uznali mnie za swego wroga, poniewa¿ zostali przeze mnie zaatakowani w czasie ich "dyskusji".</val>
-	<!-- Hyperlinks: [ring -> pierœcieñ]
+	<val>Bracia Norvayne uznali mnie za swego wroga, poniewaÅ¼ zostali przeze mnie zaatakowani w czasie ich "dyskusji".</val>
+	<!-- Hyperlinks: [ring -> pierÅ›cieÅ„]
 	     Glossary: [Brother -> Brat]
 	     Speaker: N\A -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>J^EBQ_Artifact^32525242732457522320</key>
-	<val>Daris Norvayne zosta³ zabity.</val>
+	<val>Daris Norvayne zostaÅ‚ zabity.</val>
 	<!-- Hyperlinks:
 	     Glossary:
 	     Speaker: N\A -->
@@ -253,15 +253,15 @@
 <record>
 	<_id>INFO</_id>
 	<key>J^EBQ_Artifact^3261428716250134620</key>
-	<val>Jeden z braci Norvayne zosta³ przeze mnie zaatakowany w czasie ich walki.</val>
-	<!-- Hyperlinks: [ring -> pierœcieñ]
+	<val>Jeden z braci Norvayne zostaÅ‚ przeze mnie zaatakowany w czasie ich walki.</val>
+	<!-- Hyperlinks: [ring -> pierÅ›cieÅ„]
 	     Glossary: [Brother -> Brat]
 	     Speaker: N\A -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>J^EBQ_Artifact^32644257278506277</key>
-	<val>¯aden z braci Norvayne nie chce mi d³u¿ej towarzyszyæ.</val>
+	<val>Å»aden z braci Norvayne nie chce mi dÅ‚uÅ¼ej towarzyszyÄ‡.</val>
 	<!-- Hyperlinks: [escort -> eskorta]
 	     Glossary: [Brother -> Brat]
 	     Speaker: N\A -->
@@ -269,7 +269,7 @@
 <record>
 	<_id>INFO</_id>
 	<key>J^EBQ_Artifact^5214276902741527848</key>
-	<val>Dalin pokona³ swego brata w walce na go³e piêœci.</val>
+	<val>Dalin pokonaÅ‚ swego brata w walce na goÅ‚e piÄ™Å›ci.</val>
 	<!-- Hyperlinks:
 	     Glossary: [Brother -> Brat]
 	     Speaker: N\A -->
@@ -277,31 +277,31 @@
 <record>
 	<_id>INFO</_id>
 	<key>J^EBQ_Artifact^697619032343425522</key>
-	<val>Bracia udadz¹ siê ze mn¹ w g³¹b ruin, poniewa¿ Dalin wygra³ "dyskusjê" ze swoim bratem.</val>
+	<val>Bracia udadzÄ… siÄ™ ze mnÄ… w gÅ‚Ä…b ruin, poniewaÅ¼ Dalin wygraÅ‚ "dyskusjÄ™" ze swoim bratem.</val>
 	<!-- Hyperlinks:
 	     Glossary: [Brother -> Brat]
 	     Speaker: N\A -->
 </record>
 <record>
 	<_id>INFO</_id>
-	<key>T^zbadaæ te ruiny^25679227561317327199</key>
-	<val>Tak. Mój brat Dalin i ja zamierzaliœmy to zrobiæ. Nasz ojciec zgin¹³ w œrodku, a my chcemy go pomœciæ. Jednak on woli poczekaæ na pomoc. Ja natomiast twierdzê, ¿e honor rodziny jest najwa¿niejszy i powinniœmy iœæ tam sami.</val>
+	<key>T^zbadaÄ‡ te ruiny^25679227561317327199</key>
+	<val>Tak. MÃ³j brat Dalin i ja zamierzaliÅ›my to zrobiÄ‡. Nasz ojciec zginÄ…Å‚ w Å›rodku, a my chcemy go pomÅ›ciÄ‡. Jednak on woli poczekaÄ‡ na pomoc. Ja natomiast twierdzÄ™, Å¼e honor rodziny jest najwaÅ¼niejszy i powinniÅ›my iÅ›Ä‡ tam sami.</val>
 	<!-- Hyperlinks:
 	     Glossary: [Brother -> Brat]
 	     Speaker: Male -->
 </record>
 <record>
 	<_id>INFO</_id>
-	<key>T^zbadaæ te ruiny^292195281322747724</key>
-	<val>Znakomicie! Mój brat Daris i ja mieliœmy taki sam zamiar. Lata temu nasz ojciec, niech spoczywa w pokoju, zgin¹³ w tych ruinach. Chcemy oczyœciæ je ze wszelkiego z³a, jakie zalêg³o siê w œrodku. Osobiœcie uwa¿am, ¿e im wiêcej nas bêdzie, tym lepiej. Jednak mój brat twierdzi, ¿e honor rodziny nie pozwala nam skorzystaæ z pomocy innych.</val>
-	<!-- Hyperlinks: [discuss -> omówiæ]
+	<key>T^zbadaÄ‡ te ruiny^292195281322747724</key>
+	<val>Znakomicie! MÃ³j brat Daris i ja mieliÅ›my taki sam zamiar. Lata temu nasz ojciec, niech spoczywa w pokoju, zginÄ…Å‚ w tych ruinach. Chcemy oczyÅ›ciÄ‡ je ze wszelkiego zÅ‚a, jakie zalÄ™gÅ‚o siÄ™ w Å›rodku. OsobiÅ›cie uwaÅ¼am, Å¼e im wiÄ™cej nas bÄ™dzie, tym lepiej. Jednak mÃ³j brat twierdzi, Å¼e honor rodziny nie pozwala nam skorzystaÄ‡ z pomocy innych.</val>
+	<!-- Hyperlinks: [discuss -> omÃ³wiÄ‡]
 	     Glossary: [Brother -> Brat]
 	     Speaker: Male -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>T^honor rodziny^138152507038544632</key>
-	<val>Wystarczy, Darisie! Wybacz mojemu bratu. Wygl¹da na to, ¿e mo¿emy to rozwi¹zaæ tylko w jeden sposób. To d³ugoletnia tradycja rodziny Norvayne. Nie wtr¹caj siê, przybyszu. Kiedy podejmiemy decyzjê, damy ci znaæ.</val>
+	<val>Wystarczy, Darisie! Wybacz mojemu bratu. WyglÄ…da na to, Å¼e moÅ¼emy to rozwiÄ…zaÄ‡ tylko w jeden sposÃ³b. To dÅ‚ugoletnia tradycja rodziny Norvayne. Nie wtrÄ…caj siÄ™, przybyszu. Kiedy podejmiemy decyzjÄ™, damy ci znaÄ‡.</val>
 	<!-- Hyperlinks: [decision -> decyzja]
 	     Glossary: [Brother -> Brat]
 	     Speaker: Male -->
@@ -309,15 +309,15 @@
 <record>
 	<_id>INFO</_id>
 	<key>T^honor rodziny^54612760232135645</key>
-	<val>Znam twoje zdanie na ten temat, Dalinie! Mój brat wyrywa siê przed szereg. Wygl¹da na to, ¿e mo¿emy to rozwi¹zaæ tylko w jeden sposób. To d³ugoletnia tradycja rodziny Norvayne. Nie wtr¹caj siê, przybyszu. Kiedy podejmiemy decyzjê, damy ci znaæ.</val>
-	<!-- Hyperlinks: [decision -> decyzja] [know you -> znam ciê]
+	<val>Znam twoje zdanie na ten temat, Dalinie! MÃ³j brat wyrywa siÄ™ przed szereg. WyglÄ…da na to, Å¼e moÅ¼emy to rozwiÄ…zaÄ‡ tylko w jeden sposÃ³b. To dÅ‚ugoletnia tradycja rodziny Norvayne. Nie wtrÄ…caj siÄ™, przybyszu. Kiedy podejmiemy decyzjÄ™, damy ci znaÄ‡.</val>
+	<!-- Hyperlinks: [decision -> decyzja] [know you -> znam ciÄ™]
 	     Glossary: [Brother -> Brat]
 	     Speaker: Male -->
 </record>
 <record>
 	<_id>INFO</_id>
 	<key>T^najnowsze plotki^2699818230245425154</key>
-	<val>Po okolicy kr¹¿¹ opowieœci o staro¿ytnym he³mie zamkniêtym wewn¹trz ruin Onnissiralis, na zachód od Vas. Wyjmij mapê, poka¿ê ci gdzie jest Vas. Bracia Norvayne niedawno wyruszyli do tych ruin. Radzê ci ich odszukaæ, jeœli zamierzasz wejœæ do œrodka. To dobre ch³opaki, chocia¿ trochê k³ótliwe.</val>
+	<val>Po okolicy krÄ…Å¼Ä… opowieÅ›ci o staroÅ¼ytnym heÅ‚mie zamkniÄ™tym wewnÄ…trz ruin Onnissiralis, na zachÃ³d od Vas. Wyjmij mapÄ™, pokaÅ¼Ä™ ci gdzie jest Vas. Bracia Norvayne niedawno wyruszyli do tych ruin. RadzÄ™ ci ich odszukaÄ‡, jeÅ›li zamierzasz wejÅ›Ä‡ do Å›rodka. To dobre chÅ‚opaki, chociaÅ¼ trochÄ™ kÅ‚Ã³tliwe.</val>
 	<!-- Hyperlinks: [Vas -> Vas]
 	     Glossary: [Ancient -> Pradawny] [Brother -> Brat]
 	     Speaker: N\A -->
