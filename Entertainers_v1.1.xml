@@ -1,0 +1,1555 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<record>
+	<_id>DIAL</_id>
+	<key>entertain the patrons</key>
+	<val>zabawić gości</val>
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>handy high-kick</key>
+	<val>wys-kok</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>BOOK^bk_Balladeers_Fakebook</key>
+	<val>Śpiewnik</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>BOOK^bk_Battle_Molag_Beran</key>
+	<val>Bitwa o Molag Beran</val>
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>BOOK^bk_Im_My_Own_Grandpa</key>
+	<val>Jestem Swoim Własnym Dziadkiem</val>
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 7^171343168140283456</key>
+	<val>Witam. Jestem Dulnea Ralaal, gospoda "Osiem Talerzy" w mieście Balmora to moja własność. Mamy tu łóżka i trochę towarów na sprzedaż. Jeśli nie znasz miasta, mogę ci również powiedzieć, gdzie znajdziesz inne usługi lub jakieś konkretne miejsce. Jeśli interesuje cię konkretna osoba, być może również będę ci w stanie pomóc. A może chcesz zabawić gości?</val>
+	<!-- Hyperlinks: [Balmora -> Balmora] [Beds -> łóżka] [Services -> usługi] [patron -> opiekun] [someone in particular -> konkretna osoba] [specific place -> konkretne miejsce]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^101727389318912388</key>
+	<val>[Opowiadasz kilka dowcipów. Wywołały jedynie pojedyncze uśmiechy. To nie dowcipy były problemem, lecz sposób, w jaki je opowiedziano.] Niezły materiał. Ale twoja ekspresja i artykulacja wymagają dopracowania. Nie zaszkodziłby też bardziej odpowiedni wygląd - załóż jakąś śmieszną czapkę czy coś w tym stylu. Popracuj nad tym, a może pewnego dnia...</val>
+	<!-- Hyperlinks: [need -> potrzeba] [work -> praca]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1032827187340117252</key>
+	<val>[Wyrzucasz trzy małe jaja kwama w powietrze. Te spadają na podłogę, rozbijają się, opryskując ciebie i twoją publiczność.] Świetnie. Wyjdź. Wynoś się!</val>
+	<!-- Hyperlinks: [kwama egg -> jajo kwama] [ring -> pierścień]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1063179532054918088</key>
+	<val>[Opowiadasz kilka śmiesznych dowcipów. Publiczność wybuchnęła śmiechem. Bardzo mocno. Kochają cię i spędzają z tobą miło czas.] Wiesz, to było naprawdę dobre. Byłam na wszystkich występach, ale twój bije pozostałe na głowę. Wróć kiedy tylko będziesz mógł.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^107909651054829751</key>
+	<val>[Zaczynasz z zapałem śpiewać i energicznie brzdąkać na lutni. Publiczność ze znużeniem czeka aż skończysz.] No, posiadasz jako taką osobowość, twoja koordynacja też nie jest zła... no i oczywiście masz lutnię! Ale wiesz, jeżeli chcesz poruszyć swoją publiczność, musisz koniecznie podszkolić się w dziedzinie retoryki. Koniecznie.</val>
+	<!-- Hyperlinks: [personality -> osobowość] [speechcraft -> retoryka]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1131897832766514529</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię. Polubili cię. Niestety nie udało ci się ich porwać.] Dzięki. Koloviański hełm stanowił miły dodatek. Raczej nie zaczniesz zarabiać tym na życie. Ale nie masz się też czego wstydzić.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^11445115712813015891</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię. Dowcipy chyba się spodobały. Niemniej publiczność zachowywała się raczej cicho.] Dzięki. Pobobał mi się twój materiał. Niestety, raczej nie udało ci się podbić ich serc. Ale widziałam już znacznie gorsze występy.</val>
+	<!-- Hyperlinks: [work -> praca]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^115022767965027379</key>
+	<val>[Opowiadasz kilka dowcipów. Grzecznie cię wysłuchali. Z uprzejmości nawet się uśmiechali.] To dobra publiczność - spragniona rozrywki. Twój występ nie należał do wybitnych. Ale z drugiej strony, nikt też nie usnął.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^11807302391330523266</key>
+	<val>[Żonglujesz trzema małymi jajami kwama w standarowym stylu, wykonujesz półprysznic, podkreślasz to złapaniem jaja kwama na karku i przerzuceniem go przez głowę. Publiczność ogląda twoje popisy z zaciekawieniem, uśmiechają się, a gdy kończysz, życzliwie klaszczą.] Całkiem dobre. Masz swój styl, %PCName. Tylko nie spocznij na laurach.</val>
+	<!-- Hyperlinks: [kwama egg -> jajo kwama] [work -> praca]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1181824825252718857</key>
+	<val>[Opowiadasz kilka dowcipów. To była dobra noc. Wszyscy się śmiali i wyglądali na zasmuconych, kiedy występ dobiegł końca.] Polubili cię. Ja cię polubiłam. Twój materiał jest solidny, a ta czapka uzupełnia całokształt. Wracaj do nas jak najczęściej.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1207155483160618040</key>
+	<val>[Opowiadasz kilka dowcipów. Ludzie śmiali się. Płakali. Udało ci się zmienić ich życie.] To było NIESAMOWITE. Nigdy nie byłam na lepszym występie. Odwiedź nas jeszcze. Wracaj jak najczęściej.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1234929163286965786</key>
+	<val>["Bitwa o Molag Beran" to pieśń, którą zna i kocha każdy Dunmer, jest także ona bardzo popularna wśród lokalnej publiczności. Wszyscy w karczmie dołączają się do śpiewania, a po wszystkim klaszczą przez dobrych kilka minut.] No, %PCName, dobrze znasz swoją publiczność. Je ci ona po prostu z rąk.</val>
+	<!-- Hyperlinks: [Dunmer -> Dunmerowie] [Favor -> przysługa] [Hands -> Dłonie] [know you -> znam cię]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^12408288321380620784</key>
+	<val>[Zaczynasz dzielnie śpiewać i energicznie brzdąkać na lutni. Publiczność marszczy brwi i zaczyna oglądać swoje paznokcie, czekając, aż to wszystko się skończy.] Och, na Viveka. Może i masz jako taką osobowość, niezłą koordynację, no i twój głos jest... no... wystarczająco głośny. No i posiadasz lutnię. To dobry początek. Niezbyt obiecujący, ale przy odpowiednim treningu może być tylko lepiej. Gorzej już raczej nie będzie...</val>
+	<!-- Hyperlinks: [personality -> osobowość]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1266026761191553980</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność obserwuje to z zainteresowaniem.] Cóż, to nie było aż takie złe. Ale potrzebujesz więcej praktyki.</val>
+	<!-- Hyperlinks: [dance -> taniec] [need -> potrzeba]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^129561989941518928</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność ogląda to z zainteresowaniem, ale potem marszczy brwi i odwraca wzrok.] No cóż. Mało było w tym gracji. No i te kopnięcia były jakieś słabe. Ale przy odpowiednim treningu możesz się nauczyć porządnie tańczyć wys-kok.</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1321085701847113134</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię. Spodobała się im czapka i opowiadane dowcipy. Niestety nie udało ci się ich zachwycić.] Dzięki. Koloviański hełm i dowcipy zostały ciepło przyjęte. Ale jeśli chcesz wejść na wyższy poziom, to popracuj jeszcze nad swoją charyzmą i stylem mówienia.</val>
+	<!-- Hyperlinks: [need -> potrzeba] [personality -> osobowość] [work -> praca]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1328026454262811</key>
+	<val>[Tańczysz w kółko i wykonujesz naprawdę wysokie kopnięcia. Publiczność jest zakłopotana i zawiedziona.] Phi. Niby masz jakiś talent do skakania i tańczenia. Ale nie masz pojęcia, co to jest wys-kok! Rada: załatw sobie dobrą kościaną tarczę. No i ćwicz, ćwicz i jeszcze raz ćwicz.</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^13594311532263712349</key>
+	<val>[Wskakujesz na swoją kościaną tarczę, wybijasz się w powietrze, kręcisz się i wykonujesz kopnięcia, a na koniec lądujesz perfekcyjnie, lekko jak piórko i bez wysiłku. Publiczność obserwuje to z podziwem, a następnie krzyczy i bije brawo.] NIE-SA-MO-WI-TE! Znakomite przedstawienie! Ta siła, styl, gracja! Bardzo ci dziękuję i oczekuję twojego szybkiego powrotu!</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^136345840762922444</key>
+	<val>[Tańczysz na swojej kościanej tarczy, wyskakujesz w powietrze, obracasz się, wykonujesz wysokie kopnięcie i lądujesz na ziemi lekko i z gracją. Publiczność ogląda to z fascynacją, uśmiecha się i kiwa głowami.] Bardzo ładnie. To było naprawdę dobre. Goście byli zachwyceni. Cóż, dziękuję. Mam nadzieję, że jeszcze się zobaczymy.</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^138618794974726170</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię. Spodobała się im czapka i opowiadane dowcipy. Niestety nie udało ci się ich zachwycić.] Dzięki. Koloviański hełm i dowcipy zostały ciepło przyjęte. Ale jeśli chcesz wejść na wyższy poziom, to popracuj jeszcze nad swoją charyzmą i stylem mówienia.</val>
+	<!-- Hyperlinks: [need -> potrzeba] [personality -> osobowość] [work -> praca]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1425628252588110630</key>
+	<val>[Zaczynasz powoli i prosto, następnie równomiernie przechodzisz w ciężko brzmiący rytm na swoich bębnach. Twoje uderzenia są zaraźliwe; wielu widzów dołącza do ciebie, a wszyscy spędzają dobrze czas.] To było naprawdę dobre, publice podoba się twoja gra na trzech bębnach. Jeżeli trochę potrenujesz, to jestem przekonana, że uda ci się zagrać na CZTERECH bębnach.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1455095081326716763</key>
+	<val>[Opowiadasz kilka dowcipów. Przynajmniej wysłuchali cię uważnie - ale się nie śmiali.] Wydaje mi się, że pojmujesz podstawową ideę dowcipów. A przy odrobinie szczęścia i samozaparcia może kiedyś nauczysz się je opowiadać. Ale biorąc pod uwagę wszystkie okoliczności uważam, że jeszcze nie należy ci się główny czas sceniczny.</val>
+	<!-- Hyperlinks: [luck -> szczęście]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1458367862617821748</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność obserwuje to z zainteresowaniem, uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Oglądanie twojego tańca to była czysta przyjemność. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!-- Hyperlinks: [dance -> taniec] [ring -> pierścień]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^14998225263018830681</key>
+	<val>[Wybijasz nierówny rytm na bębnie. Publiczność zwraca na ciebie uwagę... przez krótki czas, a potem po prostu zaczyna cię ignorować.] To z całą pewnością była gra na bębnie. Ale jeżeli chcesz DOBRZE grać na tym bębnie, popracuj nad szybkością i zwinnością.</val>
+	<!-- Hyperlinks: [agility -> zwinność] [need -> potrzeba] [speed -> szybkość]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^15316323160521832</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię. Dowcipy chyba się spodobały. Niemniej publiczność zachowywała się raczej cicho.] Dzięki. Pobobał mi się twój materiał. Niestety, raczej nie udało ci się podbić ich serc. Ale widziałam już znacznie gorsze występy.</val>
+	<!-- Hyperlinks: [work -> praca]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1544032305530221951</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię. Czasem nawet się uśmiechnęli.] Dzięki. Nie było tak źle. Ale musisz się bardziej postarać, jeśli chcesz zacząć zarabiać tym na życie.</val>
+	<!-- Hyperlinks: [need -> potrzeba]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1553619510264646263</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność obserwuje to z zainteresowaniem.] Cóż, to nie było aż takie złe. Ale potrzebujesz więcej praktyki.</val>
+	<!-- Hyperlinks: [dance -> taniec] [need -> potrzeba]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1554016121877615062</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz wysokie kopnięcia. Publiczność marszczy brwi, a następnie kompletnie traci zainteresowanie.] To było po prostu okropne. Wysokie kopnięcia powinny być WYSOKIE. I PEŁNE WDZIĘKU. Kto ci powiedział, że tak się tańczy wys-kok?</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1567519167287542869</key>
+	<val>[Wybijasz nierówny rytm na drewnianym blacie. Publiczność okazuje niewielkie zainteresowanie.] Chyba jesteś tu od niedawna... ale w Morrowind, kiedy ktoś mówi, że będzie grał na bębnie, logicznym jest, że musi ten bęben POSIADAĆ... a nie walić w to, co akurat ma pod ręką. Tak więc lepiej stąd odejdź. I przestań denerwować mnie i moich klientów.</val>
+	<!-- Hyperlinks: [Morrowind -> Morrowind] [patron -> opiekun]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1583725712585523580</key>
+	<val>[Żonglujesz czterema dużymi jajami kwama w standarowym stylu. Publiczność ogląda to uważnie, a gdy kończysz, klaszcze życzliwie.] Całkiem dobre. Masz styl, %PCName. Trzymaj się.</val>
+	<!-- Hyperlinks: [kwama egg -> jajo kwama] [work -> praca]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1625460272937223601</key>
+	<val>[Opowiadasz kilka dowcipów. Ludzie śmiali się. Płakali. Udało ci się zmienić ich życie.] To było NIESAMOWITE. Nigdy nie byłam na lepszym występie. Odwiedź nas jeszcze. Wracaj jak najczęściej.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^16404204972995513334</key>
+	<val>[Opowiadasz kilka dowcipów. Wywołały jedynie pojedyncze uśmiechy. To nie dowcipy były problemem, lecz sposób, w jaki je opowiedziano.] Niezły materiał. Ale twoja ekspresja i artykulacja wymagają dopracowania. Nie zaszkodziłby też bardziej odpowiedni wygląd - załóż jakąś śmieszną czapkę czy coś w tym stylu. Popracuj nad tym, a może pewnego dnia...</val>
+	<!-- Hyperlinks: [need -> potrzeba] [work -> praca]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^16448160652674010743</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię - ale raczej nie bawili się zbyt dobrze.] Dzięki bogom, że to już koniec. Cóż, może i nie umiesz opowiadać dowcipów, ale przynajmniej masz szczęście. To sympatyczni ludzie. Raczej nie będą żywili urazy.</val>
+	<!-- Hyperlinks: [luck -> szczęście]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^16558136612798111512</key>
+	<val>[Zaczynasz powoli i prosto, następnie równomiernie przechodzisz w ciężko brzmiący rytm na swoim bębnie. Twoje uderzenia są zaraźliwe; wielu widzów dołącza do ciebie, a wszyscy spędzają dobrze czas.] Hmm... masz talent. A publika chyba nawet cię lubi. Nie przestawaj ćwiczyć, a czeka cię wielka sława.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1678722693361021942</key>
+	<val>[Opowiadasz kilka dowcipów. Widzowie śmiali się w odpowienich momentach. Chyba spodobał się im występ.] To było całkiem niezłe. Podoba mi się twój styl. Odwiedź nas ponownie.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1681510427186464925</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność obserwuje to z zainteresowaniem, uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Oglądanie twojego tańca to była czysta przyjemność. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!-- Hyperlinks: [dance -> taniec] [ring -> pierścień]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1742028471376230763</key>
+	<val>[Żonglujesz czterema dużymi jajami kwama, co chwilę wykonując asychroniczny prysznic i asychroniczną fontannę, następnie przechodzisz do silnej kaskady i do prostego półprysznica. Publiczność ogląda to z wytrzeszczonymi oczami, a gdy kończysz, klaszczy entuzjastycznie.] Bardzo dobrze. Naprawdę bardzo dobrze.</val>
+	<!-- Hyperlinks: [kwama egg -> jajo kwama]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^17469218073252624850</key>
+	<val>[Zaczynasz śpiewać jakąś popularną piosenkę przy akomaniamencie lutni. Publiczność grzecznie tego słucha, ale z małym zainteresowaniem.] No, masz urok śpiewaka, sprawne palce, no i całkiem przyjemny głos. Ale raczej nie uda ci się z tego wyżyć. Jeżeli jednak trochę potrenujesz, twój głos i wymowa powinny się poprawić. A, no i poszukaj sobie nowych tekstów piosenek w śpiewnikach.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1757031150860127453</key>
+	<val>[Wyrzucasz cztery duże jaja kwama w powietrze. Te spadają na podłogę, rozbijają się, opryskując ciebie i twoją publiczność.] Świetnie. Wyjdź. Natychmiast.</val>
+	<!-- Hyperlinks: [kwama egg -> jajo kwama] [ring -> pierścień]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^175772494841949654</key>
+	<val>[Wybijasz wpadający w ucho rytm na bębnie. Publiczność uprzejmie tego słucha, ale praktycznie bez zainteresowania.] Nieźle. Nie było doskonale, ale i nie tragicznie. Dzięki za przybycie. Przyjmij też dobrą radę: ćwicz, ćwicz i jeszcze raz ćwicz.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^17902219191266331310</key>
+	<val>Nie masz pięciu ceramicznych mis. Więc nie dasz rady żonglować pięcioma ceramicznymi misami. Nadążasz?</val>
+	<!-- Hyperlinks: [ceramic bowl -> ceramiczna misa]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1791331242867613066</key>
+	<val>[Zaczynasz śpiewać sentymentalną piosenkę, wspomagając się delikatną grą na lutni. Publiczność naprawdę wygląda na zadowoloną - a nawet poruszoną - bo po chwili zaczyna życzliwie klaskać.] No, to było bardzo dobre. Masz przyjemny głos i całkiem dobrze grasz na lutni. Jeżeli nie przestaniesz nad tym pracować, będzie tylko lepiej. A, no i poszukaj sobie nowych tekstów piosenek w śpiewnikach.</val>
+	<!-- Hyperlinks: [rat -> szczur] [work -> praca]
+	     Glossary: [Rat -> szczur]
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1799211312599318454</key>
+	<val>[Wybijasz delikatny rytm na swoich bębnach. Udało ci się pozyskać uwagę publiczności, której podoba się to, co słyszy.] Naprawdę dobrze się bawiłam. Wielu artystów mogłoby się od ciebie uczyć. Posłuchaj dobrej rady: dodaj do swego występu trzeci bęben. Jestem pewna, że sobie poradzisz.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1808831245515929630</key>
+	<val>[Zaczynasz powoli i prosto, następnie równomiernie przechodzisz w ciężko brzmiący rytm na swoich bębnach. Twoje uderzenia są zaraźliwe; wielu widzów dołącza do ciebie, a wszyscy spędzają dobrze czas.] To było naprawdę dobre, publice podoba się twoja gra na trzech bębnach. Jeżeli trochę potrenujesz, to jestem przekonana, że uda ci się zagrać na CZTERECH bębnach.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^182552010915147854</key>
+	<val>[Opowiadasz kilka dowcipów. Ludzie śmiali się. Płakali. Udało ci się zmienić ich życie.] To było NIESAMOWITE. Nigdy nie byłam na lepszym występie. Odwiedź nas jeszcze. Wracaj jak najczęściej.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^184134058262841778</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz wysokie kopnięcia. Publiczność marszczy brwi, a następnie kompletnie traci zainteresowanie.] To było po prostu okropne. Wysokie kopnięcia powinny być WYSOKIE. I PEŁNE WDZIĘKU. Kto ci powiedział, że tak się tańczy wys-kok?</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1844919198229081</key>
+	<val>[Wyrzucasz pięć ceramicznych mis w powietrze. Te spadają na podłogę, rozbijając się i obsypując ciebie i twoją publiczność ostrymi odłamkami.] Świetnie. Wyjdź. Natychmiast.</val>
+	<!-- Hyperlinks: [ceramic bowl -> ceramiczna misa] [ring -> pierścień]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^186798241117901519</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność obserwuje to z zainteresowaniem.] Cóż, to nie było aż takie złe. Ale potrzebujesz więcej praktyki.</val>
+	<!-- Hyperlinks: [dance -> taniec] [need -> potrzeba]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^18699160772295526577</key>
+	<val>[Tańczysz na swojej kościanej tarczy, wyskakujesz w powietrze, obracasz się, wykonujesz wysokie kopnięcie i lądujesz na ziemi lekko i z gracją. Publiczność ogląda to z fascynacją, uśmiecha się i kiwa głowami z aprobatą.] Bardzo ładnie. To było naprawdę dobre. Goście byli zachwyceni. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^1888229690437213915</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność obserwuje to z zainteresowaniem.] Cóż, to nie było aż takie złe. Ale potrzebujesz więcej praktyki.</val>
+	<!-- Hyperlinks: [dance -> taniec] [need -> potrzeba]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^19434247292066715030</key>
+	<val>[Wybijasz wpadający w ucho rytm na bębnie. Publiczność uprzejmie tego słucha, ale praktycznie bez zainteresowania.] Nieźle. Nie było doskonale, ale i nie tragicznie. Dzięki za przybycie. Przyjmij też dobrą radę: ćwicz, ćwicz i jeszcze raz ćwicz.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^20063163422783823982</key>
+	<val>[Zaczynasz śpiewać sentymentalną piosenkę, wspomagając się delikatną grą na lutni. Publiczność naprawdę wygląda na zadowoloną - a nawet poruszoną - bo po chwili zaczyna życzliwie klaskać.] No, to było bardzo dobre. Masz przyjemny głos i całkiem dobrze grasz na lutni. Jeżeli nie przestaniesz nad tym pracować, będzie tylko lepiej. A, no i poszukaj sobie nowych tekstów piosenek w śpiewnikach.</val>
+	<!-- Hyperlinks: [rat -> szczur] [work -> praca]
+	     Glossary: [Rat -> szczur]
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^20458229091437915820</key>
+	<val>[Tańczysz wokół i energicznie wykonujesz wysokie kopnięcia. Publiczność najpierw wygląda na zaskoczoną, a następnie zażenowaną...] Nic ci się nie stało? Musisz się podszkolić w dziedzinie atletyki i akrobatyki, jeżeli liczysz na zdobycie serc publiki. No i do tego nie masz pojęcia jak tańczyć wys-kok. Podstawowym elementem tego tańca jest kościana tarcza. No i ćwicz, ćwicz i jeszcze raz ćwicz.</val>
+	<!-- Hyperlinks: [dance -> taniec] [luck -> szczęście] [need -> potrzeba]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2060919179144458496</key>
+	<val>[Zaczynasz powoli i prosto, następnie równomiernie przechodzisz w ciężko brzmiący rytm na swoim bębnie. Twoje uderzenia są zaraźliwe; wielu widzów dołącza do ciebie, a wszyscy spędzają dobrze czas.] Hmm... masz talent. A publika chyba nawet cię lubi. Nie przestawaj ćwiczyć, a czeka cię wielka sława.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^20656722321013380</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Przy odrobinie szczęścia możesz odnieść sukces. Ale ćwiczenia i ciężka praca też nie zaszkodzą.</val>
+	<!-- Hyperlinks: [dance -> taniec] [luck -> szczęście] [ring -> pierścień] [work -> praca]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^21306243311576928488</key>
+	<val>[Opowiadasz kilka dowcipów. WYDAWAŁO ci się, że są zabawne. Ale ludzie uważali inaczej.] Źle. Bardzo źle. Znienawidzili cię. Polecam zapisać się na jakiś kurs uroku osobistego. Oraz wysławiania. Pomyśleć nad przyzwoitym materiałem. Założyć śmieszną czapkę. No i lepiej nie pokazuj się tu przez jakiś czas.</val>
+	<!-- Hyperlinks: [work -> praca]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2133930376980830006</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność obserwuje to z zainteresowaniem, uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Oglądanie twojego tańca to była czysta przyjemność. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!-- Hyperlinks: [dance -> taniec] [ring -> pierścień]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^21366305762114814956</key>
+	<val>[Tańczysz na swojej kościanej tarczy, wyskakujesz w powietrze, obracasz się, wykonujesz wysokie kopnięcie i lądujesz na ziemi lekko i z gracją. Publiczność ogląda to z fascynacją, uśmiecha się i kiwa głowami z aprobatą.] Bardzo ładnie. To było naprawdę dobre. Goście byli zachwyceni. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2143832669128475566</key>
+	<val>[Opowiadasz kilka dowcipów. To była dobra noc. Wszyscy się śmiali i wyglądali na zasmuconych, kiedy występ dobiegł końca.] To był bardzo udany występ. Doceniam twój materiał, jak również styl i urok osobisty. Zawsze będziesz tu mile widzianym gościem.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2153570062097921763</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność obserwuje to z zainteresowaniem.] Cóż, to nie było aż takie złe. Ale potrzebujesz więcej praktyki.</val>
+	<!-- Hyperlinks: [dance -> taniec] [need -> potrzeba]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2158017202191479272</key>
+	<val>[Opowiadasz kilka dowcipów. Widzowie śmiali się długo i głośno. Podobała im się każda minuta twego występu.] Moje gratulacje. Publiczność jadła ci z ręki. Wracaj do nas jak najczęściej.</val>
+	<!-- Hyperlinks: [rat -> szczur]
+	     Glossary: [Rat -> szczur]
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2158692922425631072</key>
+	<val>[Wybijasz nierówny rytm na drewnianym blacie. Publiczność patrzy na ciebie kwaśnym i nieprzyjemnym wzrokiem.] Hmm. Brak bębna. Brak talentu. Myślę, że to ładnie wszystko podsumowuje. Spadaj stąd. Byle szybko.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2167426029181948492</key>
+	<val>[Wyrzucasz cztery duże jaja kwama w powietrze. Te spadają na podłogę, rozbijają się, opryskując ciebie i twoją publiczność.] Świetnie. Wyjdź. Natychmiast.</val>
+	<!-- Hyperlinks: [kwama egg -> jajo kwama] [ring -> pierścień]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^217274257208986976</key>
+	<val>[Wskakujesz na swoją kościaną tarczę, wybijasz się w powietrze, kręcisz się i wykonujesz kopnięcia, a na koniec lądujesz perfekcyjnie, lekko jak piórko i bez wysiłku. Publiczność obserwuje to z podziwem, a następnie krzyczy i bije brawo.] NIE-SA-MO-WI-TE! Znakomite przedstawienie! Ta siła, styl, gracja! Bardzo ci dziękuję i oczekuję twojego szybkiego powrotu!</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^21976173251931916325</key>
+	<val>[Prosta melodia z prostym akompaniamentem na lutni... jednak to twój głos naprawdę doprowadza pieśń do ich serc. Kiedy kończysz, w całym pomieszczeniu jest cicho, oczy publiczności są wilgotne, a po chwili uśmiechają się i energetycznie klaszczą.] No. [wyciera oczy] Naprawdę miło jest usłyszeć twój śpiew, %PCName. Mam nadzieję, że jeszcze tu wrócisz!</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^22212171991822524734</key>
+	<val>[Tańczysz na swojej kościanej tarczy, wyskakujesz w powietrze, obracasz się, wykonujesz wysokie kopnięcie i lądujesz na ziemi lekko i z gracją. Publiczność ogląda to z fascynacją, uśmiecha się i kiwa głowami z aprobatą.] Bardzo ładnie. To było naprawdę dobre. Goście byli zachwyceni. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^22218195712007030594</key>
+	<val>[Zaczynasz powoli i prosto, następnie równomiernie przechodzisz w ciężko brzmiący rytm na swoim bębnie. Twoje uderzenia są zaraźliwe; wielu widzów dołącza do ciebie, a wszyscy spędzają dobrze czas.] Hmm... masz talent. A publika chyba nawet cię lubi. Nie przestawaj ćwiczyć, a czeka cię wielka sława.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^22323756533525192</key>
+	<val>[Wybijasz nierówny rytm na bębnie. Publiczność zwraca na ciebie uwagę... przez krótki czas, a potem po prostu zaczyna cię ignorować.] To z całą pewnością była gra na bębnie. Ale jeżeli chcesz DOBRZE grać na tym bębnie, popracuj nad szybkością i zwinnością.</val>
+	<!-- Hyperlinks: [agility -> zwinność] [need -> potrzeba] [speed -> szybkość]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^22454159811860517470</key>
+	<val>[Zaczynasz powoli i prosto, następnie równomiernie przechodzisz w ciężko brzmiący rytm na swoim bębnie. Twoje uderzenia są zaraźliwe; wielu widzów dołącza do ciebie, a wszyscy spędzają dobrze czas.] Hmm... masz talent. A publika chyba nawet cię lubi. Nie przestawaj ćwiczyć, a czeka cię wielka sława.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^22671167082921830879</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność ogląda to z zainteresowaniem, ale potem marszczy brwi i odwraca wzrok.] No cóż. Mało było w tym gracji. No i te kopnięcia były jakieś słabe. Ale przy odpowiednim treningu możesz się nauczyć porządnie tańczyć wys-kok.</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2272714706183932224</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność obserwuje to z zainteresowaniem.] Cóż, to nie było aż takie złe. Ale potrzebujesz więcej praktyki.</val>
+	<!-- Hyperlinks: [dance -> taniec] [need -> potrzeba]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^227391144930916570</key>
+	<val>[Opowiadasz kilka dowcipów. Przynajmniej wysłuchali cię uważnie - ale się nie śmiali.] Wydaje mi się, że pojmujesz podstawową ideę dowcipów. A przy odrobinie szczęścia i samozaparcia może kiedyś nauczysz się je opowiadać. Ale biorąc pod uwagę wszystkie okoliczności uważam, że jeszcze nie należy ci się główny czas sceniczny.</val>
+	<!-- Hyperlinks: [luck -> szczęście]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^22798199657704330</key>
+	<val>[Tańczysz na swojej kościanej tarczy, wyskakujesz w powietrze, obracasz się, wykonujesz wysokie kopnięcie i lądujesz na ziemi lekko i z gracją. Publiczność ogląda to z fascynacją, uśmiecha się i kiwa głowami z aprobatą.] Bardzo ładnie. To było naprawdę dobre. Goście byli zachwyceni. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2287628391200272187</key>
+	<val>[Opowiadasz kilka dowcipów. Ludzie śmiali się i miło spędzili czas.] Nie mam nic do zarzucenia. Bije od ciebie naturalny wdzięk i umiesz opowiadać dowcipy. Czekam z niecierpliwością na twój kolejny występ.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2297912592424424001</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność ogląda to z zainteresowaniem, ale potem marszczy brwi i odwraca wzrok.] No cóż. Mało było w tym gracji. No i te kopnięcia były jakieś słabe. Ale przy odpowiednim treningu możesz się nauczyć porządnie tańczyć wys-kok.</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2313617266467317598</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię - ale nie bawili się zbyt dobrze.] No cóż. Zawsze mogło być gorzej. Chociaż nie bardzo. Twoje życie raczej nie jest zagrożone. Ale jednak radziłabym ci wyjść stąd po cichu.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^232642908945711618</key>
+	<val>[Zaczynasz prosto, następnie wybijasz jednocześnie kilka różnych rytmów, raptownie zmieniając tempo, potem przechodzisz w jednostajne uderzenia przypominające bicie serca na wszystkich czterech bębnach. Cały czas trzymasz "przy sobie" publiczność, a kiedy już kończysz, ci zaczynają klaskać i gwizdać entuzjastycznie.] No, to było naprawdę spektakularne. Moje gratulacje. Prawdziwy pokaz gry na czterech bębnach. Najlepszy jaki w życiu słyszałam. Mam nadzieję, że jeszcze tu wpadniesz.</val>
+	<!-- Hyperlinks: [rat -> szczur]
+	     Glossary: [Rat -> szczur]
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^23582225592419914496</key>
+	<val>[Wybijasz wpadający w ucho rytm na bębnie. Publiczność uprzejmie tego słucha, ale praktycznie bez zainteresowania.] Nieźle. Nie było doskonale, ale i nie tragicznie Dzięki za przybycie. Jeżeli trochę potrenujesz, to jestem przekonana, że uda ci się zagrać na dwóch bębnach. Albo i więcej...</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2372765178017521</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność obserwuje to z zainteresowaniem, uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Oglądanie twojego tańca to była czysta przyjemność. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!-- Hyperlinks: [dance -> taniec] [ring -> pierścień]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2414816407575231331</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Przy odrobinie szczęścia możesz odnieść sukces. Ale ćwiczenia i ciężka praca też nie zaszkodzą.</val>
+	<!-- Hyperlinks: [dance -> taniec] [luck -> szczęście] [ring -> pierścień] [work -> praca]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^247184901632630268</key>
+	<val>[Opowiadasz kilka dowcipów. To była dobra noc. Wszyscy się śmiali i wyglądali na zasmuconych, kiedy występ dobiegł końca.] To był bardzo udany występ. A ten koloviański hełm stał się twoim znakiem rozpoznawczym. Wracaj do nas jak najczęściej.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^252711690205304427</key>
+	<val>[Zaczynasz prosto, następnie wybijasz jednocześnie kilka różnych rytmów, raptownie zmieniając tempo, potem przechodzisz w jednostajne uderzenia przypominające bicie serca na wszystkich czterech bębnach. Cały czas trzymasz "przy sobie" publiczność, a kiedy już kończysz, ci zaczynają klaskać i gwizdać entuzjastycznie.] No, to było naprawdę spektakularne. Moje gratulacje. Prawdziwy pokaz gry na czterech bębnach. Najlepszy jaki w życiu słyszałam. Mam nadzieję, że jeszcze tu wpadniesz.</val>
+	<!-- Hyperlinks: [rat -> szczur]
+	     Glossary: [Rat -> szczur]
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^253287769580524406</key>
+	<val>[Wybijasz nierówny rytm na bębnie. Publiczność zwraca na ciebie uwagę... przez krótki czas, a potem po prostu zaczyna cię ignorować.] To z całą pewnością była gra na bębnie. Ale jeżeli chcesz DOBRZE grać na tym bębnie, popracuj nad szybkością i zwinnością.</val>
+	<!-- Hyperlinks: [agility -> zwinność] [need -> potrzeba] [speed -> szybkość]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^254322276924486720</key>
+	<val>[Wskakujesz na swoją kościaną tarczę, wybijasz się w powietrze, kręcisz się i wykonujesz kopnięcia, a na koniec lądujesz perfekcyjnie, lekko jak piórko i bez wysiłku. Publiczność obserwuje to z podziwem, a następnie krzyczy i bije brawo.] NIE-SA-MO-WI-TE! Znakomite przedstawienie! Ta siła, styl, gracja! Bardzo ci dziękuję i oczekuję twojego szybkiego powrotu!</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^254645466907453</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Przy odrobinie szczęścia możesz odnieść sukces. Ale ćwiczenia i ciężka praca też nie zaszkodzą.</val>
+	<!-- Hyperlinks: [dance -> taniec] [luck -> szczęście] [ring -> pierścień] [work -> praca]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^256967252409316</key>
+	<val>Moi klienci widzieli już dzisiaj twój występ. Poczekaj do jutra.</val>
+	<!-- Hyperlinks: [patron -> opiekun]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2616819609816518068</key>
+	<val>[Zaczynasz śpiewać jakąś popularną piosenkę przy akomaniamencie lutni. Publiczność grzecznie tego słucha, ale z małym zainteresowaniem.] No, masz urok śpiewaka, sprawne palce, no i całkiem przyjemny głos. Ale raczej nie uda ci się z tego wyżyć. Jeżeli jednak trochę potrenujesz, twój głos i wymowa powinny się poprawić. A, no i poszukaj sobie nowych tekstów piosenek w śpiewnikach.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^262182258714700829</key>
+	<val>[Tańczysz na swojej kościanej tarczy, wyskakujesz w powietrze, obracasz się, wykonujesz wysokie kopnięcie i lądujesz na ziemi lekko i z gracją. Publiczność ogląda to z fascynacją, uśmiecha się i kiwa głowami z aprobatą.] Bardzo ładnie. To było naprawdę dobre. Goście byli zachwyceni. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^262342878325248992</key>
+	<val>[Opowiadasz kilka dowcipów. To była dobra noc. Wszyscy się śmiali i wyglądali na zasmuconych, kiedy występ dobiegł końca.] Tym razem publiczność należała do ciebie. Kiedy już się rozkręcisz, jesteś nie do zatrzymania. Dzięki za występ i do zobaczenia wkrótce.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2631413844281627268</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz wysokie kopnięcia. Publiczność marszczy brwi, a następnie kompletnie traci zainteresowanie.] To było po prostu okropne. Wysokie kopnięcia powinny być WYSOKIE. I PEŁNE WDZIĘKU. Kto ci powiedział, że tak się tańczy wys-kok?</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2655066190747590</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność ogląda to z zainteresowaniem, ale potem marszczy brwi i odwraca wzrok.] No cóż. Mało było w tym gracji. No i te kopnięcia były jakieś słabe. Ale przy odpowiednim treningu możesz się nauczyć porządnie tańczyć wys-kok.</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2673917761639611936</key>
+	<val>Uh... gdzie są te trzy małe jaja kwama, którymi chcesz żonglować? A może to są MAGICZNE i NIEWIDZIALNE jaja kwama, co?</val>
+	<!-- Hyperlinks: [kwama egg -> jajo kwama]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^26858296824125520</key>
+	<val>[Opowiadasz kilka dowcipów. Ludzie śmiali się i miło spędzili czas.] Nie mam nic do zarzucenia. Bije od ciebie naturalny wdzięk i umiesz opowiadać dowcipy. Czekam z niecierpliwością na twój kolejny występ.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^269016262259552272</key>
+	<val>["Bitwa o Molag Beran" to pieśń, którą zna i kocha każdy Dunmer, jest także ona bardzo popularna wśród lokalnej publiczności. Kiedy kończysz, otacza cię cisza, oczy wszystkich są mokre od łez - jednak już chwilę później wszystcy uśmiechają się i biją brawo.] No. [wyciera oczy] To było po prostu piękne, %PCName. Nie ma tu osoby, której nie zakręciłaby się łezka w oku. Cóż, widać, że znasz swoją publiczność. I to świetnie.</val>
+	<!-- Hyperlinks: [Dunmer -> Dunmerowie] [Favor -> przysługa] [know you -> znam cię]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2692922944156213822</key>
+	<val>[Opowiadasz kilka dowcipów. Widzowie śmiali się długo i głośno. Podobała im się każda minuta twego występu.] Moje gratulacje. Publiczność jadła ci z ręki. Wracaj do nas jak najczęściej.</val>
+	<!-- Hyperlinks: [rat -> szczur]
+	     Glossary: [Rat -> szczur]
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2694610474240713492</key>
+	<val>[Płynnie żonglujesz pięcioma ceramicznymi misami, od kaskady do półprysznica, dodatkowo na przemian przerzucając talerz za plecy i pod nogą. Publiczność obserwuje to z otwartymi oczami, wstrzymuje oddech, a kiedy kończysz, wybucha aplauzem.] To było niesamowite. To chyba najlepsza rzecz, jaką kiedykolwiek widziałam. Jak ty TO robisz?</val>
+	<!-- Hyperlinks: [ceramic bowl -> ceramiczna misa]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^27089292559845008</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność ogląda to z zainteresowaniem, ale potem marszczy brwi i odwraca wzrok.] No cóż. Mało było w tym gracji. No i te kopnięcia były jakieś słabe. Ale przy odpowiednim treningu możesz się nauczyć porządnie tańczyć wys-kok.</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2792565342317173</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność ogląda to z zainteresowaniem, ale potem marszczy brwi i odwraca wzrok.] No cóż. Mało było w tym gracji. No i te kopnięcia były jakieś słabe. Ale przy odpowiednim treningu możesz się nauczyć porządnie tańczyć wys-kok.</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2792911788162837636</key>
+	<val>[Próbujesz dotrzeć do publiczności śpiewając kilka zachodnich utworów ze "Śpiewnika". Unikając politycznych i nudnych tekstów, urzekasz widownię tymi humorystycznymi i romantycznymi.] No, "Ziarenka, Krwawe Ziarenka", naprawdę podobała się publice. Nigdy wcześniej tego nie słyszałam... kto cię jej nauczył?</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^28463202442635223856</key>
+	<val>[Wybijasz nierówny rytm na drewnianym blacie. Publiczność okazuje niewielkie zainteresowanie.] Chyba jesteś tu od niedawna... ale w Morrowind, kiedy ktoś mówi, że będzie grał na bębnie, logicznym jest, że musi ten bęben POSIADAĆ... a nie walić w to, co akurat ma pod ręką. Tak więc lepiej stąd odejdź. I przestań denerwować mnie i moich klientów.</val>
+	<!-- Hyperlinks: [Morrowind -> Morrowind] [patron -> opiekun]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2847110635270755704</key>
+	<val>[Opowiadasz kilka dowcipów. Wywołały jedynie pojedyncze uśmiechy. Z drugiej strony, wiekszości spodobał się twój koloviański hełm.] Podoba mi się ta czapka. A jeśli chodzi o resztę? Wyszło raczej słabo. Do osiągnięcia sukcesu potrzebne ci będą błyskotliwa osobowość, zręczny język i kilka przyzwoitych dowcipów. Oraz dużo szczęścia.</val>
+	<!-- Hyperlinks: [luck -> szczęście] [need -> potrzeba] [personality -> osobowość]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2865722355568111049</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię - ale nie bawili się zbyt dobrze.] No cóż. Zawsze mogło być gorzej. Chociaż nie bardzo. Twoje życie raczej nie jest zagrożone. Ale jednak radziłabym ci wyjść stąd po cichu.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^287125038182555816</key>
+	<val>Hmm... nie masz nawet czterech dużych jaj kwama, tak więc jak masz zamiar nimi żonglować, hę?</val>
+	<!-- Hyperlinks: [kwama egg -> jajo kwama]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^28822321751616119135</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz wysokie kopnięcia. Publiczność marszczy brwi, a następnie kompletnie traci zainteresowanie.] To było po prostu okropne. Wysokie kopnięcia powinny być WYSOKIE. I PEŁNE WDZIĘKU. Kto ci powiedział, że tak się tańczy wys-kok?</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^288826363130689348</key>
+	<val>Zrób tak.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2910510977921930704</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność obserwuje to z zainteresowaniem, uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Oglądanie twojego tańca to była czysta przyjemność. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!-- Hyperlinks: [dance -> taniec] [ring -> pierścień]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^292034440442210978</key>
+	<val>[Zaczynasz prosto, następnie wybijasz jednocześnie kilka różnych rytmów, raptownie zmieniając tempo, potem przechodzisz w jednostajne uderzenia przypominające bicie serca na wszystkich czterech bębnach. Cały czas trzymasz "przy sobie" publiczność, a kiedy już kończysz, ci zaczynają klaskać i gwizdać entuzjastycznie.] No, to było naprawdę spektakularne. Moje gratulacje. Prawdziwy pokaz gry na czterech bębnach. Najlepszy jaki w życiu słyszałam. Mam nadzieję, że jeszcze tu wpadniesz.</val>
+	<!-- Hyperlinks: [rat -> szczur]
+	     Glossary: [Rat -> szczur]
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^29247307751756613326</key>
+	<val>[Opowiadasz kilka dowcipów. WYDAWAŁO ci się, że są zabawne. Widzowie uważają inaczej.] Kto ci powiedział, że umiesz to robić? Mamusia? Nie ma w tobie za grosz uroku osobistego. Nie umiesz opowiadać dowcipów. NIE ZNASZ żadnych dowcipów. Twój strój też nie jest zabawny. Według mnie podążasz złą drogą.</val>
+	<!-- Hyperlinks: [line of work -> kariera] [work -> praca]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2959824347771110747</key>
+	<val>[Tańczysz na swojej kościanej tarczy, wyskakujesz w powietrze, obracasz się, wykonujesz wysokie kopnięcie i lądujesz na ziemi lekko i z gracją. Publiczność ogląda to z fascynacją, uśmiecha się i kiwa głowami z aprobatą.] Bardzo ładnie. To było naprawdę dobre. Goście byli zachwyceni. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^29777256401131612772</key>
+	<val>[Opowiadasz kilka dowcipów. Widzowie śmiali się w odpowienich momentach. Chyba spodobał się im występ.] To było całkiem niezłe. Podoba mi się twój styl. Odwiedź nas ponownie.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2983752131002323300</key>
+	<val>[Opowiadasz kilka dowcipów. Ludzie śmiali się. Płakali. Udało ci się zmienić ich życie.] To było NIESAMOWITE. Nigdy nie byłam na lepszym występie. Odwiedź nas jeszcze. Wracaj jak najczęściej.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^2995523743399983</key>
+	<val>[Wskakujesz na swoją kościaną tarczę, wybijasz się w powietrze, kręcisz się i wykonujesz kopnięcia, a na koniec lądujesz perfekcyjnie, lekko jak piórko i bez wysiłku. Publiczność obserwuje to z podziwem, a następnie krzyczy i bije brawo.] NIE-SA-MO-WI-TE! Znakomite przedstawienie! Ta siła, styl, gracja! Bardzo ci dziękuję i oczekuję twojego szybkiego powrotu!</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^3000822780704331</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność obserwuje to z zainteresowaniem, uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Oglądanie twojego tańca to była czysta przyjemność. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!-- Hyperlinks: [dance -> taniec] [ring -> pierścień]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^3046527240112116341</key>
+	<val>[Wybijasz delikatny rytm na swoich bębnach. Udało ci się pozyskać uwagę publiczności, której podoba się to, co słyszy.] Naprawdę dobrze się bawiłam. Wielu artystów mogłoby się od ciebie uczyć. Posłuchaj dobrej rady: dodaj do swego występu trzeci bęben. Jestem pewna, że sobie poradzisz.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^304682989390157561</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność obserwuje to z zainteresowaniem, uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Oglądanie twojego tańca to była czysta przyjemność. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!-- Hyperlinks: [dance -> taniec] [ring -> pierścień]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^3073772747925540</key>
+	<val>[Wyrzucasz trzy małe jaja kwama w powietrze. Te spadają na podłogę, rozbijają się, opryskując ciebie i twoją publiczność.] Świetnie. Wyjdź. Natychmiast.</val>
+	<!-- Hyperlinks: [kwama egg -> jajo kwama] [ring -> pierścień]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^3093721867695412281</key>
+	<val>[Wskakujesz na swoją kościaną tarczę, wybijasz się w powietrze, kręcisz się i wykonujesz kopnięcia, a na koniec lądujesz perfekcyjnie, lekko jak piórko i bez wysiłku. Publiczność obserwuje to z podziwem, a następnie krzyczy i bije brawo.] NIE-SA-MO-WI-TE! Znakomite przedstawienie! Ta siła, styl, gracja! Bardzo ci dziękuję i oczekuję twojego szybkiego powrotu!</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^312768299208768938</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię. Czasem nawet się uśmiechnęli.] Dzięki. Nie było tak źle. Ale musisz się bardziej postarać, jeśli chcesz zacząć zarabiać tym na życie.</val>
+	<!-- Hyperlinks: [need -> potrzeba]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^3149729552234159015</key>
+	<val>[Opowiadasz kilka dowcipów. Ludzie śmiali się. Płakali. Udało ci się zmienić ich życie.] To było NIESAMOWITE. Nigdy nie byłam na lepszym występie. Odwiedź nas jeszcze. Wracaj jak najczęściej.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^31740228051768218202</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz wysokie kopnięcia. Publiczność marszczy brwi, a następnie kompletnie traci zainteresowanie.] To było po prostu okropne. Wysokie kopnięcia powinny być WYSOKIE. I PEŁNE WDZIĘKU. Kto ci powiedział, że tak się tańczy wys-kok?</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^318238147128457290</key>
+	<val>[Opowiadasz kilka dowcipów. Wywołały jedynie pojedyncze uśmiechy. Z drugiej strony, wiekszości spodobał się twój koloviański hełm.] Podoba mi się ta czapka. A jeśli chodzi o resztę? Wyszło raczej słabo. Do osiągnięcia sukcesu potrzebne ci będą błyskotliwa osobowość, zręczny język i kilka przyzwoitych dowcipów. Oraz dużo szczęścia.</val>
+	<!-- Hyperlinks: [luck -> szczęście] [need -> potrzeba] [personality -> osobowość]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^31888206281135110689</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność obserwuje to z zainteresowaniem.] Cóż, to nie było aż takie złe. Ale potrzebujesz więcej praktyki.</val>
+	<!-- Hyperlinks: [dance -> taniec] [need -> potrzeba]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^3192084923112214381</key>
+	<val>[Zaczynasz powoli i prosto, następnie równomiernie przechodzisz w ciężko brzmiący rytm na swoich bębnach. Twoje uderzenia są zaraźliwe; wielu widzów dołącza do ciebie, a wszyscy spędzają dobrze czas.] To było naprawdę dobre, publice podoba się twoja gra na trzech bębnach. Jeżeli trochę potrenujesz, to jestem przekonana, że uda ci się zagrać na CZTERECH bębnach.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^32118145112700223769</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Przy odrobinie szczęścia możesz odnieść sukces. Ale ćwiczenia i ciężka praca też nie zaszkodzą.</val>
+	<!-- Hyperlinks: [dance -> taniec] [luck -> szczęście] [ring -> pierścień] [work -> praca]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^32143107151316010961</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię. Polubili cię. Niestety nie udało ci się ich porwać.] Dzięki. Koloviański hełm stanowił miły dodatek. Raczej nie zaczniesz zarabiać tym na życie. Ale nie masz się też czego wstydzić.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^3225821095187529705</key>
+	<val>[Opowiadasz kilka dowcipów. To była dobra noc. Wszyscy się śmiali i wyglądali na zasmuconych, kiedy występ dobiegł końca.] To był bardzo udany występ. Doceniam twój materiał, jak również styl i urok osobisty. Zawsze będziesz tu mile widzianym gościem.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^322782416512768797</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Przy odrobinie szczęścia możesz odnieść sukces. Ale ćwiczenia i ciężka praca też nie zaszkodzą.</val>
+	<!-- Hyperlinks: [dance -> taniec] [luck -> szczęście] [ring -> pierścień] [work -> praca]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^32388160362304728419</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię - ale raczej nie bawili się zbyt dobrze.] Dzięki bogom, że to już koniec. Cóż, może i nie umiesz opowiadać dowcipów, ale przynajmniej masz szczęście. To sympatyczni ludzie. Raczej nie będą żywili urazy.</val>
+	<!-- Hyperlinks: [luck -> szczęście]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^3251888941658620264</key>
+	<val>[Żonglujesz czterema dużymi jajami kwama, co chwilę wykonując asychroniczny prysznic i asychroniczną fontannę, następnie przechodzisz do silnej kaskady i do prostego półprysznica. Publiczność ogląda to z wytrzeszczonymi oczami, a gdy kończysz, klaszczy entuzjastycznie.] Bardzo dobrze. Naprawdę bardzo dobrze.</val>
+	<!-- Hyperlinks: [kwama egg -> jajo kwama]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^325631865738657884</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz wysokie kopnięcia. Publiczność marszczy brwi, a następnie kompletnie traci zainteresowanie.] To było po prostu okropne. Wysokie kopnięcia powinny być WYSOKIE. I PEŁNE WDZIĘKU. Kto ci powiedział, że tak się tańczy wys-kok?</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^3273310614266372350</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię. Nie byli rozczarowani.] Dobra robota. Ten występ był wart zapłaconego złota. Ale nie przestawaj nad tym pracować.</val>
+	<!-- Hyperlinks: [work -> praca]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^3274673621993578</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność ogląda to z zainteresowaniem, ale potem marszczy brwi i odwraca wzrok.] No cóż. Mało było w tym gracji. No i te kopnięcia były jakieś słabe. Ale przy odpowiednim treningu możesz się nauczyć porządnie tańczyć wys-kok.</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^3324244082484020057</key>
+	<val>[Zaczynasz  z zapałem śpiewać i rozdzierać palcami powietrze. Publiczność wygląda na zszokowaną.] A to ci niespodzianka. Myślałam, że MASZ lutnię. Hmm. Może i posiadasz jakiś tam urok i... ehr... sprawne palce, no i do tego twój głos jest... no cóż... wystarczająco głośny. Ale bez lutni... Dziękuję za coś takiego. A teraz odejdź.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^33402881370048510</key>
+	<val>[Opowiadasz kilka dowcipów. WYDAWAŁO ci się, że są zabawne. Słuchacze z gospody "Przy Południowym Murze" mieli inne zdanie. I wyrazili je bardzo dobitnie.] To nie byłaby taka katastrofa, gdyby nie brak uroku osobistego, brak przyzwoitego materiału, brak śmiesznego przebrania. Cóż, mam nadzieję, że się prędko nie zobaczymy.</val>
+	<!-- Hyperlinks: [South Wall -> Przy Południowym Murze] [club -> maczuga]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^347176813108519805</key>
+	<val>[Wskakujesz na swoją kościaną tarczę, wybijasz się w powietrze, kręcisz się i wykonujesz kopnięcia, a na koniec lądujesz perfekcyjnie, lekko jak piórko i bez wysiłku. Publiczność obserwuje to z podziwem, a następnie krzyczy i bije brawo.] NIE-SA-MO-WI-TE! Znakomite przedstawienie! Ta siła, styl, gracja! Bardzo ci dziękuję i oczekuję twojego szybkiego powrotu!</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^348232122152923968</key>
+	<val>[Opowiadasz kilka dowcipów. To była dobra noc. Wszyscy się śmiali i wyglądali na zasmuconych, kiedy występ dobiegł końca.] Tym razem publiczność należała do ciebie. Kiedy już się rozkręcisz, jesteś nie do zatrzymania. Dzięki za występ i do zobaczenia wkrótce.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^411914067166778578</key>
+	<val>[Opowiadasz kilka dowcipów. Grzecznie cię wysłuchali. Z uprzejmości nawet się uśmiechali.] Todobra publiczność - spragniona rozrywki. Twój występ nie należał do wybitnych. Ale z drugiej strony, nikt też nie usnął..</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^4323943411407447</key>
+	<val>[Dźwięk grubej lutni jest naprawdę bogaty i potężny. Publiczność kiwa głowami i uśmiecha się z aprobatą, a następnie zaczyna spoglądać na twój instrument.] Bardzo dobry występ... No i gdzie udało ci się zdobyć tę niesamowitą grubą lutnię? Oni naprawdę odpłynęli, gdy słuchali twej pięknej gry...</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^4334194382250226442</key>
+	<val>[Zaczynasz z zapałem śpiewać i energicznie brzdąkać na lutni. Publiczność wygląda na oszołomioną, a po chwili - zakłopotaną.] Twoja osobowość, koordynacja i retoryka są po prostu nijakie. Ale masz chociaż sobie lutnię. To krok w dobrą stronę. Nie poddawaj się.</val>
+	<!-- Hyperlinks: [personality -> osobowość] [speechcraft -> retoryka]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^4388283983181115357</key>
+	<val>[Tańczysz wokół i wykonujesz wysokie kopnięcia. Publiczność marszczy brwi i wygląda na zdegustowaną.] Jak widzę, absolutnie nie masz talentu, nie WIESZ jak tańczyć wys-kok, nawet nie wyobrażasz sobie, jak żałosny był twój "występ". Współczuję ci. Współczuję sobie. I moim klientom. Idź precz.</val>
+	<!-- Hyperlinks: [dance -> taniec] [patron -> opiekun]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^450430428250483235</key>
+	<val>[Wybijasz delikatny rytm na swoich bębnach. Udało ci się pozyskać uwagę publiczności, której podoba się to, co słyszy.] Naprawdę dobrze się bawiłam. Wielu artystów mogłoby się od ciebie uczyć. Posłuchaj dobrej rady: dodaj do swego występu trzeci bęben. Jestem pewna, że sobie poradzisz.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^494991691616654</key>
+	<val>[Wybijasz nierówny rytm na bębnie. Publiczność zwraca na ciebie uwagę... przez krótki czas, a potem po prostu zaczyna cię ignorować.] To z całą pewnością była gra na bębnie. Ale jeżeli chcesz DOBRZE grać na tym bębnie, popracuj nad szybkością i zwinnością.</val>
+	<!-- Hyperlinks: [agility -> zwinność] [need -> potrzeba] [speed -> szybkość]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^51782018428815732</key>
+	<val>[Zaczynasz prosto, następnie wybijasz jednocześnie kilka różnych rytmów, raptownie zmieniając tempo, potem przechodzisz w jednostajne uderzenia przypominające bicie serca na wszystkich czterech bębnach. Cały czas trzymasz "przy sobie" publiczność, a kiedy już kończysz, ci zaczynają klaskać i gwizdać entuzjastycznie.] No, to było naprawdę spektakularne. Moje gratulacje. Prawdziwy pokaz gry na czterech bębnach. Najlepszy jaki w życiu słyszałam. Mam nadzieję, że jeszcze tu wpadniesz.</val>
+	<!-- Hyperlinks: [rat -> szczur]
+	     Glossary: [Rat -> szczur]
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^523028197734716798</key>
+	<val>[Opowiadasz kilka dowcipów. To była dobra noc. Wszyscy się śmiali i wyglądali na zasmuconych, kiedy występ dobiegł końca.] Polubili cię. Ja cię polubiłam. Twój materiał jest solidny, a ta czapka uzupełnia całokształt. Wracaj do nas jak najczęściej.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^5244177631055412214</key>
+	<val>[Płynnie żonglujesz pięcioma ceramicznymi misami, od kaskady do półprysznica, dodatkowo na przemian przerzucając talerz za plecy i pod nogą. Publiczność obserwuje to z otwartymi oczami, wstrzymuje oddech, a kiedy kończysz, wybucha aplauzem.] To było niesamowite. To chyba najlepsza rzecz, jaką kiedykolwiek widziałam. Jak ty TO robisz?</val>
+	<!-- Hyperlinks: [ceramic bowl -> ceramiczna misa]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^5282301962510216580</key>
+	<val>Chcesz coś zaprezentować? Co masz zamiar zrobić?</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^53384602303618927</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Przy odrobinie szczęścia możesz odnieść sukces. Ale ćwiczenia i ciężka praca też nie zaszkodzą.</val>
+	<!-- Hyperlinks: [dance -> taniec] [luck -> szczęście] [ring -> pierścień] [work -> praca]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^5479206191565729210</key>
+	<val>[Zaczynasz powoli i prosto, następnie równomiernie przechodzisz w ciężko brzmiący rytm na swoich bębnach. Twoje uderzenia są zaraźliwe; wielu widzów dołącza do ciebie, a wszyscy spędzają dobrze czas.] To było naprawdę dobre, publice podoba się twoja gra na trzech bębnach. Jeżeli trochę potrenujesz, to jestem przekonana, że uda ci się zagrać na CZTERECH bębnach.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^550110764136347817</key>
+	<val>[Tańczysz na swojej kościanej tarczy, wyskakujesz w powietrze, obracasz się, wykonujesz wysokie kopnięcie i lądujesz na ziemi lekko i z gracją. Publiczność ogląda to z fascynacją, uśmiecha się i kiwa głowami z aprobatą.] Bardzo ładnie. To było naprawdę dobre. Goście byli zachwyceni. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^5585463514838157</key>
+	<val>[Opowiadasz kilka dowcipów. Ludzie śmiali się. Płakali. Udało ci się zmienić ich życie.] To było NIESAMOWITE. Nigdy nie byłam na lepszym występie. Odwiedź nas jeszcze. Wracaj jak najczęściej.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^5807160551503631339</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz wysokie kopnięcia. Publiczność marszczy brwi, a następnie kompletnie traci zainteresowanie.] To było po prostu okropne. Wysokie kopnięcia powinny być WYSOKIE. I PEŁNE WDZIĘKU. Kto ci powiedział, że tak się tańczy wys-kok?</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^581817111196531922</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność obserwuje to z zainteresowaniem.] Cóż, to nie było aż takie złe. Ale potrzebujesz więcej praktyki.</val>
+	<!-- Hyperlinks: [dance -> taniec] [need -> potrzeba]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^5823325221415421877</key>
+	<val>[Opowiadasz kilka dowcipów. Ludzie śmiali się. Płakali. Udało ci się zmienić ich życie.] To było NIESAMOWITE. Nigdy nie byłam na lepszym występie. Odwiedź nas jeszcze. Wracaj jak najczęściej.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^58721411470228010</key>
+	<val>[Opowiadasz kilka dowcipów. WYDAWAŁO ci się, że są zabawne. Więc dlaczego wszyscy tak się wściekli?] Mam nadzieję, że znasz inny sposób na zarabianie pieniędzy. Twoja osobowość, retoryka i materiał są wręcz nijakie. Dziękuję bardzo za taki występ.</val>
+	<!-- Hyperlinks: [personality -> osobowość] [speechcraft -> retoryka]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^6011189791416614236</key>
+	<val>[Opowiadasz kilka śmiesznych dowcipów. Przynajmniej śmiesznych według CIEBIE. Publiczność nie zachwyciła się.] Niezła próba. Całkowita, totalna porażka. Ale przynajmniej wiesz, na czym stoisz. Nie brak ci odwagi. Podziwiam to. Posłuchaj mojej rady: popracuj nad swoją osobowością i retoryką. Naucz się kilku kawałów albo zdobądź jakiś śmieszny strój. A wtedy, kiedy tu powrócisz, może nie zawalisz wszystkiego.</val>
+	<!-- Hyperlinks: [personality -> osobowość] [speechcraft -> retoryka] [work -> praca]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^620472071343826163</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz wysokie kopnięcia. Publiczność marszczy brwi, a następnie kompletnie traci zainteresowanie.] To było po prostu okropne. Wysokie kopnięcia powinny być WYSOKIE. I PEŁNE WDZIĘKU. Kto ci powiedział, że tak się tańczy wys-kok?</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^62952268469295665</key>
+	<val>[Opowiadasz kilka dowcipów. To była dobra noc. Wszyscy się śmiali i wyglądali na zasmuconych, kiedy występ dobiegł końca.] To był bardzo udany występ. A ten koloviański hełm stał się twoim znakiem rozpoznawczym. Wracaj do nas jak najczęściej.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^6315315553156916903</key>
+	<val>[Opowiadasz kilka śmiesznych dowcipów. Publiczność wybuchnęła śmiechem. Bardzo mocno. Kochają cię i spędzają z tobą miło czas.] Wiesz, to było naprawdę dobre. Widziałam ich twarze...podobało im się. Wracaj do nas jak najczęściej.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^653255723128012114</key>
+	<val>[Opowiadasz kilka dowcipów. Ludzie śmiali się. Płakali. Udało ci się zmienić ich życie.] To było NIESAMOWITE. Nigdy nie byłam na lepszym występie. Odwiedź nas jeszcze. Wracaj jak najczęściej.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^699011177244577723</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy i wykonujesz naprawdę wysokie kopnięcia. Publiczność ogląda to z zainteresowaniem, ale potem marszczy brwi i odwraca wzrok.] No cóż. Mało było w tym gracji. No i te kopnięcia były jakieś słabe. Ale przy odpowiednim treningu możesz się nauczyć porządnie tańczyć wys-kok.</val>
+	<!-- Hyperlinks: [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^77707471285610636</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Przy odrobinie szczęścia możesz odnieść sukces. Ale ćwiczenia i ciężka praca też nie zaszkodzą.</val>
+	<!-- Hyperlinks: [dance -> taniec] [luck -> szczęście] [ring -> pierścień] [work -> praca]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^84498490952531993</key>
+	<val>[Zaczynasz prosto, następnie wybijasz jednocześnie kilka różnych rytmów, raptownie zmieniając tempo, potem przechodzisz w jednostajne uderzenia przypominające bicie serca na wszystkich czterech bębnach. Cały czas trzymasz "przy sobie" publiczność, a kiedy już kończysz, ci zaczynają klaskać i gwizdać entuzjastycznie.] No, to było naprawdę spektakularne. Moje gratulacje. Prawdziwy pokaz gry na czterech bębnach. Najlepszy jaki w życiu słyszałam. Mam nadzieję, że jeszcze tu wpadniesz.</val>
+	<!-- Hyperlinks: [rat -> szczur]
+	     Glossary: [Rat -> szczur]
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^8572201911333018215</key>
+	<val>[Wybijasz wpadający w ucho rytm na bębnie. Publiczność uprzejmie tego słucha, ale praktycznie bez zainteresowania.] Nieźle. Nie było doskonale, ale i nie tragicznie. Dzięki za przybycie. Przyjmij też dobrą radę: ćwicz, ćwicz i jeszcze raz ćwicz.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^865621787732128543</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność obserwuje to z zainteresowaniem, uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Oglądanie twojego tańca to była czysta przyjemność. Dziękuję. Mam nadzieję, że jeszcze kiedyś nas odwiedzisz.</val>
+	<!-- Hyperlinks: [dance -> taniec] [ring -> pierścień]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^8946259511795420153</key>
+	<val>[Opowiadasz kilka dowcipów. Wysłuchali cię. Nie byli rozczarowani.] Dobra robota. Ten występ był wart zapłaconego złota. Ale nie przestawaj nad tym pracować.</val>
+	<!-- Hyperlinks: [work -> praca]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^913929393241147984</key>
+	<val>[Wskakujesz na swoją kościaną tarczę, wybijasz się w powietrze, kręcisz się i wykonujesz kopnięcia, a na koniec lądujesz perfekcyjnie, lekko jak piórko i bez wysiłku. Publiczność obserwuje to z podziwem, a następnie krzyczy i bije brawo.] NIE-SA-MO-WI-TE! Znakomite przedstawienie! Ta siła, styl, gracja! Bardzo ci dziękuję i oczekuję twojego szybkiego powrotu!</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^91652975286678595</key>
+	<val>[Żonglujesz trzema małymi jajami kwama w standarowym stylu. Publiczność uprzejmie kiwa głowami, a następnie ignoruje cię, obojętna.] Tak. Udało ci się. Udało ci się żonglować trzema małymi jajami kwama jednocześnie. Jupi! Lepiej już idź.</val>
+	<!-- Hyperlinks: [kwama egg -> jajo kwama]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^934022551202125663</key>
+	<val>[Wybijasz wpadający w ucho rytm na bębnie. Publiczność uprzejmie tego słucha, ale praktycznie bez zainteresowania.] Nieźle. Nie było doskonale, ale i nie tragicznie. Dzięki za przybycie. Przyjmij też dobrą radę: ćwicz, ćwicz i jeszcze raz ćwicz.</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^940757932426522971</key>
+	<val>[Wskakujesz na swoją kościaną tarczę, wybijasz się w powietrze, kręcisz się i wykonujesz kopnięcia, a na koniec lądujesz perfekcyjnie, lekko jak piórko i bez wysiłku. Publiczność obserwuje to z podziwem, a następnie krzyczy i bije brawo.] NIE-SA-MO-WI-TE! Znakomite przedstawienie! Ta siła, styl, gracja! Bardzo ci dziękuję i oczekuję twojego szybkiego powrotu!</val>
+	<!-- Hyperlinks:
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^9436108651108912610</key>
+	<val>[Żonglujesz trzema małymi jajami kwama w standarowym stylu, wykonujesz półprysznic, podkreślasz to złapaniem jaja kwama na karku i przerzuceniem go przez głowę. Publiczność ogląda to z ciekawością, uśmiecha się oglądając triki, a gdy kończysz, życzliwie klaszcze.] Całkiem dobre. Masz styl, %PCName. Trzymaj się.</val>
+	<!-- Hyperlinks: [kwama egg -> jajo kwama] [work -> praca]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^9575124201384832386</key>
+	<val>[Tańczysz wokół swojej kościanej tarczy, wyskakujesz wysoko w powietrze, zręcznie wykonujesz kopnięcie i z gracją lądujesz na ziemi. Publiczność uśmiecha się i kiwa głowami z aprobatą.] Całkiem nieźle. Przy odrobinie szczęścia możesz odnieść sukces. Ale ćwiczenia i ciężka praca też nie zaszkodzą.</val>
+	<!-- Hyperlinks: [dance -> taniec] [luck -> szczęście] [ring -> pierścień] [work -> praca]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^zabawić gości^9959319512381817106</key>
+	<val>[Zaczynasz nieśmiało śpiewać i grać na niewidzialnej lutni. Publiczność patrzy na ciebie wrogim wzrokiem.] Hmm. To co, teraz widzieliśmy, mogło spowodować nagłą ucieczkę publiki. Cóż, nawet najlepsza lutnia nie pomoże przy braku talentu. Raczej więcej się tu nie pojawisz. No chyba, że życie ci niemiłe...</val>
+	<!-- Hyperlinks: [escape -> ucieczka]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^wys-kok^2753532387185528563</key>
+	<val>"Wys-kok" to tradycyjny dunmerski taniec wojenny, wykonywany na kościanej tarczy wojownika. Stylowe wysokie kopnięcia i pełne gracji lądowania na tarczy, będące podstawowymi elementami tego tańca, wymagają doskonałej atletyki i akrobatyki.</val>
+	<!-- Hyperlinks: [Dunmer -> Dunmerowie] [dance -> taniec]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^mały sekret^1407822190554218458</key>
+	<val>Umiesz grać na lutni? W takim razie musisz koniecznie porozmawiać z Dulneą Ralaal z gospody "Osiem Talerzy" w Balmorze. Podobno zatrudnia artystów, by zabawiali jej klientów.</val>
+	<!-- Hyperlinks: [Balmora -> Balmora] [Talk -> porozmawiać] [club -> maczuga] [patron -> opiekun]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^mały sekret^2418029509221322694</key>
+	<val>Umiesz grać na bębnach? W takim razie musisz koniecznie porozmawiać z Dulneą Ralaal z gospody "Osiem Talerzy" w Balmorze. Podobno zatrudnia artystów, by zabawiali jej klientów.</val>
+	<!-- Hyperlinks: [Balmora -> Balmora] [Talk -> porozmawiać] [club -> maczuga] [patron -> opiekun]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^mały sekret^2675034591959419889</key>
+	<val>Umiesz grać na bębnach? W takim razie musisz koniecznie porozmawiać z Dulneą Ralaal z gospody "Osiem Talerzy" w Balmorze. Podobno zatrudnia artystów, by zabawiali jej klientów.</val>
+	<!-- Hyperlinks: [Balmora -> Balmora] [Talk -> porozmawiać] [club -> maczuga] [patron -> opiekun]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^mały sekret^276181128340255511</key>
+	<val>Umiesz grać na lutni? W takim razie musisz koniecznie porozmawiać z Dulneą Ralaal z gospody "Osiem Talerzy" w Balmorze. Podobno zatrudnia artystów, by zabawiali jej klientów.</val>
+	<!-- Hyperlinks: [Balmora -> Balmora] [Talk -> porozmawiać] [club -> maczuga] [patron -> opiekun]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^mały sekret^6543141622156630875</key>
+	<val>Lubisz zwiedzać różne zakamarki na odludziu? Drobna sugestia - napotykasz czasami miejsca wyglądające jakby były ze złocistego metalu? Z iglicami i wieżami? To krasnoludzkie ruiny. Mogą być niebezpieczne - po części z powodu znajdujących się w nich maszyn, a po części z powodu stworów, które często się w nich kryją. Na przykład wszystkie ruiny wewnątrz Upiornej Bariery pochodzą z czasów Dwemerów, podobno wampiry też je lubią.</val>
+	<!-- Hyperlinks: [Dwarven -> krasnoludzkie] [Ghostfence -> Upiorna Bariera] [inside the Ghostfence -> wewnątrz Upiornej Bariery] [little suggestion -> drobna sugestia] [vampires -> wampiry]
+	     Glossary: [Ancient -> Pradawny]
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^najnowsze plotki^14568317452754723589</key>
+	<val>Dulnea Ralaal, oberżystka z karczmy "Osiem Talerzy" w Balmorze, zatrudnia artystów do zabawiania jej klientów. Poszukuje błaznów, tancerzy, bębniarzy, żonglerów oraz bardów grających na lutni.</val>
+	<!-- Hyperlinks: [Balmora -> Balmora] [club -> maczuga] [dance -> taniec] [patron -> opiekun] [ring -> pierścień]
+	     Glossary:
+	     Speaker: N\A -->
+</record>
+<record>
+	<_id>TEXT</_id>
+	<key>bk_Balladeers_Fakebook</key>
+	<val><DIV ALIGN="CENTER"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>
+Śpiewnik<BR>
+<DIV ALIGN="LEFT"><BR><BR>
+[W zbiorze tym zawarto teksty znanych i popularnych pieśni tawernianych, takich jak:]<BR>
+<BR>
+"Łysy Admirał Richton"<BR>
+"Złoty Gaj"<BR>
+"Dwunastodniowa Popijawa"<BR>
+"Wyspiarze Zrzuceni z Góry"<BR>
+"Ziarenka, Krwawe Ziarenka"<BR>
+"Bielizna Olgi"<BR>
+"Czarny Fredas"<BR>
+"Cesarski Wolontariusz"<BR>
+"W Dół, Poprzez Imbirowy Gaj"<BR>
+"Tocz się Bretonio, Tocz"<BR>
+"Wyspa Summerset"<BR>
+"Ciemnokrwiści Wrogowie"<BR>
+"Świt i Zmierzch"<BR>
+"Żegnaj, Kolovio"<BR>
+"Wiatr i Deszcz"<BR>
+"Zielona i Miłosierna Ziemia"<BR>
+"Wesoły Łucznik"<BR>
+"Wody Smutku"<BR>
+"Inkkit Hinkit"<BR>
+"Pielgrzym Na Szlaku"<BR>
+"Jestem Szczęśliwy, Że Nie Jestem Orkiem"<BR>
+</val>
+</record>
+<record>
+	<_id>TEXT</_id>
+	<key>bk_Battle_Molag_Beran</key>
+	<val><DIV ALIGN="LEFT"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>
+<BR>
+Bitwa o Molag Beran<BR>
+[Tradycyjna dunmerska ballada]<BR>
+<BR>
+Przyszedłeś ukryć się przed wojną,<BR>
+A może guary kraść,<BR>
+Gdzie byłeś ze swym rodem<BR>
+Podczas bitwy o Molag Beran?<BR>
+Ja byłem tam, walczyłem roniąc łzy,<BR>
+Smakując błyskawic i krwi.<BR>
+Stałem w szeregu z buzdyganem w dłoni,<BR>
+Gdy klan Dunmerów bratobójczą rozpoczął walkę.<BR>
+<BR>
+Wojownicy Rodu Retheran<BR>
+O świcie wyczekiwali bitwy.<BR>
+Przyszli dumni kolumną szeroką,<BR>
+Lecz uciekali hańbą okryci.<BR>
+Broniliśmy razem brzegów Tadras,<BR>
+Złamaliśmy szyki ich niszcząc doszczętnie.<BR>
+Pole krwią jasną zalane kuzynów<BR>
+Spływa z ostrzy okrutnych Drenim.<BR>
+<BR>
+Straciliśmy legiony dzielnych mężów<BR>
+Wielu odważnych z Rodu Drenim.<BR>
+Wciąż niosą samotnie płacz<BR>
+Czerwone wzgórza Molag Beran.<BR>
+Zginęli przez ciemnotę, zginęli za światło,<BR>
+Zginęli z powodu herbu na tarczach,<BR>
+Pożegnało się wielu ze światem,<BR>
+Podczas bitwy o Molag Beran.<BR>
+<BR></val>
+</record>
+<record>
+	<_id>TEXT</_id>
+	<key>bk_Im_My_Own_Grandpa</key>
+	<val><DIV ALIGN="LEFT"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>
+Jestem Swoim Własnym Dziadkiem<BR>
+Gaeldol, Najzabawniejszy Leśny Elf Wszech Czasów<BR>
+<BR>
+Dlaczego mroczny elf przeszedł przez ulicę?<BR>
+<BR>
+<BR>
+Ilu orków potrzeba do zapalenia pochodni?<BR>
+Zależy. Czy liczącym jest ork?<BR>
+<BR>
+Co to jest: zielone, skacze i skwierczy w lawie?<BR>
+Ork akrobata.<BR>
+<BR>
+Jeśli leśny elf spadnie z drzewa, to kogo to będzie obchodziło?<BR>
+<BR>
+<BR>
+Czy jeśli zrzucisz Khajiita głową w dół z dużej wysokości, to spadnie on na cztery łapy?<BR>
+Nie, jeśli wcześniej mu je obetniesz.<BR>
+<BR>
+
+</val>
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>5282301962510216580^Choice "Tell a few jokes." 1 "Dance the handy high-kick." 2 "Play the drum." 3 "Play the lute and sing." 4 "Juggle three small kwama eggs." 5 "Juggle four large kwama eggs." 6 "Juggle five ceramic bowls." 7 "Let me think about it." 8</key>
+	<val>5282301962510216580^Choice "Opowiedz kilka dowcipów." 1 "Dance the wys-kok." 2 "Zagraj na bębnie." 3 "Zaśpiewaj grając na lutni." 4 "Żongluj trzema małymi jajami kwama." 5 "Żongluj czterema dużymi jajami kwama." 6 "Żongluj pięcioma cesamicznymi misami." 7 "Muszę to jeszcze przemyśleć." 8</val>
+</record>
