@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- Słownik do: Dome of Meditation v1.1
+https://www.nexusmods.com/morrowind/mods/46917 -->
+
+<record>
+	<_id>CELL</_id>
+	<key>Dome of Meditation</key>
+	<val>Kopuła Medytacji</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^MS_SH_TraBell1</key>
+	<val>Dzwon</val>
+	<!--
+	Glossary: [Bell -> Dzwon ACTI^active_6th_bell_01]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^MS_SH_TraBell2</key>
+	<val>Dzwon</val>
+	<!--
+	Glossary: [Bell -> Dzwon ACTI^active_6th_bell_01]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^MS_SH_TraBell3</key>
+	<val>Dzwon</val>
+	<!--
+	Glossary: [Bell -> Dzwon ACTI^active_6th_bell_01]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^MS_SH_TraBell4</key>
+	<val>Dzwon</val>
+	<!--
+	Glossary: [Bell -> Dzwon ACTI^active_6th_bell_01]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^MS_SH_TraBell5</key>
+	<val>Dzwon</val>
+	<!--
+	Glossary: [Bell -> Dzwon ACTI^active_6th_bell_01]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^MS_SH_TraBell7</key>
+	<val>Dzwon</val>
+	<!--
+	Glossary: [Bell -> Dzwon ACTI^active_6th_bell_01]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_Dome_Keg2</key>
+	<val>Ciężka stalowa beczułka</val>
+	<!--
+	Glossary: [Steel Quarter Keg -> Stalowa beczułka CONT^dwrv_barrel10]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_SH_Accessories</key>
+	<val>Akcesoria</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_SH_AmuletChest</key>
+	<val>Skrzynia na amulety</val>
+	<!--
+	Glossary: [Chest -> Skrzynia CONT^com_chest_01_pos]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_SH_ArmourChest</key>
+	<val>Skrzynia na zbroje</val>
+	<!--
+	Glossary: [Chest -> Skrzynia CONT^com_chest_01_pos]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_SH_BooksContainer1</key>
+	<val>Książki</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_SH_BooksContainer2</key>
+	<val>Książki</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_SH_BreadContainer</key>
+	<val>Chleb</val>
+	<!--
+	Glossary: [Bread -> Chleb INGR^ingred_bread_01]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_SH_ClothSpoolChest</key>
+	<val>Sukno i szpula</val>
+	<!--
+	Glossary: [Cloth -> Sukno MISC^misc_de_cloth10] [Spool -> Szpula MISC^misc_spool_01]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_SH_ClutterContainer</key>
+	<val>Pojemnik na różności</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_SH_DrinksContainer</key>
+	<val>Napoje</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_SH_Extra</key>
+	<val>Skrzynia na dokumenty</val>
+	<!--
+	Glossary: [Chest -> Skrzynia CONT^com_chest_01_pos] [paper -> Papier BOOK^sc_paper plain]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_SH_GemChest</key>
+	<val>Skrzynia na klejnoty</val>
+	<!--
+	Glossary: [Chest -> Skrzynia CONT^com_chest_01_pos]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_SH_IngredientsChest2</key>
+	<val>Skrzynia na składniki</val>
+	<!--
+	Glossary: [Chest -> Skrzynia CONT^com_chest_01_pos]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_SH_KegContain</key>
+	<val>Stalowa beczka</val>
+	<!--
+	Glossary: [Steel Keg -> Stalowa beczka CONT^dwrv_barrel00]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_SH_KeyChest</key>
+	<val>Skrzynia na klucze</val>
+	<!--
+	Glossary: [Chest -> Skrzynia CONT^com_chest_01_pos]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_SH_PaperChest</key>
+	<val>Skrzynia na dokumenty</val>
+	<!--
+	Glossary: [Chest -> Skrzynia CONT^com_chest_01_pos] [paper -> Papier BOOK^sc_paper plain]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_SH_PotionsChest</key>
+	<val>Mikstury</val>
+	<!--
+	Glossary: [Pot -> Garniec CONT^pot_01]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_SH_RingChest</key>
+	<val>Skrzynia na pierścienie</val>
+	<!--
+	Glossary: [Chest -> Skrzynia CONT^com_chest_01_pos]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_SH_ScrollsChest</key>
+	<val>Zwoje</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_SH_ShoesContainer</key>
+	<val>Buty</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_SH_SpearsContainer</key>
+	<val>Włócznie</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_SH_WeaponChest</key>
+	<val>Skrzynia na broń</val>
+	<!--
+	Glossary: [Chest -> Skrzynia CONT^com_chest_01_pos]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_SH_Writing</key>
+	<val>Przybory do pisania</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^MS_dome_HeavyKeg1</key>
+	<val>Ciężka stalowa beczka</val>
+	<!--
+	Glossary: [Steel Keg -> Stalowa beczka CONT^dwrv_barrel00]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>DOOR^MS_SH_DoorBell1</key>
+	<val>Rezonujący dzwon</val>
+	<!--
+	Glossary: [Bell -> Dzwon ACTI^active_6th_bell_01]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>DOOR^MS_SH_DoorBell2</key>
+	<val>Rezonujący dzwon</val>
+	<!--
+	Glossary: [Bell -> Dzwon ACTI^active_6th_bell_01]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>DOOR^MS_SH_DoorBell3</key>
+	<val>Rezonujący dzwon</val>
+	<!--
+	Glossary: [Bell -> Dzwon ACTI^active_6th_bell_01]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>DOOR^MS_SH_DoorBell4</key>
+	<val>Rezonujący dzwon</val>
+	<!--
+	Glossary: [Bell -> Dzwon ACTI^active_6th_bell_01]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>DOOR^MS_SH_DoorBell5</key>
+	<val>Rezonujący dzwon</val>
+	<!--
+	Glossary: [Bell -> Dzwon ACTI^active_6th_bell_01]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>DOOR^MS_SH_DoorBell6</key>
+	<val>Rezonujący dzwon</val>
+	<!--
+	Glossary: [Bell -> Dzwon ACTI^active_6th_bell_01]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^MS_SH_Plan1</key>
+	<val>Plany Anumidium</val>
+	<!--
+	Glossary: [Anumidium Plans -> Plany Anumidium MISC^misc_dwrv_artifact30]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^MS_SH_Plan2</key>
+	<val>Plany powietrznego statku</val>
+	<!--
+	Glossary: [Dwemer Airship Plans -> Plany powietrznego statku MISC^misc_dwrv_artifact20]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^MS_SH_Plan3</key>
+	<val>Dwemerowy schemat</val>
+	<!--
+	Glossary: [Dwemer Schematic -> Dwemerowy schemat MISC^misc_dwrv_artifact70]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^MS_SH_Plan4</key>
+	<val>Plany skarabeusza Dwemerów</val>
+	<!--
+	Glossary: [Dwemer Scarab Plans -> Plany skarabeusza Dwemerów MISC^misc_dwrv_artifact10]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^MS_SH_Plan5</key>
+	<val>Schemat skarabeusza Dwemerów</val>
+	<!--
+	Glossary: [Dwemer Scarab Schematics -> Schemat skarabeusza Dwemerów MISC^misc_dwrv_artifact40]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^MS_SH_Plans6</key>
+	<val>Plany centuriona Dwemerów</val>
+	<!--
+	Glossary: [Dwemer Centurion Plans -> Plany centuriona Dwemerów MISC^misc_dwrv_artifact80]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^MS_SH_PuzzleBox</key>
+	<val>Dwemerowa łamigłówka</val>
+	<!--
+	Glossary: [Dwemer puzzle box -> Dwemerowa łamigłówka MISC^misc_dwrv_ark_cube00]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^MS_SH_PuzzleBox1</key>
+	<val>Dwemerowa łamigłówka</val>
+	<!--
+	Glossary: [Dwemer puzzle box -> Dwemerowa łamigłówka MISC^misc_dwrv_ark_cube00]
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_SH_HouseQuest^107337368969226047</key>
+	<val>Bal'ruhn</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_SH_HouseQuest^175392529299721234</key>
+	<val>Divayth Fyr zidentyfikował dwemerową łamigłówkę jako wymiar kieszonkowy stworzony przez Sotha Sila. Odblokował możliwość przeniesienia się do niego.</val>
+	<!--
+	Glossary: [Divayth Fyr -> Divayth Fyr NPC_^divayth fyr] [Dwemer puzzle box -> Dwemerowa łamigłówka MISC^misc_dwrv_ark_cube00] [Pot -> Garniec CONT^pot_01] [Sotha Sil -> Sotha Sil ACTI^in_sotha_sil00]
+	Hyperlinks 1: [Divayth Fyr -> Divayth Fyr] [Dwemer -> Dwemer] [Dwemer puzzle box -> dwemerowa łamigłówka] [Sotha Sil -> Sotha Sil] [the Dwemer -> Dwemerowie]
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_SH_HouseQuest^312231300576759649</key>
+	<val>Hasphat Antabolis wyraził chęć sprzedania dwemerowej łamigłówki, którą udało mi się znaleźć w  Arkngthand.</val>
+	<!--
+	Glossary: [Dwemer puzzle box -> Dwemerowa łamigłówka MISC^misc_dwrv_ark_cube00] [Hasphat Antabolis -> Hasphat Antabolis NPC_^hasphat antabolis]
+	Hyperlinks 1: [Arkngthand -> Arkngthand] [Dwemer -> Dwemer] [Dwemer puzzle box -> dwemerowa łamigłówka] [Hasphat Antabolis -> Hasphat Antabolis] [the Dwemer -> Dwemerowie]
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_SH_HouseQuest^334711140673920734</key>
+	<val>Edwinna Elbert poradziła mi zanieść dwemerową łamigłówkę do Divayth Fyra z Tel Fyr.</val>
+	<!--
+	Glossary: [Divayth Fyr -> Divayth Fyr NPC_^divayth fyr] [Dwemer puzzle box -> Dwemerowa łamigłówka MISC^misc_dwrv_ark_cube00] [Edwinna Elbert -> Edwinna Elbert NPC_^edwinna elbert] [Tel Fyr -> Tel Fyr ACTI^Act_banner_Tel_Fyr]
+	Hyperlinks 1: [Divayth Fyr -> Divayth Fyr] [Dwemer -> Dwemer] [Dwemer puzzle box -> dwemerowa łamigłówka] [Tel Fyr -> Tel Fyr] [the Dwemer -> Dwemerowie]
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>J^MS_SH_HouseQuest^85249557661522408</key>
+	<val>Dwemerowa łamigłówka znalazła się w moim posiadaniu. Mam nadzieję, że podczas moich podróży znajdę kogoś, kto zna się na kulturze Dwemerów i będzie wiedział, co z nią zrobić.</val>
+	<!--
+	Glossary: [Dwemer puzzle box -> Dwemerowa łamigłówka MISC^misc_dwrv_ark_cube00]
+	Hyperlinks 1: [Dwemer -> Dwemer] [Dwemer puzzle box -> dwemerowa łamigłówka] [the Dwemer -> Dwemerowie]
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^dwemerowa łamigłówka^10641248792035011983</key>
+	<val>Cóż, wiesz gdzie mnie znaleźć, jeśli zmienisz zdanie.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^dwemerowa łamigłówka^1323953181654725851</key>
+	<val>Wymiar kieszonkowy? W takim razie cieszę się, że ci ją sprzedałem, %PCName. I tak praktycznie żyję już w wymiarze kieszonkowym, jak pewnie udało ci się zauważyć.</val>
+	<!--
+	Glossary: [Notice -> Informacja BOOK^bk_storagenotice]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^dwemerowa łamigłówka^1450328398136111451</key>
+	<val>Cieszę się, że o niej wspominasz, %PCName. Muszę przyznać, że chociaż łamigłówka posłużyła do budowy dwemerowego klucza, to uważam, że ma też inne zastosowanie. Wzór jest misterny i zdaje się sugerować, że jest to coś więcej, niż zwykły klucz. Nie chcesz dodać jej do swojej osobistej kolekcji?</val>
+	<!--
+	Glossary: [Dwemer key -> Dwemerowy klucz MISC^key_trib_dwe00]
+	Hyperlinks 1: [Dwemer -> Dwemer] [the Dwemer -> Dwemerowie]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^dwemerowa łamigłówka^20958106231387431324</key>
+	<val>Fascynujące, %PCName. Nie jestem entuzjastką jeśli chodzi o Dwemerów, ale to jest trochę zaskakujące nawet dla mnie. Co oznaczają te napisy? I jak można otworzyć te pudełko... ciekawe. Sugerowałabym zaniesienie go do wielkiego telvańskiego czarodzieja Divayth Fyra z Tel Fyr. Jeśli nie wiesz, gdzie to jest, po prostu udaj się do Sadrith Mora i rusz na zachód. Tel Fyr znajduje się na wyspie majaczącej na horyzoncie.</val>
+	<!--
+	Glossary: [Divayth Fyr -> Divayth Fyr NPC_^divayth fyr] [Open -> Otworzenie SPEL^open] [Sadrith Mora -> Sadrith Mora ACTI^Act_banner_Sadrith_Mora] [Tel Fyr -> Tel Fyr ACTI^Act_banner_Tel_Fyr]
+	Hyperlinks 1: [Divayth Fyr -> Divayth Fyr] [Dwemer -> Dwemer] [Sadrith Mora -> Sadrith Mora] [Tel Fyr -> Tel Fyr]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^dwemerowa łamigłówka^24821125641810311742</key>
+	<val>Miejmy nadzieję, że wielki telvański czarodziej Divayth Fyr z Tel Fyr będzie miał więcej informacji na temat tego, czym ona może być.</val>
+	<!--
+	Glossary: [Divayth Fyr -> Divayth Fyr NPC_^divayth fyr] [Tel Fyr -> Tel Fyr ACTI^Act_banner_Tel_Fyr]
+	Hyperlinks 1: [Divayth Fyr -> Divayth Fyr] [Tel Fyr -> Tel Fyr]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^dwemerowa łamigłówka^270248768261842417</key>
+	<val>Genialne posunięcie Sotha Sila. Spotkałem się z podobną mechaniką, gdy wraz z dzielnym poszukiwaczem przygód natknęliśmy się na Mechaniczne Miasto ponad pięćset lat temu. Sądzę, że teraz będzie o wiele bardziej przydatna.</val>
+	<!--
+	Glossary: [Sotha Sil -> Sotha Sil ACTI^in_sotha_sil00] [Stumble -> Niepewny Krok SPEL^stumble]
+	Hyperlinks 1: [Clockwork City -> Mechaniczne Miasto] [Sotha Sil -> Sotha Sil]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^dwemerowa łamigłówka^3457260781916122747</key>
+	<val>Jaka łamigłówka? Nie widzę żadnej łamigłówki.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^dwemerowa łamigłówka^61629832115527804</key>
+	<val>Wspaniale, %PCName, łamigłówka jest twoja. Czy to nie zabawne, jak często tego typu przedmioty zmieniają właścicieli? Mam nadzieję, że będzie pasowała do twojej kolekcji.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [Hands -> Dłonie]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^dwemerowa łamigłówka^66619379400526890</key>
+	<val>%PCName, czy masz chęć posiadania tego przedmiotu? Jest jedyny w swoim rodzaju, więc zaproponuję uczciwą cenę wynoszącą 500 septimów.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [Hands -> Dłonie]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^dwemerowa łamigłówka^763614445200382534</key>
+	<val>Wymiar kieszonkowy? Fascynujące. To być może dowód na to, że Dwemerowie mogli przemieszczać się pomiedzy wymiarami. Kolejna niewiadoma dotycząca ich zniknięcia.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [Dwemer -> Dwemer] [the Dwemer -> Dwemerowie]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^dwemerowa łamigłówka^771221139179703581</key>
+	<val>Napisy wyryte na pudełku wyglądają na wskazówki służące do sporządzenia dwemerowego klucza, którym można będzie otworzyć pewien zamek w Arkngthand, chociaż wydaje mi się, że ten przedmiot ma więcej do zaoferowania. Mam nadzieję, że będzie pasował do twojej kolekcji. Może ktoś bardziej uczony w sprawach Dwemerów mógłby rzucić na to okiem?</val>
+	<!--
+	Glossary: [Dwemer key -> Dwemerowy klucz MISC^key_trib_dwe00] [Lock -> Zamknięcie SPEL^lock] [Open -> Otworzenie SPEL^open]
+	Hyperlinks 1: [Arkngthand -> Arkngthand] [Dwemer -> Dwemer]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^dwemerowa łamigłówka^78861391923916997</key>
+	<val>Ach, kolejny genialny koncept samego Wynalazcy. To dzieło Sotha Sila, pozwalające na dostęp do wymiaru kieszonkowego, który jest jego najbardziej osobliwym eksperymentem - Mechanicznego Miasta. Doświadczyłem tego już wcześniej, zdaje się, że jakieś tysiąc lat temu. Musisz tylko przesunąć to... a potem jeden palec tutaj... dotknąć tego... i gotowe. Wydaje mi się, że teraz będzie o wiele bardziej przydatne. A ludzie mówią, że Telvanni nie są uczynni. Jeśli spotkasz Sotha Sila, przekaż mu moje pozdrowienia.</val>
+	<!--
+	Glossary: [Pot -> Garniec CONT^pot_01] [Sotha Sil -> Sotha Sil ACTI^in_sotha_sil00]
+	Hyperlinks 1: [Clockwork City -> Mechaniczne Miasto] [Sotha Sil -> Sotha Sil] [need -> potrzeba]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>66619379400526890^Choice "Yes, here you go." 1 "No, not at this time." 2</key>
+	<val>66619379400526890^Choice "Tak, proszę." 1 "Nie, chyba odpuszczę." 2</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>MS_SH_Transport^	MessageBox "Send me to", "Dome of Meditation", "Cancel"</key>
+	<val>MS_SH_Transport^	MessageBox "Wyślij mnie do", "Kopuły Medytacji", "Anuluj"</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen]
+	-->
+</record>
