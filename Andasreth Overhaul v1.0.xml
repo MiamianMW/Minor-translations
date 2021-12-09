@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- Słownik do: Andasreth Stronghold v1.0
+https://www.nexusmods.com/morrowind/mods/46604 -->
+
+<record>
+	<_id>CELL</_id>
+	<key>Andasreth, Stronghold</key>
+	<val>Andasreth, twierdza</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Andasreth, Stronghold Dome</key>
+	<val>Andasreth, twierdza: kopuła</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Andasreth, Stronghold Underground</key>
+	<val>Andasreth, twierdza: podziemia</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^R_contain_corpse1</key>
+	<val>Zwłoki</val>
+	<!--
+	Glossary: [Corpse -> Zwłoki CONT^contain_corpse20]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^key_R_Andasreth</key>
+	<val>Klucz do magazynu w Andasreth</val>
+	<!--
+	Glossary: [Storage Key -> Klucz do magazynu MISC^key_drarayne_thelas]
+	-->
+</record>
