@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- Słownik do: Shrine of Azura v1.0a
+https://www.nexusmods.com/morrowind/mods/48278 -->
+
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^ENDAzura_Guard01</key>
+	<val>Assaban</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^ENDAzura_Guard02</key>
+	<val>Yankalesh</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^ENDAzura_dock01</key>
+	<val>Almosi Saram</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^ENDAzura_pilgrim01</key>
+	<val>Thimson Westere</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^ENDAzura_pilgrim02</key>
+	<val>Teresha Dralor</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^ENDAzura_priest01</key>
+	<val>Raynalya Faram</val>
+	<!--
+	Glossary: [Fara -> Fara NPC_^fara]
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^1328777581886011193</key>
+	<val>Więc to ciebie zwą Nerevaryjczykiem? To zaszczyt spotkać tak zacnego sługę Azury.</val>
+	<!--
+	Glossary: [Nerevarine -> Kult nerevaryjski FACT^Nerevarine]
+	Hyperlinks 1: [Nerevar -> Nerevar] [Nerevarine -> Nerevaryjczyk] [you are the one -> o tobie mówi przepowiednia]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^1641515555273166090</key>
+	<val>Błogosławieństwa Królowej Świtu i Zmierzchu, szlachetny Nerevaryjczyku! Błogosławiona niech będzie ziemia, po której stąpasz! Czy jest cokolwiek, co mogę dla ciebie zrobić?</val>
+	<!--
+	Glossary: [Nerevarine -> Kult nerevaryjski FACT^Nerevarine]
+	Hyperlinks 1: [Nerevar -> Nerevar] [Nerevarine -> Nerevaryjczyk] [blessings -> błogosławieństwa]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^1946930014245205167</key>
+	<val>Witaj, %PCRace. Znajdujesz się w poświęconej kaplicy naszej Pani, Królowej Świtu i Zmierzchu. Mądrze zrobisz, okazując szacunek w Jej przybytku.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [sacred -> święte]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^20197191021638925404</key>
+	<val>Twierdzisz, że Ona się do ciebie odezwała? Jedyna rada, jaką mogę ci dać, to spełnianie wszystkich Jej rozkazów. Przeszkadzanie Raynie uczyniłoby cię nie lepszym od agenta Sheogoratha.</val>
+	<!--
+	Glossary: [Agent -> Agent CLAS^Agent]
+	Hyperlinks 1: [Sheogorath -> Sheogorath]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^2088216350288016746</key>
+	<val>Ten pierścień... Słyszałem opowieści na jego temat. Jeżeli jest prawdziwy, a ty uważasz się za Nereveryjczyka, to musisz udowodnić swą wartość przed plemionami. W przeciwnym razie nie marnowałbym swego czasu na afiszowanie się tak świętym artefaktem.</val>
+	<!--
+	Glossary: [Nerevarine -> Kult nerevaryjski FACT^Nerevarine]
+	Hyperlinks 1: [Nerevar -> Nerevar] [Nerevarine -> Nerevaryjczyk] [ring -> pierścień] [sacred -> święte]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^2158229174219159187</key>
+	<val>Witaj, pielgrzymie. Jeżeli jesteś tutaj, by złożyć wyrazy szacunku Pani Świtu i Zmierzchu, to możesz to zrobić w kaplicy. Jeśli potrzebujesz prowiantu, to znajdę dla ciebie kilka mikstur.</val>
+	<!--
+	Glossary: [Pilgrim -> Pielgrzym CLAS^Pilgrim] [Pot -> Garniec CONT^pot_01] [The Lady -> Dama BSGN^Lady's Favor]
+	Hyperlinks 1: [need -> potrzeba] [potion -> mikstura] [potions -> mikstury]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^2292726992862131654</key>
+	<val>Błogosławieństwa Królowej Świtu i Zmierzchu, szlachetny czempionie! Błogosławiona niech będzie ziemia, po której stąpasz! Czy jest cokolwiek, co mogę dla ciebie zrobić?</val>
+	<!--
+	Glossary: [Champion -> Bohater CLAS^Champion]
+	Hyperlinks 1: [blessings -> błogosławieństwa]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^24553312801147118</key>
+	<val>Witaj, %PCRace. To kaplica poświęcona naszej Azurze. Nawet nie próbuj sprawiać problemów.</val>
+	<!--
+	Glossary: [Star -> Gwiazda NPC_^star]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^254714698171215005</key>
+	<val>Wstydź się, %PCRace. Wykazujesz się odwagą pokazując swą twarz w Jej świętym przybytku po tym wszystkim.</val>
+	<!--
+	Glossary: [Temple -> Świątynia FACT^Temple]
+	Hyperlinks 1: [Temple -> Świątynia] [sacred -> święte]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^291575173240331440</key>
+	<val>Witaj Nerevaryjczyku, czempionie Azury i zbawco Morrowind! Czym mogę ci służyć?</val>
+	<!--
+	Glossary: [Champion -> Bohater CLAS^Champion] [Nerevarine -> Kult nerevaryjski FACT^Nerevarine] [Welcome -> Witamy ACTI^furn_bannerd_welcome_01]
+	Hyperlinks 1: [Morrowind -> Morrowind] [Nerevar -> Nerevar] [Nerevarine -> Nerevaryjczyk]
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^31316157642915527902</key>
+	<val>Witaj! Niech spłynie na ciebie błogosławieństwo Królowej Świtu i Zmierzchu, podróżniku! Jestem tylko skromnym rybakiem na Jej usługach. Przewożę tu zapasy dla kapłanki i odwiedzających ją pielgrzymów. Jeśli chcesz, mogę cię zabrać do któregoś z odwiedzanyh przeze mnie miast.</val>
+	<!--
+	Glossary: [Pilgrim -> Pielgrzym CLAS^Pilgrim] [Priest -> Kapłan CLAS^Priest]
+	Hyperlinks 1: [blessings -> błogosławieństwa]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^31748115172214610824</key>
+	<val>Czy ty również jesteś pielgrzymem, chcącym złożyć hołd Królowej Świtu i Zmierzchu? Ja przybyłem z Cyrodiil, ale nigdy w życiu nie widziałem takich wspaniałych świątyń budowanych na cześć Daedry.</val>
+	<!--
+	Glossary: [Pilgrim -> Pielgrzym CLAS^Pilgrim]
+	Hyperlinks 1: [Cyrodiil -> Cyrodiil] [Daedra -> Daedra] [shrines -> kaplice]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^3256121327865423444</key>
+	<val>Wspaniała robota, pielgrzymie. Zaszczycasz nas swoją sumienną służbą dla naszej Królowej. Udaj się do świątyni po zasłużoną nagrodę.</val>
+	<!--
+	Glossary: [Pilgrim -> Pielgrzym CLAS^Pilgrim]
+	Hyperlinks 1: [present -> prezent] [reward -> nagroda] [work -> praca]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^34641252059227024</key>
+	<val>Witaj, czempionie. Zaszczycasz nas swoją gorliwością wobec naszej Pani.</val>
+	<!--
+	Glossary: [Champion -> Bohater CLAS^Champion] [Welcome -> Witamy ACTI^furn_bannerd_welcome_01]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^6931314342850016955</key>
+	<val>Oddaję ci cześć, odrodzony Nerevarze. Słyszałem, że udało cisię udowodnić swoje prawo do tytułu Nerevaryjczyka przed moim plemieniem. Niech Azura błogosławi cię na twojej drodze.</val>
+	<!--
+	Glossary: [Nerevarine -> Kult nerevaryjski FACT^Nerevarine]
+	Hyperlinks 1: [Nerevar -> Nerevar] [Nerevarine -> Nerevaryjczyk]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^78331109527659270</key>
+	<val>Wstydź się, pielgrzymie. Jeśli nie potrafisz wykonać tak prostego polecenia, nie zasługujesz na Jej pochwałę. Sam musisz donieść Jej o swoich uchybieniach. Zasługujesz na to.</val>
+	<!--
+	Glossary: [Pilgrim -> Pielgrzym CLAS^Pilgrim]
+	Hyperlinks 1: [report -> raport]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^8332359813053904</key>
+	<val>Jestem tu, by złożyć hołd naszej Pani. Jeśli potrzebne są ci usługi, porozmawiaj z kapłanką.</val>
+	<!--
+	Glossary: [Pot -> Garniec CONT^pot_01] [Priest -> Kapłan CLAS^Priest]
+	Hyperlinks 1: [Services -> usługi] [Talk -> porozmawiać] [need -> potrzeba]
+	Hyperlinks 2:
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>NPC_FLAG</_id>
+	<key>ENDAzura_Guard01</key>
+	<val>M</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>NPC_FLAG</_id>
+	<key>ENDAzura_Guard02</key>
+	<val>M</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>NPC_FLAG</_id>
+	<key>ENDAzura_dock01</key>
+	<val>M</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>NPC_FLAG</_id>
+	<key>ENDAzura_pilgrim01</key>
+	<val>M</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>NPC_FLAG</_id>
+	<key>ENDAzura_pilgrim02</key>
+	<val>F</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>NPC_FLAG</_id>
+	<key>ENDAzura_priest01</key>
+	<val>F</val>
+	<!--
+	Glossary:
+	-->
+</record>
