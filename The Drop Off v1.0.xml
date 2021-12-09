@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- Słownik do: The Drop Off v1.5
+https://www.nexusmods.com/morrowind/mods/46827 -->
+
+<record>
+	<_id>FNAM</_id>
+	<key>BOOK^00DR_HlaOadBurdenNote</key>
+	<val>Mikstury brzemienia?</val>
+	<!--
+	Glossary: [Burden -> Brzemię SPEL^burden] [Pot -> Garniec CONT^pot_01]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>BOOK^00DR_HlaOadDangerNote</key>
+	<val>Jaskinie są niestabilne</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>BOOK^00DR_HlaOad_ExcavationNotes</key>
+	<val>Notatka Falvisa odnośnie tunelu</val>
+	<!--
+	Glossary: [Falvis Tunel -> Falvis Tunel NPC_^Falvis Tunel]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>CONT^00DR_HlaOadBarrel</key>
+	<val>Beczka</val>
+	<!--
+	Glossary: [Barrel -> Beczka CONT^barrel_01]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>DOOR^00DR_HlaOad_BlockedShackDoor</key>
+	<val>Drzwi</val>
+	<!--
+	Glossary: [Door -> Drzwi DOOR^ex_dae_door_load_oval]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^00DR_HlaOad_TongGuard</key>
+	<val>Gules Raviro</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 1^1328515225327302116</key>
+	<val>Idź zawracać głowę komu innemu, n'wah.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^usługi^3106740491031930021</key>
+	<val>Jest tu lichwiarz Perien Aurelie i Pallia Ceno, którzy działąją niezależnie, a także Camonna Tong, którzy oferują usługi tylko swoim własnym ludziom. Rozglądaj się za chatą z niebieskimi latarniami, jeśli interesują cię usługi.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [Camonna Tong -> Camonna Tong] [Services -> usługi]
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>TEXT</_id>
+	<key>00DR_HlaOadBurdenNote</key>
+	<val>Skąd się wzięły te wszystkie mikstury brzemienia i dlaczego wszyscy twierdzą, że należą do mnie? Przecież one są bezużyteczne! Nie sprawdzają się nawet w charakterze trucizny, chyyba że twoim celem jest kulawy szczur z kanałów! Nie potrafię zrozumieć, komu potrzebna była cała beczka tej mikstury. Żaden z moich klientów ich nie chce, a zajmują miejsce w magazynie, który tak wspaniałomyślnie otrzymałem. Chciałbym, żeby ten, kto to przyniósł, wziął całą beczkę i wyrzucił ją do morza.<p><p>
+
+- Perien<p></val>
+	<!--
+	Glossary: [Barrel -> Beczka CONT^barrel_01] [Burden -> Brzemię SPEL^burden] [Poison -> Trucizna SPEL^poison] [Pot -> Garniec CONT^pot_01] [Rat -> Szczur CREA^Rat]
+	-->
+</record>
+<record>
+	<_id>TEXT</_id>
+	<key>00DR_HlaOadDangerNote</key>
+	<val>[Większość notatki jest zbyt zniszczona przez wodę, aby ją odczytać, ale możesz rozczytać kilka słów...]<p><p>
+...jaskinie są niestabilne... skały nie chcą, by im przeszkadzano...<p><p>
+...Nie chcę cię urazić, muthsera Tunel, ale to jest...<p><p>
+...może dalej kopać... domaga się... lecz...<p><p>
+...oś spowodował zawalenie...<p><p>
+...towar jest zbyt ce...<p><p>
+...niewolnik u...<p><p></val>
+	<!--
+	Glossary: [Slave -> Niewolnik CLAS^Slave]
+	-->
+</record>
+<record>
+	<_id>TEXT</_id>
+	<key>00DR_HlaOad_ExcavationNotes</key>
+	<val>Stworzenie odpowiedniej bazy operacyjnej pod Hla Oad okazało się wyzwaniem. Jaskinie błotne są bezlitosne i nieustępliwe, a ekipa kopaczy konsekwentnie walczy o osiągnięcie jakichkolwiek postępów. Wykopali północno-zachodni korytarz, a nasze plany zbudowania zagrody dla niewolników najwyraźniej powiodły się. Ta iluzja postępu nie trwała jednak długo, ponieważ korytarz gwałtownie się zawalił, podczas gdy załogi wbijały się głębiej w ziemię. W wyniku tej katastrofy straciliśmy wiele towarów, nie wspominając o ekipie budowlanej.<p>
+Mieliśmy również problemy z korzeniami starych drzew z Gorzkiego Wybrzeża. Nie skutkowało nic, czego użyliśmy – stalowe siekiery, trucizna ani nawet magiczny ogień. Te przeklęte korzenie utrudniają dalszą rozbudowę południowego przejścia. Dopóki nie zdołamy wynająć kompetentnej załogi, obawiam się, że nie będziemy w stanie rozszerzyć naszej działalności poza skromny magazyn, który mamy teraz. Kiedy Ważniak o tym usłyszy, nie będzie zadowolony.<p></val>
+	<!--
+	Glossary: [Hla Oad -> Hla Oad ACTI^Act_banner_Hla_Oad] [King -> Król CLAS^King] [Mage -> Mag CLAS^Mage] [Poison -> Trucizna SPEL^poison] [Slave -> Niewolnik CLAS^Slave] [Steel Axe -> Stalowy topór WEAP^steel axe]
+	-->
+</record>
+<record>
+	<_id>NPC_FLAG</_id>
+	<key>00DR_HlaOad_TongGuard</key>
+	<val>M</val>
+	<!--
+	Glossary:
+	-->
+</record>
