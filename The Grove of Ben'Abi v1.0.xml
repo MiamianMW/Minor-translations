@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- Słownik do: The Grove of Ben'Abi v2.0
+https://www.nexusmods.com/morrowind/mods/46137 -->
+
+
+<record>
+	<_id>CELL</_id>
+	<key>The Grove of Ben'Abi</key>
+	<val>Gaj Ben'Abiego</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^furn_stele_benabi_01</key>
+	<val>Łzy Azury, kazanie I</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^furn_stele_benabi_02</key>
+	<val>Łzy Azury, kazanie II</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^furn_stele_benabi_03</key>
+	<val>Łzy Azury, kazanie III</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^furn_stele_benabi_04</key>
+	<val>Łzy Azury, kazanie IV</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^furn_stele_benabi_05</key>
+	<val>Łzy Azury, kazanie V</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^furn_stele_benabi_06</key>
+	<val>Łzy Azury, kazanie VI</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^furn_stele_benabi_07</key>
+	<val>Łzy Azury, kazanie VII</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^furn_stele_benabi_08</key>
+	<val>Łzy Azury, kazanie VIII</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>BOOK^rem_tears_azura</key>
+	<val>Łzy Azury</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>TEXT</_id>
+	<key>rem_tears_azura</key>
+	<val><DIV ALIGN="CENTER"><FONT COLOR="000000" SIZE="3" FACE="Magic Cards"><BR>
+Łzy Azury<BR><BR>
+<DIV ALIGN="CENTER"><BR><BR>
+Starożytna dunmerska opowieść<BR>
+<BR>
+<BR>
+<BR>
+Gdy Chimerowie zebrali się wokół ogniska, młody Ben'Abi spojrzał ponad górami Popielnych Ziem w kierunku serca Czerwonej Góry. Zbyt wielu jego braci i sióstr zabrała nieszczęsna wyspa Vvardenfell. Zaledwie dzisiejszego poranka dwóch zwiadowców z jego plemienia zostało zaskoczonych przez potworną popielną burzę i udusiło się na jego oczach. Dzień wcześniej jeden z plemiennych uzdrowicieli wyraźnie osłabł i w końcu zmarł. Ben'Abi nie mógł tego dłużej znieść. Postanowił zrobić wszystko, co w jego mocy, by uzdrowić tę ziemię. Z niewielką torbą z zapasami i woreczkiem wypełnionym sadzonkami różnych roślin, z których większość pochodziła z żyźniejszej, kontynentalnej części Resdayn, wyruszył w drogę.<BR>
+<BR>
+Pierwszego dnia Ben'Abi wyruszył w piekielne szczeliny Molag Amur. Próbował zasadzić sadzonki w żyznym wulkanicznym popiele, ostrożnie umieszczając je tak, by nie zostały zniszczone przez wyziewy gorących gazów i ogniste jeziora będące głównym elementem krajobrazu tego regionu. Czekał cierpliwie, ale bez względu na to, jak długo to trwało, sadzonki z dnia na dzień stawały się coraz słabsze, zatrute przez surowe warunki tego miejsca. Nawet te, które nie zostały całkowicie spalone, po prostu nie rosły. Sfrustrowany Ben'Abi kontynuował swoją podróż na północ.<BR>
+<BR>
+Po kilku dniach pieszej wędrówki, gdy jego zapasy były już na wyczerpaniu i z każdym krokiem czuł coraz większe zmęczenie, Ben'Abi dotarł do północnych brzegów Vvardenfell. Po raz kolejny spróbował zasadzić sadzonki na nieurodzajnej ziemi, pielęgnując je starannie. Dni mijały, a Ben'Abi stawał się coraz słabszy, lecz jego duch był wciąż silny, więc kontynuował swą pracę. Ku jego zaskoczeniu, z sadzonek wyrosły małe grzyby, które nie przestawały rosnąć, aż osiągnęły wielkość małych drzew. Ben'Abi nie mógł w to uwierzyć, ale jego sercu obok radości pojawił się strach. Umierał i wiedział, że nie zdoła wrócić do swojego plemienia. Zaledwie kilka dni później Ben'Abi znalazł się na skraju śmierci. Ze łzami w oczach modlił się do Azury, aby zaniosła to odkrycie Chimerom, lecz ona nie wysłuchała jego wołania. Pogrążony w smutku Ben'Abi zamknął oczy i odszedł. Przy jego martwym ciele pojawiła się Pani Świtu i Zmierzchu. Stojąc przed nim, położyła czarną różę na jego uśpionym sercu i zapłakała. Samotna łza dotknęła ziemi, a pod ciałem Ben'Abiego zaczęła wyrastać roślinność wszelkiego rodzaju, która w końcu zawładnęła całą okolicą. Najpierw pojawiła się niewielka plama zieleni, która rozrosła się w niewielki zagajnik, by w końcu zmienić się w gaj. Z czasem wiatry rozniosły nasiona na wybrzeża Vvardenfell, do regionów znanych dziś jako Sheogorad, Wybrzeże Azury i Zatoka Zafirbel, zamieniając skaliste pustkowia w żyzną, nadającą się do zamieszkania ziemię.
+<BR>
+<BR></val>
+	<!--
+	Glossary: [Healer -> Uzdrowiciel CLAS^Healer] [Poison -> Trucizna SPEL^poison] [Scout -> Zwiadowca CLAS^Scout] [The Lady -> Dama BSGN^Lady's Favor] [The Seed -> Ziarno BOOK^BookSkill_Axe3] [Weakness -> Podatność SPEL^weakness] [Weary -> Zmęczony SPEL^weary]
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Benabi_Script_01^MessageBox, "As the Chimer gathered around the campfire, young Ben'Abi looked beyond the sickly mountains of the Ashlands into the heart of Red Mountain. Too many of his brothers and sisters had the broken land of Vvardenfell already claimed. Just this morning two scouts of his tribe had been caught unprepared in a monstrous ash storm and suffocated right before his eyes. The day before, one of the tribe's healers succumbed to weakness and eventually died.", "Ok"</key>
+	<val>Benabi_Script_01^MessageBox, "Gdy Chimerowie zebrali się wokół ogniska, młody Ben'Abi spojrzał ponad górami Popielnych Ziem w kierunku serca Czerwonej Góry. Zbyt wielu jego braci i sióstr zabrała nieszczęsna wyspa Vvardenfell. Zaledwie dzisiejszego poranka dwóch zwiadowców z jego plemienia zostało zaskoczonych przez potworną popielną burzę i udusiło się na jego oczach. Dzień wcześniej jeden z plemiennych uzdrowicieli wyraźnie osłabł i w końcu zmarł.", "Ok"</val>
+	<!--
+	Glossary: [Healer -> Uzdrowiciel CLAS^Healer] [Scout -> Zwiadowca CLAS^Scout] [Weakness -> Podatność SPEL^weakness]
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Benabi_Script_02^MessageBox, "He couldn't bear it anymore. He had to do whatever he could to mend this land. With little more than a small bag of supplies and a pouch filled with seedlings of various flora, most of them procured from the more fertile mainland of Resdayn, he took off.", "Ok"</key>
+	<val>Benabi_Script_02^MessageBox, "Ben'Abi nie mógł tego dłużej znieść. Postanowił zrobić wszystko, co w jego mocy, by uzdrowić tę ziemię. Z niewielką torbą z zapasami i woreczkiem wypełnionym sadzonkami różnych roślin, z których większość pochodziła z żyźniejszej kontynentalnej części Resdayn, wyruszył w drogę.", "Ok"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Benabi_Script_03^MessageBox, "On the first day Ben'Abi took to the infernal rifts of Molag Amur. He tried planting the seedlings in the fertile volcanic ash, carefully placing them as to not get destroyed by the hot gas tunnels or fiery lakes of the region. ", "Ok"</key>
+	<val>Benabi_Script_03^MessageBox, "Pierwszego dnia Ben'Abi wyruszył w piekielne szczeliny Molag Amur. Próbował zasadzić sadzonki w żyznym wulkanicznym popiele, ostrożnie umieszczając je tak, by nie zostały zniszczone przez wyziewy gorących gazów i ogniste jeziora będące głównym elementem krajobrazu tego regionu.", "Ok"</val>
+	<!--
+	Glossary: [The Seed -> Ziarno BOOK^BookSkill_Axe3]
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Benabi_Script_04^MessageBox, "He waited patiently, but no matter how long he waited and tended to the seedlings, growing weaker and more ill by the day, poisoned by the harsh conditions of the land, even those that haven't been burned completely just wouldn't grow. Frustrated, Ben'Abi continued his journey to the north.", "Ok"</key>
+	<val>Benabi_Script_04^MessageBox, "Czekał cierpliwie, ale bez względu na to, jak długo to trwało, sadzonki z dnia na dzień stawały się coraz słabsze, zatrute przez surowe warunki tego miejsca. Nawet te, które nie zostały całkowicie spalone, po prostu nie rosły. Sfrustrowany Ben'Abi kontynuował swoją podróż na północ.", "Ok"</val>
+	<!--
+	Glossary: [Poison -> Trucizna SPEL^poison] [The Seed -> Ziarno BOOK^BookSkill_Axe3]
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Benabi_Script_05^MessageBox, "After several days on foot, his supplies almost used up and feeling more weary with each step, Ben'Abi reached the northern shores of Vvardenfell. Once again Ben'Abi tried to plant the seedlings all across the infertile land, tending to them carefully. Days passed and Ben'Abi grew increasingly weak, but his spirit was still strong and he carried on.", "Ok"</key>
+	<val>Benabi_Script_05^MessageBox, "Po kilku dniach pieszej wędrówki, gdy jego zapasy były już na wyczerpaniu i z każdym krokiem czuł coraz większe zmęczenie, Ben'Abi dotarł do północnych brzegów Vvardenfell. Po raz kolejny spróbował zasadzić sadzonki na nieurodzajnej ziemi, pielęgnując je starannie. Dni mijały, a Ben'Abi stawał się coraz słabszy, ale jego duch był wciąż silny, więc kontynuował swą pracę.", "Ok"</val>
+	<!--
+	Glossary: [The Seed -> Ziarno BOOK^BookSkill_Axe3] [Weary -> Zmęczony SPEL^weary]
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Benabi_Script_06^MessageBox, "Much to his surprise the seedlings eventually grew into small mushrooms and they continued to grow until they reached the size of small trees. Ben'Abi couldn't believe it, but mixed with his joy was a feeling of dread. He was dying and knew that he would not be able to return to his tribe.", "Ok"</key>
+	<val>Benabi_Script_06^MessageBox, "Ku jego zaskoczeniu, z sadzonek wyrosły małe grzyby, które nie przestawały rosnąć, aż osiągnęły wielkość małych drzew. Ben'Abi nie mógł w to uwierzyć, ale jego sercu obok radości pojawił się strach. Umierał i wiedział, że nie zdoła wrócić do swojego plemienia.", "Ok"</val>
+	<!--
+	Glossary: [The Seed -> Ziarno BOOK^BookSkill_Axe3]
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Benabi_Script_07^MessageBox, "Before his lifeless body the Lady of Dawn and Dusk appeared. She stood in front of him, placed a black rose on top of his dormant heart and wept. A lone tear touched the ground and beneath Ben'Abi's body roots and flora began to grow, eventually enveloping the entire surroundings.", "Ok"</key>
+	<val>Benabi_Script_07^MessageBox, "Zaledwie kilka dni później Ben'Abi znalazł się na skraju śmierci. Ze łzami w oczach modlił się do Azury, aby zaniosła to odkrycie Chimerom, lecz ona nie wysłuchała jego wołania. Pogrążony w smutku Ben'Abi zamknął oczy i odszedł. Przy jego martwym ciele pojawiła się Pani Świtu i Zmierzchu. Stojąc przed nim, położyła czarną różę na jego uśpionym sercu i zapłakała. Samotna łza dotknęła ziemi, a pod ciałem Ben'Abiego zaczęła wyrastać roślinność wszelkiego rodzaju, która w końcu zawładnęła całą okolicą.", "Ok"</val>
+	<!--
+	Glossary: [The Lady -> Dama BSGN^Lady's Favor]
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Benabi_Script_08^MessageBox, "They grew into a small, lively patch of flora, then a copse and eventually an entire grove. Over time the winds carried the seeds to the shores of Vvardenfell, to the regions nowadays known as Sheogorad, the Azura's Coast and the Zafirbel Bay, turning the rocky wastes into fertile, habitable land.", "Ok"</key>
+	<val>Benabi_Script_08^MessageBox, "Najpierw pojawiła się niewielka plama zieleni, która rozrosła się w niewielki zagajnik, by w końcu zmienić się w gaj. Z czasem wiatry rozniosły nasiona na wybrzeża Vvardenfell, do regionów znanych dziś jako Sheogorad, Wybrzeże Azury i Zatoka Zafirbel, zamieniając skaliste pustkowia w żyzną, nadającą się do zamieszkania ziemię.", "Ok"</val>
+	<!--
+	Glossary: [The Seed -> Ziarno BOOK^BookSkill_Axe3]
+	-->
+</record>
