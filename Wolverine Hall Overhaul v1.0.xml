@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- Słownik do: Wolverine Hall Overhaul v1.1
+https://www.nexusmods.com/morrowind/mods/46672 -->
+
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Wolverine Hall: Legion Barracks</key>
+	<val>Sadrith Mora, Dom Rosomaka: koszary Legionu</val>
+	<!--
+	Glossary: [Sadrith Mora -> Sadrith Mora ACTI^Act_banner_Sadrith_Mora]
+	-->
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Wolverine Hall: Legion Jail</key>
+	<val>Sadrith Mora, Dom Rosomaka: więzienie Legionu</val>
+	<!--
+	Glossary: [Sadrith Mora -> Sadrith Mora ACTI^Act_banner_Sadrith_Mora]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^mort_Geldan</key>
+	<val>Geldan</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^mort_Hasariah</key>
+	<val>Hasariah</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>NPC_^mort_Tragfelor</key>
+	<val>Tragfelor</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 7^1512568291992417045</key>
+	<val>Jestem niewinny, przysięgam! Spacerowałem sobie spokojnie, zajmowałem się własnymi sprawami, kiedy zakrwawiony nóż wpadł prosto do mojej kieszeni. Musisz mi uwierzyć!</val>
+	<!--
+	Glossary: [Knife -> Nóż MISC^misc_com_wood_knife]
+	Hyperlinks 1: [business -> interes]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 7^22269269817242900</key>
+	<val>Chyba po raz pierwszy widzisz kapitana, który jest Altmerem. Ale kto inny wpasowałby się do miasta Telvannich?</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [Altmer -> Altmerowie]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>NPC_FLAG</_id>
+	<key>mort_Geldan</key>
+	<val>M</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>NPC_FLAG</_id>
+	<key>mort_Hasariah</key>
+	<val>F</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>NPC_FLAG</_id>
+	<key>mort_Tragfelor</key>
+	<val>M</val>
+	<!--
+	Glossary:
+	-->
+</record>
