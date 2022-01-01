@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- Słownik do: Brevur of Balmora - Finally Some Good Statue Mod v1.1
+https://www.nexusmods.com/morrowind/mods/47557 -->
+
+<record>
+	<_id>DIAL</_id>
+	<key>Hlaalu Brevur</key>
+	<val>Hlaalu Brevur</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>ACTI^R0_StatueBrevurPlaque_act</key>
+	<val>Tablica pamiątkowa</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Hlaalu Brevur^117776104288066709</key>
+	<val>Hlaalu Brevur, choć nie jest świętym Świątyni, jest czczony przez Ród Hlaalu i uważany za patrona Balmory, zwłaszcza w ostatnich latach. Być może zdarzyło ci się minąć jego posąg w Wysokim Mieście? Noszący sygil Hlaalu i z odłamkiem szkła w czole? Z tego, co mi wiadomo, zaczął go nosić pod koniec życia, by uczcić pamięć towarzyszy, których stracił na morzu. Imię Brevur jest również często łączone z królami Morrowind i klanem Ra'athim.</val>
+	<!--
+	Glossary: [Balmora -> Balmora ACTI^active_sign_balmora_01] [House Hlaalu -> Ród Hlaalu ACTI^MR_Sign_Balmora] [King -> Król CLAS^King] [Shard -> Odłamek SPEL^shard] [Temple -> Świątynia FACT^Temple]
+	Hyperlinks 1: [Balmora -> Balmora] [House Hlaalu -> Ród Hlaalu] [Morrowind -> Morrowind] [Temple -> Świątynia] [glass -> szklany] [patron -> opiekun]
+	Hyperlinks 2: [Hlaalu Brevur]
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Hlaalu Brevur^2074832145155831210</key>
+	<val>Hlaalu Brevur był starożytnym przywódcą Rodu Hlaalu i to od niego wywodzi się królewska dynastia Morrowind, co czyni go niezwykle ważną postacią w historii Rodu. Mówi się, że był mistrzem żeglarstwa, dzięki czemu powiększył bogactwo Hlaalu poprzez handel morski. Wioska Seyda Neen na Gorzkim Wybrzeżu otrzymała nazwę po jego okręcie flagowym.</val>
+	<!--
+	Glossary: [House Hlaalu -> Ród Hlaalu ACTI^MR_Sign_Balmora] [Royal Blood -> Królewska Krew SPEL^Royal_Blood] [Seyda Neen -> Seyda Neen ACTI^Act_banner_Seyda_Neen]
+	Hyperlinks 1: [Bitter Coast -> Gorzkie Wybrzeże] [House Hlaalu -> Ród Hlaalu] [Morrowind -> Morrowind] [Seyda Neen -> Seyda Neen]
+	Hyperlinks 2: [Hlaalu Brevur]
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Hlaalu Brevur^21139215052920331172</key>
+	<val>Hlaalu Brevur był starożytnym przywódcą Rodu Hlaalu i jednym z założycieli królewskiej dynastii Morrowind, co czyni go niezwykle ważną postacią w historii Rodu. Mówi się, że był mistrzem żeglarstwa, dzięki czemu powiększył bogactwo Hlaalu poprzez handel morski. Wioska Seyda Neen na Gorzkim Wybrzeżu otrzymała nazwę po jego okręcie flagowym.</val>
+	<!--
+	Glossary: [House Hlaalu -> Ród Hlaalu ACTI^MR_Sign_Balmora] [Royal Blood -> Królewska Krew SPEL^Royal_Blood] [Seyda Neen -> Seyda Neen ACTI^Act_banner_Seyda_Neen]
+	Hyperlinks 1: [Bitter Coast -> Gorzkie Wybrzeże] [House Hlaalu -> Ród Hlaalu] [Morrowind -> Morrowind] [Seyda Neen -> Seyda Neen]
+	Hyperlinks 2: [Hlaalu Brevur]
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Hlaalu Brevur^220561020086566908</key>
+	<val>Serjo Hlaalu Brevur jest starożytnym bohaterem naszego czcigodnego Rodu, który przyniósł nam bogactwo i dobrobyt poprzez swoje śmiałe i pełne przygód wyczyny, szczególnie na morzu. Jedna z legend o nim mówi, że we wczesnych dniach Trójcy, niech będą błogosławione ich imiona, Serjo Brevur i jego flotylla zostali wysłani na wschodnie morza na rozkaz świętego, aby zobaczyć "Oblicze Velotha".</val>
+	<!--
+	Glossary: [Sen -> Sen NPC_^sen]
+	Hyperlinks 1: [Tribunal -> Trójca]
+	Hyperlinks 2: [Hlaalu Brevur]
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Hlaalu Brevur^2958199151168315914</key>
+	<val>Ach, bez wątpienia chodzi ci o rzeźbę na zewnątrz. Tak, to wizerunek Serjo Hlaalu Brevura, od którego bezpośrednio wywodzi się królewska dynastia Morrowind, w tym oczywiście nasz obecny władca, król Hlaalu Helseth. Jego poprzednik, król Athyn Llethan, rozkazał stworzenie posągu w 414 roku, aby upamiętnić otwarcie Vvardenfell na kolonizację.</val>
+	<!--
+	Glossary: [King -> Król CLAS^King] [King Hlaalu Helseth -> Król Helseth z Rodu Hlaalu NPC_^King Hlaalu Helseth] [Open -> Otworzenie SPEL^open]
+	Hyperlinks 1: [Athyn Llethan -> Athyn Llethan] [Helseth -> Helseth] [Morrowind -> Morrowind] [Vvardenfell -> Vvardenfell]
+	Hyperlinks 2: [Hlaalu Brevur]
+	Speaker: F
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Hlaalu Brevur^296542297234952918</key>
+	<val>Nie mam pojęcia, kim on jest. Ale wygląda no to, że to ktoś ważny.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Hlaalu Brevur^308460081209426202</key>
+	<val>Jednak wkrótce po wypłynięciu flota została zniszczona przez nienaturalny sztorm i rozbiła się u wybrzeży Vvardenfell. Ocalali marynarze zbudowali z kadłubów i szczątków okrętów latarnię morską, aby ich towarzysze mogli odnaleźć drogę powrotną. Miejsce, w którym stanęła latarnia, nadal nosi nazwę okrętu flagowego Serjo Brevura, Seyda Neen, a przedmioty z tamtych czasów pozostają cennymi artefaktami dla członków naszego Rodu.</val>
+	<!--
+	Glossary: [Hul -> Hul NPC_^hul] [Light -> Światło SPEL^light] [Seyda Neen -> Seyda Neen ACTI^Act_banner_Seyda_Neen]
+	Hyperlinks 1: [Seyda Neen -> Seyda Neen] [Vvardenfell -> Vvardenfell]
+	Hyperlinks 2:
+	Speaker: 
+	-->
+</record>
+<record>
+	<_id>BNAM</_id>
+	<key>220561020086566908^Choice "Continue" 1</key>
+	<val>220561020086566908^Choice "Dalej" 1</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>R0_StatueBrevurPlaque_act_scr^	MessageBox "Sovereign Ancestor Serjo Hlaalu Brevur||Commissioned by Hlaalu House Council|In Year 414 of The Third Era|By request of His Majesty|King Hlaalu Athyn Llethan||May We Forever Seek The Seyda Neen", "OK"	</key>
+	<val>R0_StatueBrevurPlaque_act_scr^	MessageBox "Suwerenny przodek Serjo Hlaalu Brevur||Zleceniodawca: Rada Rodu Hlaalu|W roku 414 Trzeciej Ery|Z rozkazu Jego Wysokości|Króla Hlaalu Athyna Llethana||Obyśmy wiecznie wypatrywali Seyda Neen", "OK"	</val>
+	<!--
+	Glossary: [King -> Król CLAS^King] [Seyda Neen -> Seyda Neen ACTI^Act_banner_Seyda_Neen]
+	-->
+</record>
