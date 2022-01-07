@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- Słownik do: Andasreth Stronghold v1.0
+https://www.nexusmods.com/morrowind/mods/46604 -->
+
+<record>
+	<_id>DIAL</_id>
+	<key>Art</key>
+	<val>sztuka</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Dag1-10x13</key>
+	<val>"Bez tytułu"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Dag1-15x10</key>
+	<val>"Bez tytułu"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Dag2-10x13</key>
+	<val>"Bez tytułu"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Dag2-15x10</key>
+	<val>"Bez tytułu"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Frame-10x10</key>
+	<val>"Uczeń marnotrawny"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Frame-10x12</key>
+	<val>"Portret Hlarena Nerano"</val>
+	<!--
+	Glossary: [Hlar -> Hlar NPC_^hlar]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Frame-10x13</key>
+	<val>"Słodsza rozkosz"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Frame-12x10</key>
+	<val>"Wypoczynek szlachty Hlaalu"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Frame-15x10</key>
+	<val>"Mnich i jego ogar"</val>
+	<!--
+	Glossary: [Monk -> Mnich CLAS^Monk]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Frame-17x10</key>
+	<val>"Łazik o świcie"</val>
+	<!--
+	Glossary: [Silt Strider -> Łazik ACTI^a_siltstrider]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Frame2-10x13</key>
+	<val>"Portret Galena Hlaalu"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Frame2-15x10</key>
+	<val>"Pustelnik"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Frame2-17x10</key>
+	<val>"Na Bazarze"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Frame3-10x13</key>
+	<val>"Portret księcia Vedama Drena"</val>
+	<!--
+	Glossary: [Duke Vedam Dren -> Książe Vedam Dren NPC_^Vedam Dren]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Frame3-17x10</key>
+	<val>"Pogrzeb"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Frame4-10x13</key>
+	<val>"Rycerz Cesarskiego Smoka"</val>
+	<!--
+	Glossary: [Imperial -> Cesarski RACE^Imperial] [Knight -> Rycerz CLAS^Knight]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Frame4-17x10</key>
+	<val>"Ciężkie chwile"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Frame5-10x13</key>
+	<val>"Siła tworzy prawo"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Frame5-17x10</key>
+	<val>"Szaleństwo młodości"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Frame6-10x13</key>
+	<val>"Nowoczesny Dunmer"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Frame7-10x13</key>
+	<val>"Portret Tholera Saryoniego"</val>
+	<!--
+	Glossary: [Tholer Saryoni -> Tholer Saryoni NPC_^tholer saryoni]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Frame8-10x13</key>
+	<val>"Zapasy mnichów"</val>
+	<!--
+	Glossary: [Monk -> Mnich CLAS^Monk]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Frame9-10x13</key>
+	<val>"Dysydenci kapłaństwa"</val>
+	<!--
+	Glossary: [Priest -> Kapłan CLAS^Priest]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Red-10x12</key>
+	<val>"Uśpiona Czerwona Góra"</val>
+	<!--
+	Glossary: [Sleep -> Sen SPEL^sleep]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Red0-10x13</key>
+	<val>"Kaplica Dumy"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Red1-10x13</key>
+	<val>"Malur Redoran, 2E 584"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Red11-10x13</key>
+	<val>"Taren Omothan"</val>
+	<!--
+	Glossary: [Taren Omothan -> Taren Omothan NPC_^taren omothan]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Red12-10x13</key>
+	<val>"Dobroczynność"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Red13-10x13</key>
+	<val>"Polowanie"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Red2-10x13</key>
+	<val>"Cylben Ren, 2E 897"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Red3-10x13</key>
+	<val>"Aron Devani, 3E 121"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Red4-10x13</key>
+	<val>"Vendin Omellian, 3E 317"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Red5-10x13</key>
+	<val>"Bolvyn Venim, 3E 410"</val>
+	<!--
+	Glossary: [Bolvyn Venim -> Bolvyn Venim NPC_^bolvyn venim]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Red6-10x13</key>
+	<val>"Ekskomunika"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Red7-10x13</key>
+	<val>"Żołnierze Rodu Redoran"</val>
+	<!--
+	Glossary: [House Redoran -> Ród Redoran ACTI^furn_redoran_flag_01_out]
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Red8-10x13</key>
+	<val>"Wspólnota"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>FNAM</_id>
+	<key>MISC^VD_Red9-10x13</key>
+	<val>"Augur"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^4222236912373614085</key>
+	<val>Miło mi cię poznać, %PCName. Powiedz, co sądzisz o portretach wiszących w komnatach Rady? Wyglądasz na kogoś, kto ma oko do sztuki [sztuka].</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2: [Art]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>G^Greeting 5^5481062523844733</key>
+	<val>Każda możliwość oderwania się od tej papierkowej roboty jest mile widziana, %PCName. Czy udało ci się natrafić na jakieś dzieła sztuki [sztuka] w czasie swoich podróży?</val>
+	<!--
+	Glossary: [Distraction -> Odwrócenie Uwagi SPEL^distraction] [paper -> Papier BOOK^sc_paper plain]
+	Hyperlinks 1:
+	Hyperlinks 2: [Art]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^sztuka^37883013682022000</key>
+	<val>W porównaniu z Cyrodiil, w Morrowind nie znajdziesz wielu obrazów olejnych. Grawerowanie i tkanie gobelinów jest głównym sposobem artystycznego wyrazu Dunmerów. Jednak najbogatsi Hlaalu przyjęli cesarską modę i zamówili kilka efektownych portretów. A siedziba Rady Rodu Redoran w Ald'ruhn może pochwalić się prawdopodobnie największą kolekcją dzieł sztuki na wyspie.</val>
+	<!--
+	Glossary: [Ald-ruhn -> Ald'ruhn ACTI^active_sign_ald-ruhn_01] [Imperial -> Cesarski RACE^Imperial] [Rat -> Szczur CREA^Rat]
+	Hyperlinks 1: [Cyrodiil -> Cyrodiil] [Dunmer -> Dunmerowie] [Imperial -> Cesarski] [Morrowind -> Morrowind] [rat -> szczur]
+	Hyperlinks 2: [Art]
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Camonna Tong^2171285781150330100</key>
+	<val>Zgniótłbym ich jak pędraki, gdybym tylko mógł. Ale książę niechętnie występuje otwarcie przeciwko swemu bratu. Nie tylko dlatego, że Orvas Dren ma w kieszeni wielu szlachciców Hlaalu, ale wśród dumnych Dunmerów istnieje pewna sympatia dla Camonna Tong. Książę nie może sobie pozwolić na to, by wyglądać jak piesek na posyłki cesarza. I kto wie, może odrobina miłości powstrzymuje go od podpisania nakazu aresztowania lub egzekucji.</val>
+	<!--
+	Glossary: [Camonna Tong -> Camonna Tong FACT^Camonna Tong] [Noble -> osoba szlachetnie urodzona CLAS^Noble] [Open -> Otworzenie SPEL^open] [Orvas Dren -> Orvas Dren NPC_^Orvas Dren Druglord] [Scrib -> Pędrak CREA^scrib] [Sign -> Znak ACTI^active_sign_c_pawn_01]
+	Hyperlinks 1: [Camonna Tong -> Camonna Tong] [Dunmer -> Dunmerowie] [Orvas Dren -> Orvas Dren] [Writ -> Wyrok] [scrib -> pędrak]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Cesarski^308634245134323162</key>
+	<val>Jako Cesarski na Vvardenfell nie mogę wtopić się w tłum, do czego kiedyś byłem przyzwyczajony. Zamiast tego jestem zmuszony polegać na zaufanych informatorach, aby zdobyć potrzebną mi wiedzę i być o krok przed moimi wrogami.</val>
+	<!--
+	Glossary: [Imperial -> Cesarski RACE^Imperial] [Pot -> Garniec CONT^pot_01]
+	Hyperlinks 1: [Imperial -> Cesarski] [Vvardenfell -> Vvardenfell] [need -> potrzeba]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Ebonheart^20509286291931916860</key>
+	<val>Niezdobyta forteca, to pewne. Jesteśmy całkiem bezpieczni od wszelkich form bezpośredniego ataku. Obawiam się raczej subtelniejszych zagrożeń - kielich zatrutego wina, zdrajca przy stole, cień na korytarzu, ambasadorzy z ich fałszywymi uśmiechami. Tutaj w Ebonheart nie ma czegoś takiego, jak bycie zbyt ostrożnym.</val>
+	<!--
+	Glossary: [Ebonheart -> Ebonheart ACTI^active_sign_ebonheart_01] [Goblet -> Puchar MISC^misc_com_metal_goblet_01] [Guar -> Guar CREA^guar] [Guard -> Strażnik NPC_^BM_Imperial Guard] [Poison -> Trucizna SPEL^poison] [Table -> Stół ACTI^a_furn_de_table_8] [The Shadow -> Cień BSGN^Moonshadow Sign]
+	Hyperlinks 1: [Ebonheart -> Ebonheart] [guar -> guar] [guard -> straż]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Ebonheart^300107708311799194</key>
+	<val>Bezpieczna forteca, będąca świadectwem potęgi Cesarstwa.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [Empire -> Cesarstwo] [the Empire -> Cesarstwo Tamriel]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Legion Cesarski^17680202782956728918</key>
+	<val>Rycerzu Cesarskiego Smoka, to dla mnie zaszczyt. Jako urzędnika Ebonheart, cesarz poprosił o udostępnienie ci mojej siatki informatorów. Będę cię informował o wszelkich spiskach przeciwko tobie lub interesom Legionu.</val>
+	<!--
+	Glossary: [Ebonheart -> Ebonheart ACTI^active_sign_ebonheart_01] [Imperial -> Cesarski RACE^Imperial] [Knight -> Rycerz CLAS^Knight]
+	Hyperlinks 1: [Ebonheart -> Ebonheart] [Imperial -> Cesarski] [plot -> spisek]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Legion Cesarski^7563257562987623517</key>
+	<val>Obserwujemy twoje postępy z wielkim zainteresowaniem, %PCRank. Służ dalej cesarzowi i jego prawu.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [law -> prawo]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Uriel Septim^32016308891342627641</key>
+	<val>Zapewne doszły do ciebie pogłoski o wieku i słabym zdrowiu cesarza. Niewdzięczna koloviańska szlachta krąży już wokół niego niczym sępy nad padliną. Jak szybko ci młodzieńcy zapominają o długu, który mają wobec takich wielkich ludzi jak on! Jeśli jest jakaś tradycja, którą szanuję u Dunmerów, to jest nią należyta cześć dla przodków. Sam przeżyłem ponad pięćdziesiąt zim, ale biada temu wrogowi, który sądzi, że wiek przytępił moje instynkty.</val>
+	<!--
+	Glossary: [Noble -> osoba szlachetnie urodzona CLAS^Noble] [Woe -> Krzywda SPEL^woe]
+	Hyperlinks 1: [Dunmer -> Dunmerowie] [ancestors -> przodkowie] [health -> zdrowie]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^Vedam Dren^212424674144216104</key>
+	<val>Dźwiga brzemię okupacji z wdziękiem i godnością. Osobiście mam głęboki szacunek dla tego człowieka. Jednak nasze sprzeczne interesy sprawiają, że zbyt często uciekamy się do okrutnych słów i pochopnych gróźb, co nie przystoi cywilizowanym ludziom.</val>
+	<!--
+	Glossary: [Burden -> Brzemię SPEL^burden]
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^coś o sobie^126468178105748</key>
+	<val>Wierz lub nie, ale w młodości byłem aktorem. W Królewskiej Trupie Teatralnej grałem najróżniejsze role. Czarującego bohatera, intrygującego dworzanina, bezwzględnego złoczyńcę - wszystkie z równym upodobaniem. Te umiejętności dobrze mi służyły, gdy awansowałem na dworze cesarza, i nadal dobrze mi służą.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1: [serve me -> służyć mi] [theater troupe -> trupa aktorska]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^dobra rada^277124807555028593</key>
+	<val>Moja rada dla ciebie jest taka, żebyś nie marnował czasu cesarskiego urzędnika. Mam nadzieję, że to wszystko?</val>
+	<!--
+	Glossary: [Imperial -> Cesarski RACE^Imperial]
+	Hyperlinks 1: [Imperial -> Cesarski]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^dobra rada^8181244382024021433</key>
+	<val>Telvanni, mimo wszystkich kłopotów, jakie mi sprawiają, mają rację w jednym - wiedza daje władzę. Jednak tam, gdzie oni ograniczają się do zwykłej wiedzy magicznej, ja mówię o samej naturze człowieka. Znajdź szkielety w jego przeszłości, zdejmij maskę, którą zakłada publicznie, odkryj, czego najbardziej pragnie jego serce, a będziesz miał prawdziwą władzę nad tym człowiekiem.</val>
+	<!--
+	Glossary: [Skeleton -> Szkielet CREA^dead_skeleton]
+	Hyperlinks 1: [skeleton -> szkielet]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^informacje o Morrowind^65463022430832215</key>
+	<val>Czy słyszałeś kiedyś historię o Elvulu Redgardzie? Nazywano go pajęczym złodziejem, ponieważ był tak zwinny, że mógł przeskoczyć każdą ścianę i prześlizgnąć się przez każde okno. Nosił czarną jedwabną rękawicę, która oślepiała każdego strażnika na tyle pechowego, by stanąć mu na drodze. Ale Elvul spotkał swój koniec, gdy próbował oszukać swojego patrona - szlachcica, któremu służył i który chronił go przez wiele lat. Ostatnią rzeczą, jaką pajęczy złodziej zobaczył, był czarny jedwab pokrywający jego oczy. A przynajmniej tak głosi historia.</val>
+	<!--
+	Glossary: [Blind -> Oślepienie SPEL^blind] [Noble -> osoba szlachetnie urodzona CLAS^Noble] [Redguard -> Redgard RACE^Redguard] [Thief -> Złodziej CLAS^Thief]
+	Hyperlinks 1: [Redguard -> Redgardowie] [patron -> opiekun]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^konkretne miejsce^13338239953092022846</key>
+	<val>Mój umysł jest tutaj, w Ebonheart, ale moje serce zostało skradzione dawno temu przez iglice z kości słoniowej i wyrafinowaną kulturę Cesarskiego Miasta. Pewnego dnia powrócę i spędzę ostatnie lata, pielęgnując pałacowe ogrody, degustując najlepsze roczniki z winnicy Tamiki i patrząc, jak moje wnuki rosną grube i wesołe dzięki dobrobytowi Cesarstwa.</val>
+	<!--
+	Glossary: [Ebonheart -> Ebonheart ACTI^active_sign_ebonheart_01] [Imperial -> Cesarski RACE^Imperial]
+	Hyperlinks 1: [Ebonheart -> Ebonheart] [Empire -> Cesarstwo] [Imperial -> Cesarski] [fines -> grzywny] [the Empire -> Cesarstwo Tamriel]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^mały sekret^272850902533224206</key>
+	<val>Moim zadaniem jest poznanie wszystkich sekretów tego zamku. Pilnuję też, by sekretami pozostały.</val>
+	<!--
+	Glossary:
+	Hyperlinks 1:
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^mój zawód^1450515006241839478</key>
+	<val>Jestem cesarskim urzędnikiem w Ebonheart. Pewnie zdajesz sobie sprawę, że jestem zajętym człowiekiem, więc jeśli mi wybaczysz...</val>
+	<!--
+	Glossary: [Ebonheart -> Ebonheart ACTI^active_sign_ebonheart_01] [Imperial -> Cesarski RACE^Imperial]
+	Hyperlinks 1: [Ebonheart -> Ebonheart] [Imperial -> Cesarski] [busy -> zajęta]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^mój zawód^28176250991902111982</key>
+	<val>Jako cesarski urzędnik mam prawo rozstrzygać spory prawne między Wielkimi Rodami, a czasem interweniować bezpośrednio w sprawy dunmerskiej szlachty, jeśli zagraża ona interesom cesarza. Moim obowiązkiem jest informowanie cesarza o stanie tutejszych spraw - i dbanie o to, by sprawy państwowe były zawsze przyjemne dla jego królewskiego ucha.</val>
+	<!--
+	Glossary: [Imperial -> Cesarski RACE^Imperial]
+	Hyperlinks 1: [Dunmer -> Dunmerowie] [Empire -> Cesarstwo] [Great Houses -> Wielkie Rody] [Imperial -> Cesarski] [author -> autor] [duty -> obowiązek] [report -> raport] [the Empire -> Cesarstwo Tamriel]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^mój zawód^3269111519845117203</key>
+	<val>Jestem cesarskim urzędnikiem w Ebonheart. Zajmuję się egzekwowaniem prawa i praktycznymi aspektami administracji, reprezentując jednocześnie interesy cesarza w Radzie.</val>
+	<!--
+	Glossary: [Ebonheart -> Ebonheart ACTI^active_sign_ebonheart_01] [Imperial -> Cesarski RACE^Imperial]
+	Hyperlinks 1: [Ebonheart -> Ebonheart] [Imperial -> Cesarski] [law -> prawo]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>INFO</_id>
+	<key>T^najnowsze plotki^18720283961817929066</key>
+	<val>W tym zamku szerzą się plotki i oszczerstwa. Moim zadaniem jest znaleźć ziarna prawdy w zalewu bzdur przekazywanym przez moich informatorów, a następnie przekazanie tych prawd mojemu cesarzowi.</val>
+	<!--
+	Glossary: [Muck -> Łajno INGR^ingred_muck_01]
+	Hyperlinks 1: [muck -> łajno] [report -> raport]
+	Hyperlinks 2:
+	Speaker: M
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Pek_Dracus_SCT^			MessageBox "I cant make this object bigger. Sorry."</key>
+	<val>Pek_Dracus_SCT^			MessageBox "Ten obiekt nie może być już większy. Przykro mi."</val>
+	<!--
+	Glossary: [Sor -> Sor NPC_^sor]
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Pek_Dracus_SCT^			MessageBox "I cant make this object smaller. Sorry."</key>
+	<val>Pek_Dracus_SCT^			MessageBox "Ten obiekt nie może być już mniejszy. Przykro mi."</val>
+	<!--
+	Glossary: [Sor -> Sor NPC_^sor]
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Pek_Dracus_SCT^			messagebox "X=Off, Y=Off, Z=Off"</key>
+	<val>Pek_Dracus_SCT^			messagebox "X=Wył, Y=Wył, Z=Wył"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Pek_Dracus_SCT^			messagebox "X=Off, Y=Off, Z=On"</key>
+	<val>Pek_Dracus_SCT^			messagebox "X=Wył, Y=Wył, Z=Wł"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Pek_Dracus_SCT^			messagebox "X=Off, Y=On, Z=Off"</key>
+	<val>Pek_Dracus_SCT^			messagebox "X=Wył, Y=Wł, Z=Wył"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Pek_Dracus_SCT^			messagebox "X=Off, Y=On, Z=On"</key>
+	<val>Pek_Dracus_SCT^			messagebox "X=Wył, Y=Wł, Z=Wł"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Pek_Dracus_SCT^			messagebox "X=On, Y=Off, Z=Off"</key>
+	<val>Pek_Dracus_SCT^			messagebox "X=Wł, Y=Wył, Z=Wył"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Pek_Dracus_SCT^			messagebox "X=On, Y=Off, Z=On"</key>
+	<val>Pek_Dracus_SCT^			messagebox "X=Wł, Y=Wył, Z=Wł"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Pek_Dracus_SCT^			messagebox "X=On, Y=On, Z=Off"</key>
+	<val>Pek_Dracus_SCT^			messagebox "X=Wł, Y=Wł, Z=Wył"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Pek_Dracus_SCT^			messagebox "X=On, Y=On, Z=On"</key>
+	<val>Pek_Dracus_SCT^			messagebox "X=Wł, Y=Wł, Z=Wł"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Pek_Dracus_SCT^	MessageBox "Main Menu", "Take", "Rotate", "Position", "Scale", "Realltime Rotation on/off", "Realltime Rotation Setup", "Done"</key>
+	<val>Pek_Dracus_SCT^	MessageBox "Główne menu", "Weź", "Obróć", "Pozycjonuj", "Skaluj", "Obrót w czasie rzeczywistym wł/wył", "Ustawienia obrotu w czasie rzeczywistym", "Zrobione"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Pek_Dracus_SCT^	MessageBox "Position Menu (Increment = %g)", increments, "Change Increment", "+X", "-X", "+Y", "-Y", "+Z", "-Z", "Restore", "Back"</key>
+	<val>Pek_Dracus_SCT^	MessageBox "Menu pozycjonowania (Przyrost = %g)", increments, "Zmień przyrost", "+X", "-X", "+Y", "-Y", "+Z", "-Z", "Przywróć", "Wróć"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Pek_Dracus_SCT^	MessageBox "Real Time Rotation Setup", "Toggle Vertical (X) Rotation", "Toggle Vertical (Y) Rotation", "Toggle Horizontal (Z) Rotation", "back"</key>
+	<val>Pek_Dracus_SCT^	MessageBox "Ustawienia obrotu w czasie rzeczywistym", "Przełączanie obrotu pionowego (X)", "Przełączanie obrotu pionowego (Y)", "Przełączanie obrotu poziomego (Z)", "Wróć"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Pek_Dracus_SCT^	MessageBox "Rotation Menu (Increment = %g)", AngleIncrements, "Change Increment", "Rotate X", "Rotate Y", "Roatate Z", "Reset to 0", "Restore", "Back"</key>
+	<val>Pek_Dracus_SCT^	MessageBox "Menu obracania (Przyrost = %g)", AngleIncrements, "Zmień przyrost"", "Obróć X", "Obróć Y", "Obróć Z", "Resetuj do 0", "Przywróć", "Wróć"</val>
+	<!--
+	Glossary:
+	-->
+</record>
+<record>
+	<_id>SCTX</_id>
+	<key>Pek_Dracus_SCT^	MessageBox "Set Scale Menu (Increment = %0f)", ScaleIncrements, "Change Increments", "Bigger", "Smaller", "Restore", "Back"</key>
+	<val>Pek_Dracus_SCT^	MessageBox "Menu skalowania (Przyrost = %0f)", ScaleIncrements, "Zmień przyrost", "Zwiększ", "Zmniejsz", "Przywróć", "Wróć"</val>
+	<!--
+	Glossary:
+	-->
+</record>
